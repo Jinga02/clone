@@ -8,6 +8,7 @@ import reportWebVitals from "./reportWebVitals";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import Error from "./pages/Error";
 import Videos from "./pages/Videos";
+import DetailVideo from "./pages/DetailVideo";
 
 const router = createBrowserRouter([
   {
@@ -18,7 +19,7 @@ const router = createBrowserRouter([
       { index: true, element: <Videos /> },
       { path: "videos", element: <Videos /> },
       { path: "videos/:keyword", element: <Videos /> },
-      { path: "videos/detail/:videoId", element: <Videos /> },
+      { path: "detail/:videoId", element: <DetailVideo /> },
     ],
   },
 ]);
@@ -27,7 +28,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <RouterProvider router={router} />
-  </React.StrictMode>
+  </React.StrictMode>,
 );
 
 // If you want to start measuring performance in your app, pass a function
