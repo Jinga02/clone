@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "eRcAoar1T_2Eibd_KNuyHsQXiPo",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yyeS62p7Xzqs8pqaY1h-9B75pPo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eJZcKzAYYVI"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-11T15:38:54Z",
+        "channelId": "UChMPakXQHBhahtCQA6QQmxg",
+        "title": "Hibbett | City Gear Now Offers Free Shipping! (15s)",
+        "description": "This holiday season get free shipping when you shop Hibbett | City Gear online!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eJZcKzAYYVI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eJZcKzAYYVI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eJZcKzAYYVI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hibbett Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-11T15:38:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JJCqlkD-_Od2-6kDXs4E59mNWEE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8WX6YL9JnLw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-25T12:44:28Z",
+        "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+        "title": "GB News Live: Watch GB News 24/7",
+        "description": "Keep up to date with the latest news at https://www.gbnews.com Twitter: https://twitter.com/GBNEWS Facebook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8WX6YL9JnLw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8WX6YL9JnLw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8WX6YL9JnLw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GBNews",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-12-25T12:44:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o2COlAfojB5zbyr8pHlIuTbBBQo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LwJ2s0Bacu8"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-25T11:39:15Z",
+        "channelId": "UCtX85DMU0spTUmlASGKNbIA",
+        "title": "Soul music when your soul is like smoke | Relaxing soul songs playlist 2024",
+        "description": "Soul music when your soul is like smoke | Relaxing soul songs playlist 2024 #soulmusic #relaxingsoulmusic #bestsoul #chillsoul ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LwJ2s0Bacu8/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LwJ2s0Bacu8/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LwJ2s0Bacu8/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RnB Soul Rhythm",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-25T11:39:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xy8GcB15g9cM7BnXrwzD5D0GXbg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B-HbdQuHrRw"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-22T03:03:20Z",
+        "channelId": "UCeuXd6PLk_t2WGIhPMvkUSA",
+        "title": "Tool Items!😍New Viral Gadgets, Smart Appliances, Kitchen Utensils/Home Inventions #shorts #gadgets",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B-HbdQuHrRw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B-HbdQuHrRw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B-HbdQuHrRw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tool Items",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-22T03:03:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4-QwaSBvpRWT3TQ2p96hn-Kh69k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ik2XaTmKukw"
+      },
+      "snippet": {
+        "publishedAt": "2013-06-19T01:39:10Z",
+        "channelId": "UCwTkXpRaXzPzKmsgUdXkb2A",
+        "title": "오페라의 유령 25주년 기념 라이브 공연",
+        "description": "860년 파리 오페라 하우스. 새로운 극단주 앙드레와 피르맹, 그리고 후원자인 라울 백작은 '한니발' 리허설을 감상하는 가운데 갑자기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ik2XaTmKukw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ik2XaTmKukw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ik2XaTmKukw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-06-19T01:39:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DWggex43PY13vNcRQ62We3otJE0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VC335NT0WY0"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-16T17:00:16Z",
+        "channelId": "UC4rlAVgAK0SGk-yTfe48Qpw",
+        "title": "35+ Twisted Riddles Will Take Your Breath Away",
+        "description": "Can you tell if a person is lying to you? Well, in this set of tricky detective riddles you'll meet plenty of characters who aren't telling ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VC335NT0WY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VC335NT0WY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VC335NT0WY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BRIGHT SIDE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-16T17:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wc7nF6GEizZEhoUjEzIdCG0flXM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UYWIip7K_Uw"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-04T19:04:44Z",
+        "channelId": "UCja3KvshI_GvYMf9XjIwF4g",
+        "title": "WORLD RECORD!!! Cornhole (team of two)",
+        "description": "Setting a new world record in Cornhole for bags in the hole by a team of two in one minute. Trickshot, trick shots, that'll work.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UYWIip7K_Uw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UYWIip7K_Uw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UYWIip7K_Uw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "That'll Work",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-04T19:04:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7sCnnYSsvltWIYXdbI6sqCJ4TWc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GP0B_JWFPvM"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-14T15:00:06Z",
+        "channelId": "UCphTF9wHwhCt-BzIq-s4V-g",
+        "title": "What If You Didn&#39;t Blink for a Week?",
+        "description": "Welcome to the longest staring contest of your life. You're about to go seven days without blinking. What device would keep your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GP0B_JWFPvM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GP0B_JWFPvM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GP0B_JWFPvM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "What If",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-14T15:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oiedPU-6htFlB_Py1teMniUtAT8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RmYqPTjzqi0"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-30T06:58:18Z",
+        "channelId": "UCEgtFHO_5ZXhzu0eYjowHHQ",
+        "title": "코코 (자막판)",
+        "description": "음악을 싫어하는 가족들의 반대에도 불구하고 뮤지션을 꿈꾸는 소년 미구엘은 전설적인 가수 에르네스토 델라크루즈의 기타에 손을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RmYqPTjzqi0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RmYqPTjzqi0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RmYqPTjzqi0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-30T06:58:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YxwCqKsyo_17DU6qd2WJXyy4h-o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jCSADOjvgz8"
+      },
+      "snippet": {
+        "publishedAt": "2014-07-19T08:01:26Z",
+        "channelId": "UC2lm36exeRNco0HcguJvGVQ",
+        "title": "레볼루셔너리 로드",
+        "description": "아카데미상®에 노미네이트된 레오나르도 디카프리오와 아카데미상® 수상자 케이트 윈슬렛, 두 강력한 스타가 리처드 예이츠의 동명 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jCSADOjvgz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jCSADOjvgz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jCSADOjvgz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-07-19T08:01:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aNAQ2fSUrGADHOcRAtl_doZ0DCw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3yZBQbyV0Io"
+      },
+      "snippet": {
+        "publishedAt": "2014-02-09T14:13:17Z",
+        "channelId": "UCzZqYRwFNBxlqg1vhXEdNPw",
+        "title": "슈퍼맨 2",
+        "description": "테러리스트들이 파리의 에펠탑을 점거하고 관광객을 인질로 하여 프랑스 정부에게 자기들의 요구를 들어주지 않으면 수소폭탄을 터 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3yZBQbyV0Io/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3yZBQbyV0Io/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3yZBQbyV0Io/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-02-09T14:13:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_3TefWxbRIW1-aQLxA0kg-wo2JU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0S1p67juAgY"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-26T21:05:00Z",
+        "channelId": "UCwWhs_6x42TyRM4Wstoq8HA",
+        "title": "Another week, another Jon Stewart Monday. See you tonight at 11/10c on Comedy Central!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0S1p67juAgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0S1p67juAgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0S1p67juAgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Daily Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-26T21:05:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d3Mqd1hUCb2i0VvgnPMTgjKKd48",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oOC3nNS2b_c"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-27T10:00:37Z",
+        "channelId": "UCVTyTA7-g9nopHeHbeuvpRA",
+        "title": "Cyber Experts Claim Russia Has Already Started Spreading 2024 Election Misinformation",
+        "description": "Seth addresses Trump forgetting his wife's name, German lawmakers voting to decriminalize possession of marijuana and more ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oOC3nNS2b_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oOC3nNS2b_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oOC3nNS2b_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Late Night with Seth Meyers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-27T10:00:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j1mJPn-QV1F2b3M9OwJRbghazH4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DBAq7IKVM7E"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-25T15:00:02Z",
+        "channelId": "UCLp-7tZnhq9b0BljKXfTJkA",
+        "title": "하우 투 비 싱글",
+        "description": "싱글이 되는 방법에는 옳은 방법과 틀린 방법이 있습니다. 그리고 앨리스, 로 빈, 루시, 멕, 톰과 데이빗이 있습니다. 뉴욕에는 자신의 짝 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DBAq7IKVM7E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DBAq7IKVM7E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DBAq7IKVM7E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-05-25T15:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bTG0oCgOLH6OoItFt9r0PL9S0vQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kBHAgoFNZZo"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-20T04:00:10Z",
+        "channelId": "UC4rlAVgAK0SGk-yTfe48Qpw",
+        "title": "18 Riddles You&#39;ll Crack Instantly If You&#39;re Paying Attention",
+        "description": "Riddles and puzzles with answers - that's what you need to train your brain. Here's a collection of 18 riddles that'll help you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kBHAgoFNZZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kBHAgoFNZZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kBHAgoFNZZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BRIGHT SIDE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-20T04:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y5-CVfeOImcH8bEMh4ZyoaDTerg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YQrQ_X3VPsk"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-26T11:30:25Z",
+        "channelId": "UCs-QBT4qkj_YiQw1ZntDO3g",
+        "title": "나의 발걸음은 매 순간 history🖋️#EASYStepsChallenge #HeroSteps #LE_SSERAFIM#KIMCHAEWON #MakeItLookEasy#shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YQrQ_X3VPsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YQrQ_X3VPsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YQrQ_X3VPsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LE SSERAFIM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-26T11:30:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "psSuqazSxUVOSnKrvrq_A4_Z7f4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LjAjeEdJ3c4"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-27T12:00:17Z",
+        "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+        "title": "The &#39;Biden body bags&#39; are building up every day: Sen. Ted Cruz",
+        "description": "Sen. Ted Cruz, R-Texas, discusses the destruction that President Biden's border policies have created on 'Hannity.' Subscribe to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LjAjeEdJ3c4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LjAjeEdJ3c4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LjAjeEdJ3c4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fox News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-27T12:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MdGGpw2NhqPaKOz-kEMMJcK9yZg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D2wibFUsEic"
+      },
+      "snippet": {
+        "publishedAt": "2013-03-21T04:12:53Z",
+        "channelId": "UC97-Nh_jq9jn0GhghL1KjAw",
+        "title": "레미제라블",
+        "description": "'레미제라블'은 19세기 프랑스를 배경으로 깨어진 꿈, 짝사랑, 열정, 희생, 구원 등 인간 영혼의 생존에 대한 시간을 초월한 증거에 관해 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D2wibFUsEic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D2wibFUsEic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D2wibFUsEic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-03-21T04:12:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qVLoNuIHvNsCqGCD-9USw5aVjOk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y7WZTEz3UAs"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-06T15:01:37Z",
+        "channelId": "UCTxBdQ7W4OmNLJCJd-gh8-Q",
+        "title": "제임스 브라운",
+        "description": "아카데미 시상식에서 네 개 부문 후보에 오른 '헬프'의 후속작. 테이트 타일러 감독, 42의 채드윅 보스만 주연. 소울의 아버지 제임스 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y7WZTEz3UAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y7WZTEz3UAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y7WZTEz3UAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-05-06T15:01:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u1dYhjEYfK8Kk4UXrQzU8cd2vFs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uLMtdMSABzw"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-22T15:00:01Z",
+        "channelId": "UCT0hfQ2KgczVJ7arzjTUSTA",
+        "title": "인디펜던스 데이: 리써전스 (자막판)",
+        "description": "다시, 그들이 온다! 20년 전 최악의 우주 전쟁을 치른 지구. 재건을 위해 힘쓴 전세계는 다시 한번 있을 외계의 침공에 대비한다. 반드시 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uLMtdMSABzw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uLMtdMSABzw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uLMtdMSABzw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-22T15:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2EodwQtAd7S_ZqxIvrXNc_s72Ag",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xNOjtfKLAH0"
+      },
+      "snippet": {
+        "publishedAt": "2015-04-15T17:52:01Z",
+        "channelId": "UCeIWpPQgnB5-F97VL0XvMRQ",
+        "title": "아메리칸 스나이퍼",
+        "description": "미국 해군 특수부대 소속의 크리스 카일은 전우들을 보호하라는 오직 한가지 임무를 띄고 이라크로 파병되었습니다. 그는 한 치의 오차 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xNOjtfKLAH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xNOjtfKLAH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xNOjtfKLAH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-04-15T17:52:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fiLL04I_kaU7jV0HMmQSBQ_ER9g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W4xPGwbSOnw"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-27T22:55:15Z",
+        "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
+        "title": "Trump voters tell NBC Reporter that ‘Russia is not our enemy’",
+        "description": "Vaughn Hillyard, NBC News Correspondent joins Nicolle Wallace to discuss meeting with Trump voters who have started to echo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W4xPGwbSOnw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W4xPGwbSOnw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W4xPGwbSOnw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MSNBC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-27T22:55:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t2rVbpAk2jXN5zxUpXydmCebT7k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qz5mSVu7nfg"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-27T20:15:00Z",
+        "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+        "title": "Hamas responds to Biden&#39;s hostage deal claim",
+        "description": "Fox News contributor Mike Pompeo joined 'America's Newsroom' to discuss the latest on the Iranian nuclear program and a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qz5mSVu7nfg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qz5mSVu7nfg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qz5mSVu7nfg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fox News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-27T20:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X8C1A6VIrUOUUURYVLtO5QUXZV8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tK1-Y0d3kBQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-27T13:00:46Z",
+        "channelId": "UCJZam2u1G0syq3kyqrCXrNw",
+        "title": "21 Illegal Base Defenses in Minecraft!",
+        "description": "SUBSCRIBE - http://preston.gg/subscribeplayz FIRE MERCH - http://www.firemerch.com/ DOWNLOAD APP ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tK1-Y0d3kBQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tK1-Y0d3kBQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tK1-Y0d3kBQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PrestonPlayz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-27T13:00:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D32EBuLf8lHZ-qnrJni8zArYRVM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CbLmV7aTw2A"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-23T15:00:02Z",
+        "channelId": "UCoIg8nOtelIqR7tOajooE1w",
+        "title": "미라클 프롬 헤븐",
+        "description": "사랑하는 남편, 세 딸과 함께 평화로운 나날을 보내던 '크리스티'. 둘째 딸 '애나'가 원인을 알 수 없는 불치병에 걸리게 되면서 가족은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CbLmV7aTw2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CbLmV7aTw2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CbLmV7aTw2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-23T15:00:02Z"
+      }
+    }
+  ]
+}
