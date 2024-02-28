@@ -4,12 +4,13 @@ import React from "react";
 import { useParams } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
 import VideoCard from "../componets/VideoCard";
-import Youtube from "../api/youtube";
-import FakeYoutube from "../api/fakeYoutube";
+// import Youtube from "../api/youtube";
+// import FakeYoutube from "../api/fakeYoutube";
+import { useYoutubeApi } from "../context/YoutubeApiContext";
 
 export default function Videos() {
   const { keyword } = useParams();
-
+  const { youtube } = useYoutubeApi();
   // api 폴더로 정리
   // const queryFn = async () => {
   // return
@@ -28,10 +29,13 @@ export default function Videos() {
     data: videos,
   } = useQuery({
     queryKey: ["videos", keyword],
-    queryFn: () => {
-      const youtube = new FakeYoutube();
-      return youtube.search(keyword);
-    },
+    queryFn: () => youtube.search(keyword),
+    // 아래처럼 노출 시킬 필요 없이 context-api를 사용하자
+    // 호출할 때 마다 매번 인스턴스 생성하는것도 비효율적
+    // {
+    // const youtube = new FakeYoutube();
+    // return youtube.search(keyword);
+    // },
   });
 
   return (
