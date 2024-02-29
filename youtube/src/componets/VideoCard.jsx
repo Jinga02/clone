@@ -4,18 +4,21 @@ import React from "react";
 import { formatAgo } from "../util/date";
 import { useNavigate } from "react-router-dom";
 
-export default function VideoCard({ video }) {
+export default function VideoCard({ video, type }) {
   const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
   const navigate = useNavigate();
+  const isList = type === "list";
   return (
-    <li>
+    <li
+      className={isList ? "flex" : ""}
+      onClick={() => {
+        navigate(`/detail/${video.id}`, { state: { video } });
+      }}
+    >
       <img
-        className="w-full"
+        className={isList ? "w-60 m-3" : "w-full"}
         src={thumbnails.medium.url}
         alt={title}
-        onClick={() => {
-          navigate(`/detail/${video.id}`, { state: { video } });
-        }}
       />
       <div>
         {/* npm install -D @tailwindcss/line-clamp

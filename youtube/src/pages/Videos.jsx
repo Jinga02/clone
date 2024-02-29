@@ -30,6 +30,7 @@ export default function Videos() {
   } = useQuery({
     queryKey: ["videos", keyword],
     queryFn: () => youtube.search(keyword),
+    staleTime: 1000 * 60,
     // 아래처럼 노출 시킬 필요 없이 context-api를 사용하자
     // 호출할 때 마다 매번 인스턴스 생성하는것도 비효율적
     // {
