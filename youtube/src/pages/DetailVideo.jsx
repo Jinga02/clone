@@ -18,7 +18,7 @@ export default function DetailVideo() {
           id="player"
           type="text/html"
           width="100%"
-          height="100%"
+          height="15%"
           src={`http://www.youtube.com/embed/${video.id}`}
         ></iframe>
         <div className="p-8">
@@ -27,7 +27,7 @@ export default function DetailVideo() {
           <pre className="whitespace-pre-wrap">{description}</pre>
         </div>
       </article>
-      <section className="basis-2/6">
+      <section className="basis-2/6 ">
         <RelatedVideos id={video.id} />
       </section>
     </section>
