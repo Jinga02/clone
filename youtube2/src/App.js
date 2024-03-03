@@ -1,9 +1,10 @@
 import { Outlet } from "react-router-dom";
+import SearchBar from "./components/SearchBar";
 
 function App() {
   return (
     <>
-      dd
+      <SearchBar />
       <Outlet />
     </>
   );
