@@ -27,9 +27,9 @@ export default function DetailVideo() {
           <pre className="whitespace-pre-wrap">{description}</pre>
         </div>
       </article>
-      <section className="basis-2/6 ">
+      <aside className="basis-2/6 ">
         <RelatedVideos id={video.id} />
-      </section>
+      </aside>
     </section>
   );
 }

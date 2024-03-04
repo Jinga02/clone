@@ -7,13 +7,17 @@ import { useNavigate } from "react-router-dom";
 
 // register("ko", koLocale);
 
-export default function VideoCard({ prop }) {
+export default function VideoCard({ prop, type }) {
   const navigate = useNavigate();
   const video = prop.snippet;
+  const id = prop.id.videoId ? prop.id.videoId : prop.id;
+
+  console.log(type);
   return (
     <li
+      className={type ? "p-2 cursor-pointer" : null}
       onClick={() => {
-        navigate(`/detail/${prop.id.videoId ? prop.id.videoId : prop.id}`, {
+        navigate(`/detail/${id}`, {
           state: { prop },
         });
       }}
@@ -23,7 +27,6 @@ export default function VideoCard({ prop }) {
         src={video.thumbnails.default.url}
         alt="영상 썸네일"
       />
-      {/* <div className="flex flex-col items-center justify-center"> */}
       <div>
         <p className="font-semibold my-2 line-clamp-2">{video.title}</p>
         <p className="text-sm opacity-80">{video.channelTitle}</p>

@@ -3,26 +3,25 @@
 import React from "react";
 import { useLocation } from "react-router-dom";
 import ChannelInfo from "./../components/ChannelInfo";
+import RelatedVideo from "../components/RelatedVideo";
 
 export default function DetailPage() {
   const {
     state: { prop },
   } = useLocation();
+  const id = prop.id.videoId ? prop.id.videoId : prop.id;
 
-  console.log(prop);
   const { title, description } = prop.snippet;
   return (
-    <section>
-      <article>
+    <section className="flex">
+      <article className="basis-4/6">
         <iframe
           id="player"
           type="text/html"
           width="100%"
-          height="15%"
+          height="500px"
           allowFullScreen={true}
-          src={`http://www.youtube.com/embed/${
-            prop.id.videoId ? prop.id.videoId : prop.id
-          }`}
+          src={`http://www.youtube.com/embed/${id}`}
         ></iframe>
         <div>
           <h2>{title}</h2>
@@ -30,6 +29,9 @@ export default function DetailPage() {
           <pre className="whitespace-pre-wrap">{description}</pre>
         </div>
       </article>
+      <aside className="basis-2/6">
+        <RelatedVideo id={id} />
+      </aside>
     </section>
   );
 }
