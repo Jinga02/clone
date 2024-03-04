@@ -4,6 +4,9 @@ import React, { useEffect, useState } from "react";
 import { FaYoutube } from "react-icons/fa";
 import { FaSearch } from "react-icons/fa";
 import { useNavigate, useParams } from "react-router-dom";
+import { Link } from "react-router-dom";
+import { FaRegSun } from "react-icons/fa";
+import { FaRegMoon } from "react-icons/fa";
 
 export default function SearchBar() {
   const navigate = useNavigate();
@@ -12,6 +15,9 @@ export default function SearchBar() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    if (text === "") {
+      return alert("검색어를 입력해주세요!");
+    }
     navigate(`search/${text}`);
   };
 
@@ -21,28 +27,27 @@ export default function SearchBar() {
 
   return (
     <header className="w-full flex p-4 text-2xl border-b boder-zinc-600 mb-4">
-      <button
-        className="flex"
-        onClick={() => {
-          navigate("/");
-        }}
-      >
-        <FaYoutube />
-        <h1>youtube</h1>
-      </button>
-      <form className="" onSubmit={handleSubmit}>
+      <Link to={"/"} className="flex items-center">
+        <FaYoutube className="text-4xl text-red-500" />
+        <h1 className="font-bold ml-3 text-3xl">youtube</h1>
+      </Link>
+      <form className="w-full flex ml-20" onSubmit={handleSubmit}>
         <input
           type="text"
+          className="w-7/12 bg-gray-100 p-2 px-5"
           placeholder="search..."
           onChange={(e) => {
             setText(e.target.value);
           }}
           value={text}
         />
-        <button>
+        <button className="bg-gray-300 p-3 text-gray-600">
           <FaSearch />
         </button>
       </form>
+      <button className="mr-3">
+        <FaRegSun />
+      </button>
     </header>
   );
 }

@@ -12,10 +12,9 @@ export default function VideoCard({ prop, type }) {
   const video = prop.snippet;
   const id = prop.id.videoId ? prop.id.videoId : prop.id;
 
-  console.log(type);
   return (
     <li
-      className={type ? "p-2 cursor-pointer" : null}
+      className={type ? " p-4 cursor-pointer" : "cursor-pointer"}
       onClick={() => {
         navigate(`/detail/${id}`, {
           state: { prop },

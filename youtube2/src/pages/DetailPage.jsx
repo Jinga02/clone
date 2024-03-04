@@ -14,7 +14,7 @@ export default function DetailPage() {
   const { title, description } = prop.snippet;
   return (
     <section className="flex">
-      <article className="basis-4/6">
+      <article className="basis-4/6 p-1">
         <iframe
           id="player"
           type="text/html"
@@ -23,7 +23,7 @@ export default function DetailPage() {
           allowFullScreen={true}
           src={`http://www.youtube.com/embed/${id}`}
         ></iframe>
-        <div>
+        <div className="p-4">
           <h2>{title}</h2>
           <ChannelInfo />
           <pre className="whitespace-pre-wrap">{description}</pre>
