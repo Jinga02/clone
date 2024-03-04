@@ -8,6 +8,7 @@ export default function DetailPage() {
   const {
     state: { prop },
   } = useLocation();
+
   console.log(prop);
   const { title, description } = prop.snippet;
   return (
@@ -18,9 +19,10 @@ export default function DetailPage() {
           type="text/html"
           width="100%"
           height="15%"
-          // allow="autoplay"
-          allowfullscreen="true"
-          src={`http://www.youtube.com/embed/${prop.id}`}
+          allowFullScreen={true}
+          src={`http://www.youtube.com/embed/${
+            prop.id.videoId ? prop.id.videoId : prop.id
+          }`}
         ></iframe>
         <div>
           <h2>{title}</h2>

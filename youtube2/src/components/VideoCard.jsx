@@ -10,11 +10,12 @@ import { useNavigate } from "react-router-dom";
 export default function VideoCard({ prop }) {
   const navigate = useNavigate();
   const video = prop.snippet;
-
   return (
     <li
       onClick={() => {
-        navigate(`/detail/${prop.id}`, { state: { prop } });
+        navigate(`/detail/${prop.id.videoId ? prop.id.videoId : prop.id}`, {
+          state: { prop },
+        });
       }}
     >
       <img
