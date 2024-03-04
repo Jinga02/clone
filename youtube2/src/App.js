@@ -1,11 +1,16 @@
+/** @format */
+
 import { Outlet } from "react-router-dom";
 import SearchBar from "./components/SearchBar";
+import YoutubeApiProvider from "./context/YoutubeContextApi";
 
 function App() {
   return (
     <>
       <SearchBar />
-      <Outlet />
+      <YoutubeApiProvider>
+        <Outlet />
+      </YoutubeApiProvider>
     </>
   );
 }
