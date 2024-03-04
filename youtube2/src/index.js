@@ -1,5 +1,8 @@
+/** @format */
+
 import React from "react";
-import ReactDOM from "react-dom/client";
+import { createRoot } from "react-dom/client";
+import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
@@ -18,27 +21,27 @@ const router = createBrowserRouter([
         index: true,
         element: <MainPage />,
       },
+      // {
+      //   path: "main",
+      //   element: <MainPage />,
+      // },
       {
-        path: "main",
+        path: "/:keyword",
         element: <MainPage />,
       },
       {
-        path: "main/:keyword",
-        element: <MainPage />,
-      },
-      {
-        path: "main/detail/:videoId",
+        path: "detail/:videoId",
         element: <DetailPage />,
       },
     ],
   },
 ]);
 
-const root = ReactDOM.createRoot(document.getElementById("root"));
+const root = createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <RouterProvider router={router} />
-  </React.StrictMode>,
+  </React.StrictMode>
 );
 
 reportWebVitals();

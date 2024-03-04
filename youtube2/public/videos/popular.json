@@ -1,0 +1,1546 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "5YmYBf1Fp0dPrEemzImH2g8SMBo",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "TuRWghztOX0GUdLJx7PEp7ditLA",
+            "id": "kTbXqSKj_MU",
+            "snippet": {
+                "publishedAt": "2024-02-27T18:57:39Z",
+                "channelId": "UC0VVYtw21rg2cokUystu2Dw",
+                "title": "I beat Pokemon's Hardest Challenge (Kaizo Ironmon)",
+                "description": "After 1786 Attempts I beat Pokemon FireRed Kaizo Ironmon.\n\nYou should watch me live on Twitch:\nhttps://twitch.tv/Smallant\n\n▶Discord: https://discord.gg/Smallant\n▶Twitter: https://twitter.com/Smallant\n▶Reddit: https://reddit.com/r/Smallant\n▶TikTok: https://tiktok.com/@Smallant\n\nEdited by: Cosmizog\nThumbnail art: @Lycel \n\n#SmallAnt #pokemon #challenge",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kTbXqSKj_MU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kTbXqSKj_MU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kTbXqSKj_MU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kTbXqSKj_MU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kTbXqSKj_MU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SmallAnt",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "I beat Pokemon's Hardest Challenge (Kaizo Ironmon)",
+                    "description": "After 1786 Attempts I beat Pokemon FireRed Kaizo Ironmon.\n\nYou should watch me live on Twitch:\nhttps://twitch.tv/Smallant\n\n▶Discord: https://discord.gg/Smallant\n▶Twitter: https://twitter.com/Smallant\n▶Reddit: https://reddit.com/r/Smallant\n▶TikTok: https://tiktok.com/@Smallant\n\nEdited by: Cosmizog\nThumbnail art: @Lycel \n\n#SmallAnt #pokemon #challenge"
+                },
+                "defaultAudioLanguage": "en-CA"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "6Cv1Ib1mAnoa8oLvJWyliMGVZiE",
+            "id": "A5w-dEgIU1M",
+            "snippet": {
+                "publishedAt": "2024-02-27T15:46:59Z",
+                "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
+                "title": "The Trillion Dollar Equation",
+                "description": "The most famous equation in finance, the Black-Scholes/Merton equation, came from physics. It launched an industry worth trillions of dollars and led to the world’s best investments. Go to https://www.eightsleep.com/veritasium and use the code Veritasium for $200 off your Pod Cover.\n\nIf you’re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV\n\n▀▀▀\n\nA huge thank you to Prof. Andrew Lo (MIT) for speaking with us and helping with the script.\n\nWe would also like to thank the following:\nProf. Amanda Turner (University of Leeds)\nOwen Maher (Electrify Video Partners)\n\n▀▀▀\nReferences:\n\nThe Man Who Solved the Market: How Jim Simons launched the quant revolution, Gregory Zuckerman. Penguin Publishing Group. - https://ve42.co/GZuckerman\n\nThe Physics of Finance: Predicting the Unpredictable: Can Science Beat the Market? James Owen Weatherall. Short Books. - https://ve42.co/FinancePhysics\n\nThe Statistical Mechanics of Financial Markets, J.Voigt. Springer. - https://ve42.co/Springer\n\nBlack, F., & Scholes, M. (1973). The pricing of options and corporate liabilities. Journal of political economy, 81(3), 637-654. - https://ve42.co/BlackScholes\n\nCornell, B. (2020). Medallion fund: The ultimate counterexample?. The Journal of Portfolio Management, 46(4), 156-159. - https://ve42.co/Medallion\n\nImages & Video:\nEd Thorp on The Tim Ferris Show - https://www.youtube.com/watch?v=CNvz91Jyzbg\nJim Simons on TED - https://www.youtube.com/watch?v=U5kIdtMJGc8\nJim Simons on Numberphile - https://www.youtube.com/watch?v=QNznD9hMEh0\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAdam Foreman, Anton Ragin, Balkrishna Heroor, Bill Linder, Blake Byers, Burt Humburg, Chris Harper, Dave Kircher, David Johnston, Diffbot, Evgeny Skvortsov, Garrett Mueller, Gnare, I.H., John H. Austin, Jr. ,john kiehl, Josh Hibschman, Juan Benet, KeyWestr, Lee Redden, Marinus Kuivenhoven, Max Paladino, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Stephen Wilcox, Tj Steyn, TTST, Ubiquity Ventures\n\n\n▀▀▀\n\n\nDirected by Will Wood and Derek Muller\nWritten by Will Wood, Emily Zhang, Petr Lebedev and Derek Muller\nCamera operation by Raquel Nuno\nAdditional research by Gregor Čavlović\nEdited by Jack Saxon and Trenton Oliver\nAnimated by Fabio Albertio, Jakub Misiek, Ivy Tello, David Szakaly and Will Wood\nProduced by Will Wood, Han Evans and Derek Muller\n\nThumbnail by Ren Hurley\nAdditional video/photos supplied by Getty Images and Pond5 \nMusic from Epidemic Sound",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A5w-dEgIU1M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A5w-dEgIU1M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A5w-dEgIU1M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/A5w-dEgIU1M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/A5w-dEgIU1M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Veritasium",
+                "tags": [
+                    "veritasium",
+                    "science",
+                    "physics"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "The Trillion Dollar Equation",
+                    "description": "The most famous equation in finance, the Black-Scholes/Merton equation, came from physics. It launched an industry worth trillions of dollars and led to the world’s best investments. Go to https://www.eightsleep.com/veritasium and use the code Veritasium for $200 off your Pod Cover.\n\nIf you’re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV\n\n▀▀▀\n\nA huge thank you to Prof. Andrew Lo (MIT) for speaking with us and helping with the script.\n\nWe would also like to thank the following:\nProf. Amanda Turner (University of Leeds)\nOwen Maher (Electrify Video Partners)\n\n▀▀▀\nReferences:\n\nThe Man Who Solved the Market: How Jim Simons launched the quant revolution, Gregory Zuckerman. Penguin Publishing Group. - https://ve42.co/GZuckerman\n\nThe Physics of Finance: Predicting the Unpredictable: Can Science Beat the Market? James Owen Weatherall. Short Books. - https://ve42.co/FinancePhysics\n\nThe Statistical Mechanics of Financial Markets, J.Voigt. Springer. - https://ve42.co/Springer\n\nBlack, F., & Scholes, M. (1973). The pricing of options and corporate liabilities. Journal of political economy, 81(3), 637-654. - https://ve42.co/BlackScholes\n\nCornell, B. (2020). Medallion fund: The ultimate counterexample?. The Journal of Portfolio Management, 46(4), 156-159. - https://ve42.co/Medallion\n\nImages & Video:\nEd Thorp on The Tim Ferris Show - https://www.youtube.com/watch?v=CNvz91Jyzbg\nJim Simons on TED - https://www.youtube.com/watch?v=U5kIdtMJGc8\nJim Simons on Numberphile - https://www.youtube.com/watch?v=QNznD9hMEh0\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAdam Foreman, Anton Ragin, Balkrishna Heroor, Bill Linder, Blake Byers, Burt Humburg, Chris Harper, Dave Kircher, David Johnston, Diffbot, Evgeny Skvortsov, Garrett Mueller, Gnare, I.H., John H. Austin, Jr. ,john kiehl, Josh Hibschman, Juan Benet, KeyWestr, Lee Redden, Marinus Kuivenhoven, Max Paladino, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Stephen Wilcox, Tj Steyn, TTST, Ubiquity Ventures\n\n\n▀▀▀\n\n\nDirected by Will Wood and Derek Muller\nWritten by Will Wood, Emily Zhang, Petr Lebedev and Derek Muller\nCamera operation by Raquel Nuno\nAdditional research by Gregor Čavlović\nEdited by Jack Saxon and Trenton Oliver\nAnimated by Fabio Albertio, Jakub Misiek, Ivy Tello, David Szakaly and Will Wood\nProduced by Will Wood, Han Evans and Derek Muller\n\nThumbnail by Ren Hurley\nAdditional video/photos supplied by Getty Images and Pond5 \nMusic from Epidemic Sound"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "YfCQkp-wlIyr6-B4e_rDjo4qot8",
+            "id": "TNl7YxERV_8",
+            "snippet": {
+                "publishedAt": "2024-02-27T14:00:09Z",
+                "channelId": "UCR1r4GPUBvdI0EJBpxKYPQQ",
+                "title": "Pokémon Presents | 2.27.2024",
+                "description": "Happy Pokémon Day, Trainers! \n\nThe latest Pokémon Presents is here! 🥳\n\n Tune in at 10:00PM SGT to view exciting Pokémon news in celebration of Pokémon Day 2024!\n\n©2024 Pokémon. ©1995-2024 Nintendo/Creatures Inc./GAME FREAK inc.\nPokémon and Nintendo Switch are trademarks of Nintendo.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TNl7YxERV_8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TNl7YxERV_8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TNl7YxERV_8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TNl7YxERV_8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TNl7YxERV_8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Pokémon Asia ENG",
+                "tags": [
+                    "pokemon presents",
+                    "pokemon",
+                    "Pokémon"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Pokémon Presents | 2.27.2024",
+                    "description": "Happy Pokémon Day, Trainers! \n\nThe latest Pokémon Presents is here! 🥳\n\n Tune in at 10:00PM SGT to view exciting Pokémon news in celebration of Pokémon Day 2024!\n\n©2024 Pokémon. ©1995-2024 Nintendo/Creatures Inc./GAME FREAK inc.\nPokémon and Nintendo Switch are trademarks of Nintendo."
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "B8PUPfndBPII8VinH20X9M-yq2s",
+            "id": "isdLel273rQ",
+            "snippet": {
+                "publishedAt": "2024-02-27T15:00:02Z",
+                "channelId": "UCsXVk37bltHxD1rDPwtNM8Q",
+                "title": "The Paradox of an Infinite Universe",
+                "description": "Go to https://brilliant.org/nutshell/ to dive deeper into these topics and more with a free 30-day trial + 20% off for the first 200 people! \nThis video was sponsored by Brilliant. Thanks a lot for the support!\n\n✨ THE CLOCK IS TICKING! ✨ The 72hr pre-order has now started for the End of the Universe Pin!\nOrder yours before 1st March 4pm CET / 10am EDT or miss out on this dread-inducing beauty forever: https://shop.kgs.link/end-universe-pin\n\nSources & further reading:\nhttps://sites.google.com/view/sources-infinite-universe/\n\nWhat is outside of the universe? We know that the universe had a beginning 14 billion years ago and that it has been expanding ever since. \nBut something that is expanding should also have an edge, right? \nWhat would you see if you went there? \n\n\nOUR CHANNELS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nGerman:        https://kgs.link/youtubeDE\nSpanish:        https://kgs.link/youtubeES\nFrench:          https://kgs.link/youtubeFR\nPortuguese:  https://kgs.link/youtubePT\nArabic:           https://kgs.link/youtubeAR\nHindi:             https://kgs.link/youtubeHI\nJapanese:     https://kgs.link/youtubeJA\nKorean:          https://kgs.link/youtubeKO\n\n\nHOW CAN YOU SUPPORT US?\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThis is how we make our living and it would be a pleasure if you support us!\n\nGet Products designed with ❤ https://shop-us.kurzgesagt.org  \nJoin the Patreon Bird Army 🐧  https://kgs.link/patreon  \n\n\nDISCUSSIONS & SOCIAL MEDIA\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nTikTok:           https://kgs.link/tiktok\nReddit:            https://kgs.link/reddit\nInstagram:     https://kgs.link/instagram\nTwitter:           https://kgs.link/twitter\nFacebook:      https://kgs.link/facebook\nDiscord:          https://kgs.link/discord\nNewsletter:    https://kgs.link/newsletter\n\n\nOUR VOICE\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThe Kurzgesagt voice is from \nSteve Taylor:  https://kgs.link/youtube-voice\n\n\nOUR MUSIC ♬♪\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n700+ minutes of Kurzgesagt Soundtracks by Epic Mountain:\n\nSpotify:            https://kgs.link/music-spotify\nSoundcloud:   https://kgs.link/music-soundcloud\nBandcamp:     https://kgs.link/music-bandcamp\nYoutube:          https://kgs.link/music-youtube\nFacebook:       https://kgs.link/music-facebook\n\nThe Soundtrack of this video:\nSoundcloud: https://bit.ly/3Vdg84H\nBandcamp: https://bit.ly/3Ilm4k5\n\nIf you want to help us caption this video, please send subtitles to subtitle@kurzgesagt.org\nYou can find info on what subtitle files work on YouTube here:\nhttps://support.google.com/youtube/answer/2734698?hl=en-GB&ref_topic=7296214\nThank you!\n\n🐦🐧🐤 PATREON BIRD ARMY 🐤🐧🐦\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nMany Thanks to our wonderful Patreons (from http://kgs.link/patreon) who support us every month and made this video possible:\nElmaels, Nicolas Pelissier, ConVector, Pedro Castillo Bascur, Matt, Isak, kangjung kim, Andre Persiehl, SIMON HARKER, Alexander Siegmann, gregorygkionis, Riddick, Lukas Hammerschmidt, Mark Jeffrey, N.C Anderdragon, Mitchell Boyer, Hannes406, Claudia Beier, Kristian Matthews, Benedikt Klemm, Manuel Kühn, Jonah Crawford, Philipp Grossklaus, theSAMSamers, Sierk, chiefalu, Florian S., Päddy Heli, John Doe, Matt, Noel Hübscher, S0m3th1ng1dk, Felix Müller, koa weber, Theresa Dillon, Olivia Schmidt, Dougie Fawcett, coffeekeisha, Moria Dwarf, Andreea Dumitru, Rita Kiraly, Piggybuuboo, Tesseract (Bowser Offcial and Endy Animates) Media, Jordan Tantuico",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/isdLel273rQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/isdLel273rQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/isdLel273rQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/isdLel273rQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/isdLel273rQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kurzgesagt – In a Nutshell",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-GB",
+                "localized": {
+                    "title": "The Paradox of an Infinite Universe",
+                    "description": "Go to https://brilliant.org/nutshell/ to dive deeper into these topics and more with a free 30-day trial + 20% off for the first 200 people! \nThis video was sponsored by Brilliant. Thanks a lot for the support!\n\n✨ THE CLOCK IS TICKING! ✨ The 72hr pre-order has now started for the End of the Universe Pin!\nOrder yours before 1st March 4pm CET / 10am EDT or miss out on this dread-inducing beauty forever: https://shop.kgs.link/end-universe-pin\n\nSources & further reading:\nhttps://sites.google.com/view/sources-infinite-universe/\n\nWhat is outside of the universe? We know that the universe had a beginning 14 billion years ago and that it has been expanding ever since. \nBut something that is expanding should also have an edge, right? \nWhat would you see if you went there? \n\n\nOUR CHANNELS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nGerman:        https://kgs.link/youtubeDE\nSpanish:        https://kgs.link/youtubeES\nFrench:          https://kgs.link/youtubeFR\nPortuguese:  https://kgs.link/youtubePT\nArabic:           https://kgs.link/youtubeAR\nHindi:             https://kgs.link/youtubeHI\nJapanese:     https://kgs.link/youtubeJA\nKorean:          https://kgs.link/youtubeKO\n\n\nHOW CAN YOU SUPPORT US?\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThis is how we make our living and it would be a pleasure if you support us!\n\nGet Products designed with ❤ https://shop-us.kurzgesagt.org  \nJoin the Patreon Bird Army 🐧  https://kgs.link/patreon  \n\n\nDISCUSSIONS & SOCIAL MEDIA\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nTikTok:           https://kgs.link/tiktok\nReddit:            https://kgs.link/reddit\nInstagram:     https://kgs.link/instagram\nTwitter:           https://kgs.link/twitter\nFacebook:      https://kgs.link/facebook\nDiscord:          https://kgs.link/discord\nNewsletter:    https://kgs.link/newsletter\n\n\nOUR VOICE\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThe Kurzgesagt voice is from \nSteve Taylor:  https://kgs.link/youtube-voice\n\n\nOUR MUSIC ♬♪\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n700+ minutes of Kurzgesagt Soundtracks by Epic Mountain:\n\nSpotify:            https://kgs.link/music-spotify\nSoundcloud:   https://kgs.link/music-soundcloud\nBandcamp:     https://kgs.link/music-bandcamp\nYoutube:          https://kgs.link/music-youtube\nFacebook:       https://kgs.link/music-facebook\n\nThe Soundtrack of this video:\nSoundcloud: https://bit.ly/3Vdg84H\nBandcamp: https://bit.ly/3Ilm4k5\n\nIf you want to help us caption this video, please send subtitles to subtitle@kurzgesagt.org\nYou can find info on what subtitle files work on YouTube here:\nhttps://support.google.com/youtube/answer/2734698?hl=en-GB&ref_topic=7296214\nThank you!\n\n🐦🐧🐤 PATREON BIRD ARMY 🐤🐧🐦\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nMany Thanks to our wonderful Patreons (from http://kgs.link/patreon) who support us every month and made this video possible:\nElmaels, Nicolas Pelissier, ConVector, Pedro Castillo Bascur, Matt, Isak, kangjung kim, Andre Persiehl, SIMON HARKER, Alexander Siegmann, gregorygkionis, Riddick, Lukas Hammerschmidt, Mark Jeffrey, N.C Anderdragon, Mitchell Boyer, Hannes406, Claudia Beier, Kristian Matthews, Benedikt Klemm, Manuel Kühn, Jonah Crawford, Philipp Grossklaus, theSAMSamers, Sierk, chiefalu, Florian S., Päddy Heli, John Doe, Matt, Noel Hübscher, S0m3th1ng1dk, Felix Müller, koa weber, Theresa Dillon, Olivia Schmidt, Dougie Fawcett, coffeekeisha, Moria Dwarf, Andreea Dumitru, Rita Kiraly, Piggybuuboo, Tesseract (Bowser Offcial and Endy Animates) Media, Jordan Tantuico"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "_ZnkSFuIT_mHus__AuCgc4hBEZs",
+            "id": "VXyVd6Ly_h0",
+            "snippet": {
+                "publishedAt": "2024-02-27T14:14:35Z",
+                "channelId": "UCR1r4GPUBvdI0EJBpxKYPQQ",
+                "title": "Pokémon Legends: Z-A releases simultaneously worldwide in 2025!",
+                "description": "Pokémon Legends: Z-A, an ambitious new entry to the Pokémon video game series, will launch on Nintendo Switch systems in 2025!\n\nA new adventure awaits within Lumiose City, where an urban redevelopment plan is under way to shape the city into a place that belongs to both people and Pokémon.\n\nPokémon Legends: Z-A\nReleasing simultaneously worldwide in 2025\nNOTE: This trailer does not contain actual game footage. \n\n©2024 Pokémon. ©1995-2024 Nintendo/Creatures Inc. /GAME FREAK inc.\nPokémon and Nintendo Switch are trademarks of Nintendo.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VXyVd6Ly_h0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VXyVd6Ly_h0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VXyVd6Ly_h0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VXyVd6Ly_h0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VXyVd6Ly_h0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Pokémon Asia ENG",
+                "tags": [
+                    "Pokémon",
+                    "pokemon legends",
+                    "pokemon legends ZA",
+                    "pokemon game"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Pokémon Legends: Z-A releases simultaneously worldwide in 2025!",
+                    "description": "Pokémon Legends: Z-A, an ambitious new entry to the Pokémon video game series, will launch on Nintendo Switch systems in 2025!\n\nA new adventure awaits within Lumiose City, where an urban redevelopment plan is under way to shape the city into a place that belongs to both people and Pokémon.\n\nPokémon Legends: Z-A\nReleasing simultaneously worldwide in 2025\nNOTE: This trailer does not contain actual game footage. \n\n©2024 Pokémon. ©1995-2024 Nintendo/Creatures Inc. /GAME FREAK inc.\nPokémon and Nintendo Switch are trademarks of Nintendo."
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "iMDC_Ue0uSgrI9BceI7ySENSNaQ",
+            "id": "9pEqyr_uT-k",
+            "snippet": {
+                "publishedAt": "2024-02-27T14:00:07Z",
+                "channelId": "UCblfuW_4rakIf2h6aqANefA",
+                "title": "World's Fastest Camera Drone Vs F1 Car (ft. Max Verstappen)",
+                "description": "This is Formula 1 like you’ve never seen it before. The @dutchdronegods follow Max Verstappen’s brand new @redbullracing  RB20 F1 car for a full lap of Silverstone’s Grand Prix Circuit. The world first uninterrupted FPV one shot was captured by a manually piloted custom built drone, designed specifically for the challenge of keeping up with the car at speeds of over 300kph.\n\nIt took Red Bull and the Dutch Drone Gods over a year to create a drone that can accelerate two times faster than an F1 car, reaching 300 km/h in just 4 seconds with a top speed of over 350 km/h. The development was accelerated by access to know-how and processes of Red Bull Advanced Technologies, a high-performance engineering arm of Oracle Red Bull Racing Formula 1 team and trialled behind the RB8 and RB19 cars driven by @liamlawson30  and David Coulthard. \n\n\n #redbull #GivesYouWiiings #f1 \n_________________________________________________\nExperience the world of Red Bull like you have never seen it before with the best action sports clips on the web, original series and livestreams.\n\nGet the FREE Red Bull TV apps for all your devices: http://win.gs/RedBullTVApps  \nSubscribe to Red Bull on Youtube: http://win.gs/SubToRedBull\nCheck out Red Bull on TikTok: https://win.gs/TikTok\nRed Bull on Facebook: http://win.gs/redbullfb\nRed Bull on Instagram: http://win.gs/RedBullInstagram\nRed Bull on Twitter: http://win.gs/redbulltwitter",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9pEqyr_uT-k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9pEqyr_uT-k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9pEqyr_uT-k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9pEqyr_uT-k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9pEqyr_uT-k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Red Bull",
+                "tags": [
+                    "red bull",
+                    "redbull",
+                    "action sports",
+                    "extreme sports",
+                    "sport videos",
+                    "action",
+                    "sport",
+                    "racing",
+                    "DRONE",
+                    "drone",
+                    "fpv drone",
+                    "dutch drone gods",
+                    "drone shot",
+                    "formula 1",
+                    "f1",
+                    "f1 driver",
+                    "max verstappen",
+                    "max",
+                    "verstappen",
+                    "oracle red bull racing",
+                    "red bull racing",
+                    "f1 2024",
+                    "f1 race",
+                    "race",
+                    "car",
+                    "red bull drone",
+                    "drone car race",
+                    "f1 drone",
+                    "dron",
+                    "liam lawson",
+                    "rb20",
+                    "david coulthard",
+                    "silverstone",
+                    "race track",
+                    "grand prix",
+                    "circuit",
+                    "follow cam",
+                    "follow"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "World's Fastest Camera Drone Vs F1 Car (ft. Max Verstappen)",
+                    "description": "This is Formula 1 like you’ve never seen it before. The @dutchdronegods follow Max Verstappen’s brand new @redbullracing  RB20 F1 car for a full lap of Silverstone’s Grand Prix Circuit. The world first uninterrupted FPV one shot was captured by a manually piloted custom built drone, designed specifically for the challenge of keeping up with the car at speeds of over 300kph.\n\nIt took Red Bull and the Dutch Drone Gods over a year to create a drone that can accelerate two times faster than an F1 car, reaching 300 km/h in just 4 seconds with a top speed of over 350 km/h. The development was accelerated by access to know-how and processes of Red Bull Advanced Technologies, a high-performance engineering arm of Oracle Red Bull Racing Formula 1 team and trialled behind the RB8 and RB19 cars driven by @liamlawson30  and David Coulthard. \n\n\n #redbull #GivesYouWiiings #f1 \n_________________________________________________\nExperience the world of Red Bull like you have never seen it before with the best action sports clips on the web, original series and livestreams.\n\nGet the FREE Red Bull TV apps for all your devices: http://win.gs/RedBullTVApps  \nSubscribe to Red Bull on Youtube: http://win.gs/SubToRedBull\nCheck out Red Bull on TikTok: https://win.gs/TikTok\nRed Bull on Facebook: http://win.gs/redbullfb\nRed Bull on Instagram: http://win.gs/RedBullInstagram\nRed Bull on Twitter: http://win.gs/redbulltwitter"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "1nGK_N8nZ8RClci8zjDuSIM-x2c",
+            "id": "nxqrMd7wIyo",
+            "snippet": {
+                "publishedAt": "2024-02-27T14:56:37Z",
+                "channelId": "UCIIPl-DSCC0prKxGGnJrdGQ",
+                "title": "New Pokemon LEGENDS Z-A at Pokemon Day 2024",
+                "description": "The Pokémon Presents on Pokemon Day 2024 showed us a lot of new updates for games and services and a brand new Game in the works of Pokemon Legends Z-A\n\nOfficial Playlist of the Pokemon Scarlet & Violet\n► https://www.youtube.com/playlist?list=PLwGyU0mZTYHUjZyaaGiZFozxAjjTv8zS6\n\n▶ Subscribe: ​https://bit.ly/38QZ4ZZ​\n▶ Merch: ​https://austinjohnplays.com/merch\n▶ Watch the Newest Videos Here: https://youtube.com/playlist?list=PLwGyU0mZTYHW5kBAcegELKMtAH-a8RRSG&index=2&playnext=1 \n\n0:00 Pokemon Day 2024 Recap of Apps\n3:53 Pokemon TCG Pocket\n6:04 Pokemon Legendz Z-A Reveal\n- - - - - - - - - - - - - - - -\nFollow Austin John Plays\n◉ Twitch: ​https://twitch.tv/austinjohnplays\n◉ Instagram: ​https://instagram.com/AustinJohnPlays\n◉ Twitter: ​https://twitter.com/AustinJohnPlays\n◉ YouTube Member: ​https://youtube.com/austinjohnplays/join\n◉ Website: ​http://austinjohnplays.com\n\n- - - - - - - - - - - - - - - -\nWatch More Austin John Plays!\n\nPokemon Tips & Tricks\nPokemon Scarlet & Violet \n◉ https://www.youtube.com/playlist?list=PLwGyU0mZTYHUjZyaaGiZFozxAjjTv8zS6\nPokemon Legends Arceus \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHW3eLd9CLFBJaZnBpvhYHzl\nPokemon Brilliant Diamond & Shining Pearl \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHUSe1Gb3XPRjroYrRTRzwNt\nNew Pokemon Snap (Switch) \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHW-wzcai2gxVdacD8RUuLo0\nPokemon Sword & Shield \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHV8_WpjI-khCa4rJ15befiQ\nLet's GO Pikachu & Eevee \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHVfhN9kB3qg5UsmzxI8XABF\nPokemon Ultra Sun & Ultra Moon \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHXxwLVA1knr5BpxmhA91Dl4\n\nZelda Tips & Tricks\nLink's Awakening Switch \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHWcmHr1O0o0e7QCcr4l_jlv\nBreath of the Wild Expansion Pass \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHXsTVQDHDDU2T0pQdVCkI7d\nBreath of the Wild \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHWitiRsKE-PqxsRAceFfWXp\n\nLet's Play Series\nAnimal Crossing New Horizons \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHUCWRuo4V8kmhv8DrRHpnq1\nMinecraft \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHVifSaSIAu_MLfgRi5w3k6a\nPokemon Sword & Shield Cagelocke \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHXL3Yw0W0zDe75DVnO5xi3Z\nPokemon ultraLOCKE \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHUikfuatmbqoGBT-S4nhkUm\n\n- - - - - - - - - - - - - - - -\nWelcome to the official Austin John Plays YouTube channel! On this channel you will find a variety of content like News, Tips & Tricks for Pokemon Violet & Scarlet, Legends Arceus, The Legend of Zelda, and more!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nxqrMd7wIyo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nxqrMd7wIyo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nxqrMd7wIyo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nxqrMd7wIyo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nxqrMd7wIyo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Austin John Plays",
+                "tags": [
+                    "austin john plays",
+                    "austin john",
+                    "youtube austin john plays",
+                    "nintendo",
+                    "zelda",
+                    "pokemon",
+                    "pokemon presents 2024",
+                    "pokemon presents 2024 reaction",
+                    "pokemon presents reaction",
+                    "pokemon presents",
+                    "pokemon Scarlet and Violet dlc",
+                    "pokemon Scarlet Violet dlc",
+                    "pokemon Sleep",
+                    "pokemon day",
+                    "pokemon day 2024",
+                    "pokemon legends",
+                    "pokemon legends z-a",
+                    "pokemon legends za",
+                    "pokemon legends Zygarde"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "New Pokemon LEGENDS Z-A at Pokemon Day 2024",
+                    "description": "The Pokémon Presents on Pokemon Day 2024 showed us a lot of new updates for games and services and a brand new Game in the works of Pokemon Legends Z-A\n\nOfficial Playlist of the Pokemon Scarlet & Violet\n► https://www.youtube.com/playlist?list=PLwGyU0mZTYHUjZyaaGiZFozxAjjTv8zS6\n\n▶ Subscribe: ​https://bit.ly/38QZ4ZZ​\n▶ Merch: ​https://austinjohnplays.com/merch\n▶ Watch the Newest Videos Here: https://youtube.com/playlist?list=PLwGyU0mZTYHW5kBAcegELKMtAH-a8RRSG&index=2&playnext=1 \n\n0:00 Pokemon Day 2024 Recap of Apps\n3:53 Pokemon TCG Pocket\n6:04 Pokemon Legendz Z-A Reveal\n- - - - - - - - - - - - - - - -\nFollow Austin John Plays\n◉ Twitch: ​https://twitch.tv/austinjohnplays\n◉ Instagram: ​https://instagram.com/AustinJohnPlays\n◉ Twitter: ​https://twitter.com/AustinJohnPlays\n◉ YouTube Member: ​https://youtube.com/austinjohnplays/join\n◉ Website: ​http://austinjohnplays.com\n\n- - - - - - - - - - - - - - - -\nWatch More Austin John Plays!\n\nPokemon Tips & Tricks\nPokemon Scarlet & Violet \n◉ https://www.youtube.com/playlist?list=PLwGyU0mZTYHUjZyaaGiZFozxAjjTv8zS6\nPokemon Legends Arceus \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHW3eLd9CLFBJaZnBpvhYHzl\nPokemon Brilliant Diamond & Shining Pearl \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHUSe1Gb3XPRjroYrRTRzwNt\nNew Pokemon Snap (Switch) \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHW-wzcai2gxVdacD8RUuLo0\nPokemon Sword & Shield \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHV8_WpjI-khCa4rJ15befiQ\nLet's GO Pikachu & Eevee \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHVfhN9kB3qg5UsmzxI8XABF\nPokemon Ultra Sun & Ultra Moon \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHXxwLVA1knr5BpxmhA91Dl4\n\nZelda Tips & Tricks\nLink's Awakening Switch \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHWcmHr1O0o0e7QCcr4l_jlv\nBreath of the Wild Expansion Pass \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHXsTVQDHDDU2T0pQdVCkI7d\nBreath of the Wild \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHWitiRsKE-PqxsRAceFfWXp\n\nLet's Play Series\nAnimal Crossing New Horizons \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHUCWRuo4V8kmhv8DrRHpnq1\nMinecraft \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHVifSaSIAu_MLfgRi5w3k6a\nPokemon Sword & Shield Cagelocke \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHXL3Yw0W0zDe75DVnO5xi3Z\nPokemon ultraLOCKE \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHUikfuatmbqoGBT-S4nhkUm\n\n- - - - - - - - - - - - - - - -\nWelcome to the official Austin John Plays YouTube channel! On this channel you will find a variety of content like News, Tips & Tricks for Pokemon Violet & Scarlet, Legends Arceus, The Legend of Zelda, and more!"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "qek0u5MZfgHJGUnFt1qhrtGvPeA",
+            "id": "DFNKcv-xGL4",
+            "snippet": {
+                "publishedAt": "2024-02-27T18:34:22Z",
+                "channelId": "UCwVg9btOceLQuNCdoQk9CXg",
+                "title": "SURVIVING 100 YEARS OF DATING!!",
+                "description": "I survived 100 years of dating! My girlfriend and I went on some of the craziest and weirdest dates in history... and at the end we went on a date in the future!\n\nSubscribe to Stay Wild! @StayWild- \n\nGET THE MERCH! https://staywildshop.com\n\n☆ FOLLOW ME!\nINSTAGRAM: @BenAzelart https://www.instagram.com/benazelart/\nYOUTUBE: Ben Azelart https://www.youtube.com/benazelart/\nSNAPCHAT: @BenAzelart",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DFNKcv-xGL4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DFNKcv-xGL4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DFNKcv-xGL4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DFNKcv-xGL4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DFNKcv-xGL4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ben Azelart",
+                "tags": [
+                    "ben azelart",
+                    "brent rivera",
+                    "Lexi rivera",
+                    "stokes twins",
+                    "ben Azelart girlfriend",
+                    "Lexi rivera boyfriend",
+                    "mylifeaseva",
+                    "lexi hensler",
+                    "Andrew davila",
+                    "pierson",
+                    "Pierson wodzynski",
+                    "Jeremy hutchins",
+                    "dom brack",
+                    "Brent and pierson",
+                    "Airrack",
+                    "mrbeast",
+                    "preston",
+                    "unspeakable",
+                    "Mathew beem",
+                    "Ryan trahan",
+                    "100 years",
+                    "100 years of",
+                    "mcdonalds",
+                    "school lunches",
+                    "candy",
+                    "dating",
+                    "100 years of school lunch",
+                    "100 years of dating"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "SURVIVING 100 YEARS OF DATING!!",
+                    "description": "I survived 100 years of dating! My girlfriend and I went on some of the craziest and weirdest dates in history... and at the end we went on a date in the future!\n\nSubscribe to Stay Wild! @StayWild- \n\nGET THE MERCH! https://staywildshop.com\n\n☆ FOLLOW ME!\nINSTAGRAM: @BenAzelart https://www.instagram.com/benazelart/\nYOUTUBE: Ben Azelart https://www.youtube.com/benazelart/\nSNAPCHAT: @BenAzelart"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "gXLdcBrpQcq27Fyb6pj2nPIVh1w",
+            "id": "zjVU8n_pGzw",
+            "snippet": {
+                "publishedAt": "2024-02-27T00:35:13Z",
+                "channelId": "UCAJnnJPeWf45gPDuQ15-Z6w",
+                "title": "Ariana Grande | New Album \"Eternal Sunshine\", Wicked, Glinda [Part 1]",
+                "description": "Ariana Grande shares the details behind her new album \"Eternal Sunshine\" and landing the role of Glinda in Wicked!\n\n00:00 - Intro\n3:00 - Ariana Grande wasn’t planning on releasing an album\n4:30 - Playing Glinda in the upcoming Wicked Movie\n7:30 - Human Ari vs Pop Star Ari \n9:00 - The Wicked Movie (cont’d)\n16:00 - Nerves surrounding new music\n17:30 - Touring\n19:00 - What makes Eternal Sunshine different?\n23:00 - Ariana Addresses the Leaks\n24:30 - Ariana hates hearing herself as AI\n25:00 - REM beauty \n27:30 - Why is Red the color of this era?\n31:00 - The Wicked audition process\n\nPart 2 will be available on March 8th exclusively on Amazon Music and will feature Ariana Grande & Zach breaking down each song on the album in detail! \n\nFollow Ariana Grande on Amazon Music for updates here: https://music.amazon.com/artists/B004IUAQ9S/ariana-grande\n\nSUBSCRIBE to Our Podcast ►►https://tinyurl.com/48yfe4v5\nSUBSCRIBE to YT ►►https://tinyurl.com/5n8km55u\n\nFollow The Zach Sang Show:\nhttps://tiktok.com/@zachsangshow\nhttps://www.instagram.com/zachsangshow/\nhttps://twitter.com/zachsangshow\nhttps://www.facebook.com/ZachSangShow/\n\n#ArianaGrande #eternalsunshine #Wicked #zachsang #zachsangshow #zachsanginterview #interview",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zjVU8n_pGzw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zjVU8n_pGzw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zjVU8n_pGzw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zjVU8n_pGzw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zjVU8n_pGzw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Zach Sang Show",
+                "tags": [
+                    "zachsang",
+                    "zach",
+                    "sang",
+                    "interview",
+                    "zach sang interview",
+                    "celebrity",
+                    "amazonmusic",
+                    "music",
+                    "ariana",
+                    "grande",
+                    "zach sang and the gang",
+                    "dan zolot",
+                    "cameronlouis",
+                    "ariana grande zach sang",
+                    "ariana grande new music",
+                    "eternal sunshine ariana grande",
+                    "eternal sunshine",
+                    "ariana grande songs",
+                    "ariana grande yes and",
+                    "ariana grande reaction",
+                    "zach sang ariana grande",
+                    "victorious",
+                    "ariana grande leak",
+                    "ariana grande fantasize",
+                    "ariana grande interview"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-US",
+                "localized": {
+                    "title": "Ariana Grande | New Album \"Eternal Sunshine\", Wicked, Glinda [Part 1]",
+                    "description": "Ariana Grande shares the details behind her new album \"Eternal Sunshine\" and landing the role of Glinda in Wicked!\n\n00:00 - Intro\n3:00 - Ariana Grande wasn’t planning on releasing an album\n4:30 - Playing Glinda in the upcoming Wicked Movie\n7:30 - Human Ari vs Pop Star Ari \n9:00 - The Wicked Movie (cont’d)\n16:00 - Nerves surrounding new music\n17:30 - Touring\n19:00 - What makes Eternal Sunshine different?\n23:00 - Ariana Addresses the Leaks\n24:30 - Ariana hates hearing herself as AI\n25:00 - REM beauty \n27:30 - Why is Red the color of this era?\n31:00 - The Wicked audition process\n\nPart 2 will be available on March 8th exclusively on Amazon Music and will feature Ariana Grande & Zach breaking down each song on the album in detail! \n\nFollow Ariana Grande on Amazon Music for updates here: https://music.amazon.com/artists/B004IUAQ9S/ariana-grande\n\nSUBSCRIBE to Our Podcast ►►https://tinyurl.com/48yfe4v5\nSUBSCRIBE to YT ►►https://tinyurl.com/5n8km55u\n\nFollow The Zach Sang Show:\nhttps://tiktok.com/@zachsangshow\nhttps://www.instagram.com/zachsangshow/\nhttps://twitter.com/zachsangshow\nhttps://www.facebook.com/ZachSangShow/\n\n#ArianaGrande #eternalsunshine #Wicked #zachsang #zachsangshow #zachsanginterview #interview"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "rpemieyftyW9LIwXhyjg1YYBohA",
+            "id": "aFvw_yu0N3A",
+            "snippet": {
+                "publishedAt": "2024-02-26T12:40:00Z",
+                "channelId": "UCsSsgPaZ2GSmO6il8Cb5iGA",
+                "title": "skibidi toilet 71",
+                "description": "while alliance were busy with cooking scientist, someone escaped\n\nfull-screen version\n\nadditional particles by HoovyTube\n\nContact me:\ninstagram.com/dafuqboomtv\nblugrayguy@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aFvw_yu0N3A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aFvw_yu0N3A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aFvw_yu0N3A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aFvw_yu0N3A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aFvw_yu0N3A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DaFuq!?Boom!",
+                "tags": [
+                    "sfm animation",
+                    "skibidi toilet vs cameramen",
+                    "skibidi toilet",
+                    "scientist skibidi",
+                    "tv woman",
+                    "titan cameraman",
+                    "titan speakerman",
+                    "skibidi toilet all episodes",
+                    "titan tv man",
+                    "g-toilet",
+                    "gman toilet"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "skibidi toilet 71",
+                    "description": "while alliance were busy with cooking scientist, someone escaped\n\nfull-screen version\n\nadditional particles by HoovyTube\n\nContact me:\ninstagram.com/dafuqboomtv\nblugrayguy@gmail.com"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "U8GRI_ZlKk8umJ3HxGdWVpiC9ow",
+            "id": "yXKJF3IaGec",
+            "snippet": {
+                "publishedAt": "2024-02-27T02:36:32Z",
+                "channelId": "UC4G10tk3AHFuyMIuD3rHOBA",
+                "title": "How Marvel Studios is making decisions rn",
+                "description": "🌎RDC's SOCIALS🌎\nMark - https://www.instagram.com/supremedreams_1/\nAff - https://www.instagram.com/affiong/\nLeland - https://www.instagram.com/23_is_leland/\nDylan - https://www.instagram.com/dylanpatel4_/\nDesmond - https://www.instagram.com/l0veandpeac3/\nBenjamin - https://www.instagram.com/ive_ben_jamin/\nJohn - https://www.instagram.com/playthatjohn/\n\nEARLY RELEASES DROPPING HERE: https://www.rdcuniverse.com/\nFREE 7-DAY TRIAL\n\n🌎 REAL DREAMS CHANGE THE WORLD 🌎\n🗣️ TWITTER: https://twitter.com/RDCworld1\n📷 IG: https://www.instagram.com/rdcworld1/\n👔 MERCH: https://rdcworld1.com\n🎮 GAMING CHANNEL: https://www.youtube.com/@RDCWorldGaming\n👾 TWITCH: https://www.twitch.tv/rdcgaming\n🎙️ PODCAST: https://linktr.ee/rdcworld\n💜 DISCORD: https://discord.gg/rdcworld1\n☁️ DREAM CON: https://www.dreamconvention.com\n🎵 SOUNDCLOUD: https://soundcloud.com/rdcworld",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yXKJF3IaGec/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yXKJF3IaGec/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yXKJF3IaGec/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yXKJF3IaGec/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yXKJF3IaGec/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "RDCworld1",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "How Marvel Studios is making decisions rn",
+                    "description": "🌎RDC's SOCIALS🌎\nMark - https://www.instagram.com/supremedreams_1/\nAff - https://www.instagram.com/affiong/\nLeland - https://www.instagram.com/23_is_leland/\nDylan - https://www.instagram.com/dylanpatel4_/\nDesmond - https://www.instagram.com/l0veandpeac3/\nBenjamin - https://www.instagram.com/ive_ben_jamin/\nJohn - https://www.instagram.com/playthatjohn/\n\nEARLY RELEASES DROPPING HERE: https://www.rdcuniverse.com/\nFREE 7-DAY TRIAL\n\n🌎 REAL DREAMS CHANGE THE WORLD 🌎\n🗣️ TWITTER: https://twitter.com/RDCworld1\n📷 IG: https://www.instagram.com/rdcworld1/\n👔 MERCH: https://rdcworld1.com\n🎮 GAMING CHANNEL: https://www.youtube.com/@RDCWorldGaming\n👾 TWITCH: https://www.twitch.tv/rdcgaming\n🎙️ PODCAST: https://linktr.ee/rdcworld\n💜 DISCORD: https://discord.gg/rdcworld1\n☁️ DREAM CON: https://www.dreamconvention.com\n🎵 SOUNDCLOUD: https://soundcloud.com/rdcworld"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "EKbhx89gSvMJvC_ALX1ljvNFzno",
+            "id": "9w-1e_4gbBA",
+            "snippet": {
+                "publishedAt": "2024-02-27T10:49:40Z",
+                "channelId": "UCD1Em4q90ZUK2R5HKesszJg",
+                "title": "New Overgrowth Spell, Clan Chat and MORE! | February 2024 Clash On",
+                "description": "New Spell, Buildings and Troops Levels, Clan Chat improvements and MORE! This update is packed with content!\n\nFollow us on our Socials!\nTwitter ► https://twitter.com/ClashofClans/\nInstagram ► https://www.instagram.com/clashofclans \nFacebook ► https://www.facebook.com/ClashofClans \nTikTok ► https://www.tiktok.com/@clashofclans\n\nAttack. Defend. Strategize. Download for free for mobile devices. supr.cl/PlayClashOfClans\n\nFrom rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend off raiders, battle against millions of players worldwide, and forge a powerful clan with others to destroy enemy clans.\nPLEASE NOTE! Clash of Clans is free to download and play, however some game items can also be purchased for real money \n\nAlso, under our Terms of Service and Privacy Policy, you must be at least 13 years of age to play or download Clash of Clans.\nA network connection is also required.\n\nFEATURES\n- Build your village into an unbeatable fortress \n- Raise your own army of Barbarians, Archers, Hog Riders, Wizards, Dragons and other mighty fighters\n- Battle with players worldwide and take their Trophies\n- Join together with other players to form the ultimate Clan\n- Fight against rival Clans in epic Clan Wars \n- Build 18 unique units with multiple levels of upgrades\n- Discover your favorite attacking army from countless combinations of troops, spells, Heroes and Clan reinforcements \n- Defend your village with a multitude of Cannons, Towers, Mortars, Bombs, Traps and Walls\n- Fight against the Goblin King in a campaign through the realm\n\nChief, are you having problems? Visit https://help.supercellsupport.com/clash-of-clans/en/\n\nPrivacy Policy:\nhttps://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttps://supercell.com/en/terms-of-service/\n\nParent’s Guide:\nhttps://supercell.com/en/parents/\n\n#clashofclans",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9w-1e_4gbBA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9w-1e_4gbBA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9w-1e_4gbBA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9w-1e_4gbBA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9w-1e_4gbBA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Clash of Clans",
+                "tags": [
+                    "clash of clans",
+                    "COC",
+                    "Clash of Clans Gameplay",
+                    "Clash of Clans Strategy",
+                    "Clash of Clans Animation",
+                    "Clash of Clans Commercial",
+                    "Clash of Clans Attacks",
+                    "Clash of Clans Town Hall",
+                    "Hog Rider",
+                    "PEKKA",
+                    "Clan Wars",
+                    "season challenges",
+                    "clan war leagues",
+                    "clash on",
+                    "clan game",
+                    "clan games",
+                    "clash-a-rama",
+                    "clasharama"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "New Overgrowth Spell, Clan Chat and MORE! | February 2024 Clash On",
+                    "description": "New Spell, Buildings and Troops Levels, Clan Chat improvements and MORE! This update is packed with content!\n\nFollow us on our Socials!\nTwitter ► https://twitter.com/ClashofClans/\nInstagram ► https://www.instagram.com/clashofclans \nFacebook ► https://www.facebook.com/ClashofClans \nTikTok ► https://www.tiktok.com/@clashofclans\n\nAttack. Defend. Strategize. Download for free for mobile devices. supr.cl/PlayClashOfClans\n\nFrom rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend off raiders, battle against millions of players worldwide, and forge a powerful clan with others to destroy enemy clans.\nPLEASE NOTE! Clash of Clans is free to download and play, however some game items can also be purchased for real money \n\nAlso, under our Terms of Service and Privacy Policy, you must be at least 13 years of age to play or download Clash of Clans.\nA network connection is also required.\n\nFEATURES\n- Build your village into an unbeatable fortress \n- Raise your own army of Barbarians, Archers, Hog Riders, Wizards, Dragons and other mighty fighters\n- Battle with players worldwide and take their Trophies\n- Join together with other players to form the ultimate Clan\n- Fight against rival Clans in epic Clan Wars \n- Build 18 unique units with multiple levels of upgrades\n- Discover your favorite attacking army from countless combinations of troops, spells, Heroes and Clan reinforcements \n- Defend your village with a multitude of Cannons, Towers, Mortars, Bombs, Traps and Walls\n- Fight against the Goblin King in a campaign through the realm\n\nChief, are you having problems? Visit https://help.supercellsupport.com/clash-of-clans/en/\n\nPrivacy Policy:\nhttps://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttps://supercell.com/en/terms-of-service/\n\nParent’s Guide:\nhttps://supercell.com/en/parents/\n\n#clashofclans"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "2fGn_UwknuXJVwUwUoixSOsYJ-s",
+            "id": "N4OVuW9eqb4",
+            "snippet": {
+                "publishedAt": "2024-02-27T18:30:06Z",
+                "channelId": "UCWZmCMB7mmKWcXJSIPRhzZw",
+                "title": "BRUTALLY RANKING YOUTUBER PRODUCTS!",
+                "description": "Was this a fair ranking? \nBig up @Calfreezy for doing this with me!\n\n⭐ SEND ME YOUR VIDEO IDEAS: https://bit.ly/Miniminter-Suggestions\n\n➖ Follow me ➖\n📷 Instagram: https://www.instagram.com/miniminter\n🐦 Twitter: https://twitter.com/miniminter\n🎮 Twitch: https://www.twitch.tv/miniminter\n🎬 Second Channel: https://www.youtube.com/MM7Games\n\n👕 Sidemen Clothing:  https://www.sidemenclothing.com\n\n➖ My Equipment ➖\nMy PC: http://bit.ly/miniminter\nHow I record my gameplay: http://e.lga.to/mm\n\nVideo uploaded by\nSimon/Miniminter/mm7games",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N4OVuW9eqb4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N4OVuW9eqb4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N4OVuW9eqb4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/N4OVuW9eqb4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/N4OVuW9eqb4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Miniminter",
+                "tags": [
+                    "simon",
+                    "sidemen",
+                    "miniminter",
+                    "mm7games",
+                    "random",
+                    "vlog"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "BRUTALLY RANKING YOUTUBER PRODUCTS!",
+                    "description": "Was this a fair ranking? \nBig up @Calfreezy for doing this with me!\n\n⭐ SEND ME YOUR VIDEO IDEAS: https://bit.ly/Miniminter-Suggestions\n\n➖ Follow me ➖\n📷 Instagram: https://www.instagram.com/miniminter\n🐦 Twitter: https://twitter.com/miniminter\n🎮 Twitch: https://www.twitch.tv/miniminter\n🎬 Second Channel: https://www.youtube.com/MM7Games\n\n👕 Sidemen Clothing:  https://www.sidemenclothing.com\n\n➖ My Equipment ➖\nMy PC: http://bit.ly/miniminter\nHow I record my gameplay: http://e.lga.to/mm\n\nVideo uploaded by\nSimon/Miniminter/mm7games"
+                },
+                "defaultAudioLanguage": "en-GB"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0FiZRN5t_YVi5oQjeCD_a_Pp8wc",
+            "id": "NFIWtf0B5Wo",
+            "snippet": {
+                "publishedAt": "2024-02-27T17:00:06Z",
+                "channelId": "UCsEukrAd64fqA7FjwkmZ_Dw",
+                "title": "Josh Brolin Breaks Down His Most Iconic Characters | GQ",
+                "description": "Josh Brolin breaks down his most iconic roles in film, including 'The Goonies,' 'Sicario,' Marvel Cinematic Universe's Thanos, 'Dune,' 'Dune: Part Two,' 'No Country For Old Men,' 'True Grit' and 'Men in Black 3.'\r\n\r\nDirector: Kristen DeVore\r\nDirector of Photography: Matt Krueger\r\nEditor: Robby Massey\r\nGuest: Josh Brolin\r\nProducer: Sam Dennis\r\nLine Producer: Jen Santos\r\nProduction Manager: Andressa Pelachi\r\nProduction and Equipment Manager: Kevin Balash\r\nTalent Booker: Lauren Mendoza; Dana Mathews\r\nCamera Operator: Nick Massey\r\nSound Mixer: Cassiano Pereira\r\nProduction Assistant: Fernando Barajas; Ariel Labasan\r\nPost Production Supervisor: Rachael Knight\r\nPost Production Coordinator: Ian Bryant\r\nSupervising Editor: Rob Lombardi\r\nAssistant Editor: Justin Symonds\r\n\r\n00:00 Josh Brolin's Iconic Characters\r\n00:18 The Goonies\r\n04:12 Sicario\r\n07:15 Marvel Cinematic Universe's Thanos\r\n10:40 Dune / Dune: Part Two\r\n13:01 No Country For Old Men\r\n16:40 True Grit\r\n19:06 Men in Black 3\n\nStill haven’t subscribed to GQ on YouTube? ►► http://bit.ly/2iij5wt\r\nSubscribe to GQ magazine and get rare swag: https://bit.ly/2xNBH3i\r\nJoin the GQ Discord to talk men's fashion, watches, and more: https://discord.gg/gqmagazine\r\n\r\nABOUT GQ\r\nFor more than 50 years, GQ has been the premier men’s magazine, providing definitive coverage of style, culture, politics and more. In that tradition, GQ’s video channel covers every part of a man’s life, from entertainment and sports to fashion and grooming advice. Welcome to the modern guide to style advice, dating tips, celebrity videos, music, sports and more.\r\n\r\nhttps://www.youtube.com/user/GQVideos",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NFIWtf0B5Wo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NFIWtf0B5Wo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NFIWtf0B5Wo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NFIWtf0B5Wo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NFIWtf0B5Wo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "GQ",
+                "tags": [
+                    "celebrity",
+                    "dune",
+                    "dune 2",
+                    "dune two",
+                    "dune: part two",
+                    "film",
+                    "gq",
+                    "gq magazine",
+                    "iconic",
+                    "iconic characters",
+                    "josh brolin",
+                    "josh brolin 2024",
+                    "josh brolin dune",
+                    "josh brolin films",
+                    "josh brolin gq",
+                    "josh brolin gq iconic characters",
+                    "josh brolin iconic characters",
+                    "josh brolin interview",
+                    "josh brolin movies",
+                    "josh brolin new",
+                    "josh brolin thanos",
+                    "josh brolin the goonies",
+                    "marvel thanos",
+                    "men in black 3",
+                    "movies",
+                    "no country for old men",
+                    "sicario",
+                    "thanos",
+                    "the goonies",
+                    "true grit"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Josh Brolin Breaks Down His Most Iconic Characters | GQ",
+                    "description": "Josh Brolin breaks down his most iconic roles in film, including 'The Goonies,' 'Sicario,' Marvel Cinematic Universe's Thanos, 'Dune,' 'Dune: Part Two,' 'No Country For Old Men,' 'True Grit' and 'Men in Black 3.'\r\n\r\nDirector: Kristen DeVore\r\nDirector of Photography: Matt Krueger\r\nEditor: Robby Massey\r\nGuest: Josh Brolin\r\nProducer: Sam Dennis\r\nLine Producer: Jen Santos\r\nProduction Manager: Andressa Pelachi\r\nProduction and Equipment Manager: Kevin Balash\r\nTalent Booker: Lauren Mendoza; Dana Mathews\r\nCamera Operator: Nick Massey\r\nSound Mixer: Cassiano Pereira\r\nProduction Assistant: Fernando Barajas; Ariel Labasan\r\nPost Production Supervisor: Rachael Knight\r\nPost Production Coordinator: Ian Bryant\r\nSupervising Editor: Rob Lombardi\r\nAssistant Editor: Justin Symonds\r\n\r\n00:00 Josh Brolin's Iconic Characters\r\n00:18 The Goonies\r\n04:12 Sicario\r\n07:15 Marvel Cinematic Universe's Thanos\r\n10:40 Dune / Dune: Part Two\r\n13:01 No Country For Old Men\r\n16:40 True Grit\r\n19:06 Men in Black 3\n\nStill haven’t subscribed to GQ on YouTube? ►► http://bit.ly/2iij5wt\r\nSubscribe to GQ magazine and get rare swag: https://bit.ly/2xNBH3i\r\nJoin the GQ Discord to talk men's fashion, watches, and more: https://discord.gg/gqmagazine\r\n\r\nABOUT GQ\r\nFor more than 50 years, GQ has been the premier men’s magazine, providing definitive coverage of style, culture, politics and more. In that tradition, GQ’s video channel covers every part of a man’s life, from entertainment and sports to fashion and grooming advice. Welcome to the modern guide to style advice, dating tips, celebrity videos, music, sports and more.\r\n\r\nhttps://www.youtube.com/user/GQVideos"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "oarHTtNiavDfMCVdmvTCKYSpxZ0",
+            "id": "YYsReoZMj1k",
+            "snippet": {
+                "publishedAt": "2024-02-26T17:00:26Z",
+                "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+                "title": "Horizon: An American Saga | Trailer 1",
+                "description": "This Summer the American Saga begins. Horizon: An American Saga - Only in Theaters June 28 #Horizonamericansaga\n\nAcademy Award-winning visionary filmmaker Kevin Costner directs New Line Cinema’s vast “Horizon: An American Saga” Chapters One and Two, a multi-faceted chronicle covering the Civil War expansion and settlement of the American West.  A story of America too big for one film, this true\ncinematic event also stars Costner, who co-writes with Jon Baird (“The Explorers Guild”) and produces through his Territory Pictures.  \n\nIn the great tradition of Warner Bros. Pictures’ iconic Westerns, “Horizon: An American Saga” explores the lure of the Old West and how it was won—and lost—through the blood, sweat and tears of many.  Spanning the four years of the Civil War, from 1861 to 1865, Costner’s ambitious cinematic adventure will take audiences on an emotional journey across a country at war with itself, experienced through the lens of families, friends and foes all attempting to discover what it truly means to be the United States of America.  \n\nCostner stars alongside an impressive ensemble cast that includes Sienna Miller, Sam Worthington, Jena Malone, Owen Crow Shoe, Tatanka Means, Ella Hunt, Tim Guinee, Danny Huston, Colin Cunningham, Scott Haze, Tom Payne, Abbey Lee, Michael Rooker, Will Patton, Georgia MacPhail, Douglas Smith, Luke Wilson, Isabelle Fuhrman, Jamie Campbell Bower, Alejandro Edda, Wasé Winyan Chief, Michael Anganaro, Angus Macfadyen, Jon Beavers, Alex Nibley, Kathleen Quinlan, Etienne Kellici, Amos Jason Charging Cloud, Bodhi Okuma Linton, Gregory Cruz, James Russo, Jeff Fahey, David O’Hara, Chris Conner, Leroy M. Silva, Bernardo Velasco, Tom Everett, Glynn Turman, Giovanni Ribisi and more.\n\nCostner returns to directing for the first time since his 2003 critically acclaimed hit “Open Range,” and revisits Civil War-era America, the setting for his 1990 blockbuster and directorial debut, “Dances with Wolves,” which won seven Academy Awards, including Best Picture and Best Director.  He produces alongside Howard Kaplan and Mark Gillard, with Danny Peykoff, Robert Scannell, Armyan Bernstein, Charlie Lyons, Barry Berg and Rod Lake executive producing.\n\nCostner is joined behind the camera by director of photography J. Michael Muro (“Billionaire Boys Club,” “Parker”), production designer Derek R. Hill (“Tom Clancy’s Jack Ryan,” “The Magnificent Seven”), editor Miklos Wright (“For All Mankind,” “Open Range”) and costume designer Lisa Lovaas (“Ambulance,” “Transformers: The Last Knight”).  The music is by Oscar nominee John Debney (“The Passion of the Christ,” “The Greatest Showman”).\n\nA New Line Cinema presentation of a Territory Pictures production, “Horizon: An American Saga” will be distributed by Warner Bros. Pictures.  The films will be released in theaters nationwide, the first on June 28, 2024, the second on August 16, 2024.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YYsReoZMj1k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YYsReoZMj1k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YYsReoZMj1k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YYsReoZMj1k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YYsReoZMj1k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Warner Bros. Pictures",
+                "tags": [
+                    "2024",
+                    "Abbey Lee",
+                    "Chapter 1",
+                    "Coming Soon",
+                    "Drama",
+                    "Ella Hunt",
+                    "Horizon American Saga",
+                    "Horizon An American Saga",
+                    "Horizon Saga",
+                    "Isabelle Fuhrman.",
+                    "Jamie Campbell Bower",
+                    "Jena Malone",
+                    "Jon Baird",
+                    "Kevin Costner",
+                    "Luke Wilson",
+                    "Michael Angarano",
+                    "Michael Rooker",
+                    "Movie",
+                    "New Line Cinema",
+                    "Pionsenay",
+                    "Scott Haze",
+                    "Sienna Miller",
+                    "Tatanka Means",
+                    "Tom Payne",
+                    "Trailer",
+                    "WB",
+                    "Warner Bros",
+                    "Warner Bros. Pictures",
+                    "Warner Brothers",
+                    "Western"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Horizon: An American Saga | Trailer 1",
+                    "description": "This Summer the American Saga begins. Horizon: An American Saga - Only in Theaters June 28 #Horizonamericansaga\n\nAcademy Award-winning visionary filmmaker Kevin Costner directs New Line Cinema’s vast “Horizon: An American Saga” Chapters One and Two, a multi-faceted chronicle covering the Civil War expansion and settlement of the American West.  A story of America too big for one film, this true\ncinematic event also stars Costner, who co-writes with Jon Baird (“The Explorers Guild”) and produces through his Territory Pictures.  \n\nIn the great tradition of Warner Bros. Pictures’ iconic Westerns, “Horizon: An American Saga” explores the lure of the Old West and how it was won—and lost—through the blood, sweat and tears of many.  Spanning the four years of the Civil War, from 1861 to 1865, Costner’s ambitious cinematic adventure will take audiences on an emotional journey across a country at war with itself, experienced through the lens of families, friends and foes all attempting to discover what it truly means to be the United States of America.  \n\nCostner stars alongside an impressive ensemble cast that includes Sienna Miller, Sam Worthington, Jena Malone, Owen Crow Shoe, Tatanka Means, Ella Hunt, Tim Guinee, Danny Huston, Colin Cunningham, Scott Haze, Tom Payne, Abbey Lee, Michael Rooker, Will Patton, Georgia MacPhail, Douglas Smith, Luke Wilson, Isabelle Fuhrman, Jamie Campbell Bower, Alejandro Edda, Wasé Winyan Chief, Michael Anganaro, Angus Macfadyen, Jon Beavers, Alex Nibley, Kathleen Quinlan, Etienne Kellici, Amos Jason Charging Cloud, Bodhi Okuma Linton, Gregory Cruz, James Russo, Jeff Fahey, David O’Hara, Chris Conner, Leroy M. Silva, Bernardo Velasco, Tom Everett, Glynn Turman, Giovanni Ribisi and more.\n\nCostner returns to directing for the first time since his 2003 critically acclaimed hit “Open Range,” and revisits Civil War-era America, the setting for his 1990 blockbuster and directorial debut, “Dances with Wolves,” which won seven Academy Awards, including Best Picture and Best Director.  He produces alongside Howard Kaplan and Mark Gillard, with Danny Peykoff, Robert Scannell, Armyan Bernstein, Charlie Lyons, Barry Berg and Rod Lake executive producing.\n\nCostner is joined behind the camera by director of photography J. Michael Muro (“Billionaire Boys Club,” “Parker”), production designer Derek R. Hill (“Tom Clancy’s Jack Ryan,” “The Magnificent Seven”), editor Miklos Wright (“For All Mankind,” “Open Range”) and costume designer Lisa Lovaas (“Ambulance,” “Transformers: The Last Knight”).  The music is by Oscar nominee John Debney (“The Passion of the Christ,” “The Greatest Showman”).\n\nA New Line Cinema presentation of a Territory Pictures production, “Horizon: An American Saga” will be distributed by Warner Bros. Pictures.  The films will be released in theaters nationwide, the first on June 28, 2024, the second on August 16, 2024."
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "HRbE0diDvNqIA08yO1buizCTWeM",
+            "id": "rt6vQqPG2WI",
+            "snippet": {
+                "publishedAt": "2024-02-26T02:03:49Z",
+                "channelId": "UCAMPco9PqjBbI_MLsDOO4Jw",
+                "title": "Emmy Russell: Loretta Lynn's Granddaughter Sings Tearful Original Song 'Skinny' - American Idol 2024",
+                "description": "Loretta Lynn's granddaughter comes to IDOL to find her own voice, her own lane, and she does so with beauty and grace. Singing her original song \"Skinny\" about an eating disorder, Emmy Russell gets her golden ticket to Hollywood. \n\nSee more of American Idol 2024 on our official site: http://www.americanidol.com\nFacebook: facebook.com/AmericanIdol\nTwitter: twitter.com/americanidol\nInstagram: instagram.com/americanidol/\nTikTok: tiktok.com/americanidol\n\nAMERICAN IDOL, the iconic series that revolutionized the television landscape by pioneering the music competition genre, returns on ABC.\n\nAmerican Idol 2024\n\nHelping to determine who America will ultimately vote for to become the next singing sensation are music industry forces and superstar judges Luke Bryan, Katy Perry and Lionel Richie. Emmy® Award-winning host and producer Ryan Seacrest continues as host of the beloved series, for the historic 22nd season.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rt6vQqPG2WI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rt6vQqPG2WI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rt6vQqPG2WI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rt6vQqPG2WI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rt6vQqPG2WI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "American Idol",
+                "tags": [
+                    "American Idol",
+                    "singing competition",
+                    "Katy Perry",
+                    "Ryan Seacrest",
+                    "Luke Bryan",
+                    "Lionel Richie",
+                    "covers",
+                    "sing",
+                    "ABC",
+                    "American Idol 2022",
+                    "auditions",
+                    "Emmy Russell",
+                    "Skinny"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Emmy Russell: Loretta Lynn's Granddaughter Sings Tearful Original Song 'Skinny' - American Idol 2024",
+                    "description": "Loretta Lynn's granddaughter comes to IDOL to find her own voice, her own lane, and she does so with beauty and grace. Singing her original song \"Skinny\" about an eating disorder, Emmy Russell gets her golden ticket to Hollywood. \n\nSee more of American Idol 2024 on our official site: http://www.americanidol.com\nFacebook: facebook.com/AmericanIdol\nTwitter: twitter.com/americanidol\nInstagram: instagram.com/americanidol/\nTikTok: tiktok.com/americanidol\n\nAMERICAN IDOL, the iconic series that revolutionized the television landscape by pioneering the music competition genre, returns on ABC.\n\nAmerican Idol 2024\n\nHelping to determine who America will ultimately vote for to become the next singing sensation are music industry forces and superstar judges Luke Bryan, Katy Perry and Lionel Richie. Emmy® Award-winning host and producer Ryan Seacrest continues as host of the beloved series, for the historic 22nd season."
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "H1peLsVif8datO7adIbPpEkSFJA",
+            "id": "MtzWGnQdzQE",
+            "snippet": {
+                "publishedAt": "2024-02-27T18:00:09Z",
+                "channelId": "UCcLYOTz3ct6_lk9iLToxxAw",
+                "title": "THE STIG CRASHED MY MCLAREN THAT I JUST REBUILT",
+                "description": "Secure my LIMITED EDITION yfood today, and save 10% off with MAT-YOUTUBE: https://bit.ly/MatArmstrong_LimitedEdition_yfood\nUK ONLY \n\nI just rebuilt my wrecked Mclaren 720s but then ran into some more issues after fitting the alloys. The car started to smoke, then completely cut out. We couldnt solve the issue and had to take it to mclaren themselves to fix it. After that @BenCollinsDrives took the 720s for a run around the track but it all ended badly as we tried to push him a little too hard.\n\nThanks so much to @RoadToSuccessOfficialPodcast  & @BenCollinsDrives \n\n👇 FOR MORE CONTENT CHECK OUT MY SECOND CHANNEL 👇\nhttps://www.youtube.com/@matarmstrongmk2\n\n⬇️ ALL MA MERCHANDISE ⬇️\nhttps://matarmstrong.co.uk/\n\n⬇️ Follow Me Here Aswell ⬇️\nhttps://facebook.com/matarmstrongbmx\nhttps://instagram.com/matarmstrongbmx",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MtzWGnQdzQE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MtzWGnQdzQE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MtzWGnQdzQE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MtzWGnQdzQE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MtzWGnQdzQE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mat Armstrong",
+                "tags": [
+                    "matt armstrong",
+                    "mat armstrong",
+                    "car rebuild",
+                    "crashed mclaren",
+                    "rebuilding a wrecked mclaren 720s",
+                    "copart rebuild",
+                    "mclaren 720s",
+                    "rebuilding a wrecked mclaren",
+                    "how to fix a wrecked car",
+                    "rebuilding a wrecked 2018 mclaren 720s",
+                    "salvage mclaren",
+                    "supercar fails",
+                    "stig",
+                    "top gear",
+                    "the stig",
+                    "mclaren",
+                    "modified",
+                    "break down"
+                ],
+                "categoryId": "2",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-GB",
+                "localized": {
+                    "title": "THE STIG CRASHED MY MCLAREN THAT I JUST REBUILT",
+                    "description": "Secure my LIMITED EDITION yfood today, and save 10% off with MAT-YOUTUBE: https://bit.ly/MatArmstrong_LimitedEdition_yfood\nUK ONLY \n\nI just rebuilt my wrecked Mclaren 720s but then ran into some more issues after fitting the alloys. The car started to smoke, then completely cut out. We couldnt solve the issue and had to take it to mclaren themselves to fix it. After that @BenCollinsDrives took the 720s for a run around the track but it all ended badly as we tried to push him a little too hard.\n\nThanks so much to @RoadToSuccessOfficialPodcast  & @BenCollinsDrives \n\n👇 FOR MORE CONTENT CHECK OUT MY SECOND CHANNEL 👇\nhttps://www.youtube.com/@matarmstrongmk2\n\n⬇️ ALL MA MERCHANDISE ⬇️\nhttps://matarmstrong.co.uk/\n\n⬇️ Follow Me Here Aswell ⬇️\nhttps://facebook.com/matarmstrongbmx\nhttps://instagram.com/matarmstrongbmx"
+                },
+                "defaultAudioLanguage": "en-GB"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "HZBaMZdCSUq158xsBt3QYuz5_iE",
+            "id": "dPZ3jNpMqds",
+            "snippet": {
+                "publishedAt": "2024-02-27T16:02:20Z",
+                "channelId": "UC0A_Jk_KqFcwnEBtyNqolsA",
+                "title": "Everything to Know About Pokemon Legends Z-A",
+                "description": "KALOS IS BACK BABY\n\nSHANK that like button!\n\r\nhttps://twitter.com/TyranitarTube\r\nhttp://instagram.com/therealttar",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dPZ3jNpMqds/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dPZ3jNpMqds/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dPZ3jNpMqds/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dPZ3jNpMqds/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dPZ3jNpMqds/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TyranitarTube",
+                "tags": [
+                    "pokemon presents",
+                    "pokemon direct",
+                    "feb 27 2024",
+                    "february 27 2024",
+                    "tyranitartube",
+                    "ttar",
+                    "ttarworld"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Everything to Know About Pokemon Legends Z-A",
+                    "description": "KALOS IS BACK BABY\n\nSHANK that like button!\n\r\nhttps://twitter.com/TyranitarTube\r\nhttp://instagram.com/therealttar"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "FXwYseM7_KmkrzAXpiwk37nsDqw",
+            "id": "5HTlfavDzAo",
+            "snippet": {
+                "publishedAt": "2024-02-27T15:27:05Z",
+                "channelId": "UCIjJUzfVC-EVoqQCdFXXjgw",
+                "title": "MandJTV Reacts to Pokémon Legends Z-A",
+                "description": "Pokemon Legends Z-A coming 2025\n📽️Main Channel! http://bit.ly/mandjtv_sub\n👕Merch store! https://mandjtvmerch.com/\n🎮Gameplay Channel MandJTV Plays! http://bit.ly/mandjtv_plays\n💸Support me on Patreon for exclusive videos! https://www.patreon.com/JohnMichaelandCo\n📱 TikTok! http://bit.ly/mandjtv_tiktok\n📸Instagram! http://bit.ly/mandjtv_insta\n👽Reddit! http://bit.ly/mandjtv_reddit\n\nEdited by Katie Rose\nMytey subscribe animation by Spoody: https://www.youtube.com/channel/UCtT-Ff9o7Ygj0dUu8wGiXcw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5HTlfavDzAo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5HTlfavDzAo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5HTlfavDzAo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5HTlfavDzAo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5HTlfavDzAo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MandJTV Extra",
+                "tags": [
+                    "mandjtv",
+                    "mandjtv plays",
+                    "pokemon",
+                    "pokemon scarlet and violet",
+                    "video games",
+                    "gaming",
+                    "dlc"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "MandJTV Reacts to Pokémon Legends Z-A",
+                    "description": "Pokemon Legends Z-A coming 2025\n📽️Main Channel! http://bit.ly/mandjtv_sub\n👕Merch store! https://mandjtvmerch.com/\n🎮Gameplay Channel MandJTV Plays! http://bit.ly/mandjtv_plays\n💸Support me on Patreon for exclusive videos! https://www.patreon.com/JohnMichaelandCo\n📱 TikTok! http://bit.ly/mandjtv_tiktok\n📸Instagram! http://bit.ly/mandjtv_insta\n👽Reddit! http://bit.ly/mandjtv_reddit\n\nEdited by Katie Rose\nMytey subscribe animation by Spoody: https://www.youtube.com/channel/UCtT-Ff9o7Ygj0dUu8wGiXcw"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "onEhhh02J2dpYTu-CYfw3p1u8OM",
+            "id": "vPD887VWi6A",
+            "snippet": {
+                "publishedAt": "2024-02-27T13:00:09Z",
+                "channelId": "UCqly9F4Fr_jf2Y1Cy5hacRg",
+                "title": "DRAGON BALL LEGENDS \"ULTRA Super Saiyan 2 Gohan (Youth)\" Trailer",
+                "description": "ULTRA Super Saiyan 2 Gohan (Youth) joins the fight on 2/29 (UTC)!\nYou won't want to miss the incredible power of Super Saiyan 2 awakened by rage!\n\nSummon Period: 2/29/2024 - 3/14/2024 06：00 (UTC) (Sched.)\n*Content and period subject to change without notice.\n\nーーーーーーーーーー\nVisit our website: https://dble.bn-ent.net/en/\nTwitter: https://twitter.com/db_legends\nFacebook: https://www.facebook.com/DBLegends.Official\nInstagram: https://www.instagram.com/db_legends/\nDownload Now: https://bnent.jp/dbl_yt_des/\nーーーーーーーーーー\n\n\n(C)BIRD STUDIO/SHUEISHA, TOEI ANIMATION (C)Bandai Namco Entertainment Inc.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vPD887VWi6A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vPD887VWi6A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vPD887VWi6A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vPD887VWi6A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vPD887VWi6A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bandai Namco Entertainment",
+                "tags": [
+                    "バンダイナムコ",
+                    "バンナム",
+                    "876",
+                    "876TV",
+                    "BNE",
+                    "バンダイナムコエンターテインメント",
+                    "BANDAINAMCO",
+                    "BANNAM",
+                    "ばんなむ",
+                    "ばんだいなむこ",
+                    "ばんだいなむこえんたーていんめんと",
+                    "バンナムTV",
+                    "Dragon Ball",
+                    "Dragon Ball Z",
+                    "Dragon Ball Legends",
+                    "Dokkan",
+                    "Vegeta",
+                    "DB",
+                    "Legends"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "DRAGON BALL LEGENDS \"ULTRA Super Saiyan 2 Gohan (Youth)\" Trailer",
+                    "description": "ULTRA Super Saiyan 2 Gohan (Youth) joins the fight on 2/29 (UTC)!\nYou won't want to miss the incredible power of Super Saiyan 2 awakened by rage!\n\nSummon Period: 2/29/2024 - 3/14/2024 06：00 (UTC) (Sched.)\n*Content and period subject to change without notice.\n\nーーーーーーーーーー\nVisit our website: https://dble.bn-ent.net/en/\nTwitter: https://twitter.com/db_legends\nFacebook: https://www.facebook.com/DBLegends.Official\nInstagram: https://www.instagram.com/db_legends/\nDownload Now: https://bnent.jp/dbl_yt_des/\nーーーーーーーーーー\n\n\n(C)BIRD STUDIO/SHUEISHA, TOEI ANIMATION (C)Bandai Namco Entertainment Inc."
+                },
+                "defaultAudioLanguage": "ja"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pUyv3iCaSyJSX1-JIBEnWM6LFIo",
+            "id": "JHQS6B8kKMg",
+            "snippet": {
+                "publishedAt": "2024-02-16T14:56:36Z",
+                "channelId": "UCHWOhZ6xPXWUwqqJi1xMoVg",
+                "title": "I SECRETLY bought PS5 for my BF and Customized it (SHOCK!)",
+                "description": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCHWOhZ6xPXWUwqqJi1xMoVg/join\n\nI decided to surprise my boyfriend and upgrade his PS4, so I bought a new PS5 and customized it with Posca markers for him. I drew his favorite characters Nezuko and Tanjiro from the Demon Slayer Anime. Hope you guys enjoy it ❤️\n\n🛍️ART Prints and ORIGINALS at my shop : www.Angecope.com 👉🏻 https://angecope.com/en-pl/collections/prints\n\n💌: cooperation ange.cope.yt@gmail.com \n\n✨Also Find me on socials:\n- instagram @ange_cope https://www.instagram.com/ange_cope?igsh=YW5mcDBpemxoNnd1 \n-YouTube  @ange_cope",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JHQS6B8kKMg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JHQS6B8kKMg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JHQS6B8kKMg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JHQS6B8kKMg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JHQS6B8kKMg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ange_cope",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "I SECRETLY bought PS5 for my BF and Customized it (SHOCK!)",
+                    "description": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCHWOhZ6xPXWUwqqJi1xMoVg/join\n\nI decided to surprise my boyfriend and upgrade his PS4, so I bought a new PS5 and customized it with Posca markers for him. I drew his favorite characters Nezuko and Tanjiro from the Demon Slayer Anime. Hope you guys enjoy it ❤️\n\n🛍️ART Prints and ORIGINALS at my shop : www.Angecope.com 👉🏻 https://angecope.com/en-pl/collections/prints\n\n💌: cooperation ange.cope.yt@gmail.com \n\n✨Also Find me on socials:\n- instagram @ange_cope https://www.instagram.com/ange_cope?igsh=YW5mcDBpemxoNnd1 \n-YouTube  @ange_cope"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "zR78-Iz0ecmWQVMeAzPlCXAeo_A",
+            "id": "2bfoHS6JDZw",
+            "snippet": {
+                "publishedAt": "2024-02-27T13:30:06Z",
+                "channelId": "UCN5bmo9sLlUJVGJe5egRI0A",
+                "title": "Cam Newton fight, bad for culture? Ryan Clark, Channing Crowder & Fred Taylor discuss | The Pivot",
+                "description": "SUBSCRIBE HERE: https://www.youtube.com/channel/UCN5bmo9sLlUJVGJe5egRI0A?sub_confirmation=1\n\nWATCH THE PIVOT PODCAST: https://youtube.com/@thepivotpodcast/videos\n\nCam Newton fight, bad for youth and culture? Coaches and young people react. Game Changer or Game Manager\n\nRyan Clark, Channing Crowder & Fred Taylor weigh in on the fight at Cam Newton’s 7on7 football camp and how it’s a tough thing to have happen when people are trying to do good things for young people and it’s our own people getting in the way. \n\nFOLLOW THE PIVOT PODCAST:\nINSTAGRAM | https://instagram.com/thepivot\nTWITTER | https://twitter.com/thepivot\nTIKTOK | https://tiktok.com/@thepivot\nFACEBOOK | https://facebook.com/thepivotpodcast\nSPOTIFY | https://open.spotify.com/show/5KtXTWiC3J5WW1CVTpYG5V\nAPPLE PODCASTS | https://podcasts.apple.com/us/podcast/the-pivot-podcast/id1603292451\n\n#thepivot \n#pivotpodcast",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2bfoHS6JDZw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2bfoHS6JDZw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2bfoHS6JDZw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2bfoHS6JDZw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "The Pivot Podcast Clips",
+                "tags": [
+                    "the pivot",
+                    "the pivot podcast",
+                    "new podcast",
+                    "football podcast",
+                    "channing crowder",
+                    "fred taylor",
+                    "ryan clark",
+                    "nfl",
+                    "football",
+                    "super bowl",
+                    "superbowl",
+                    "nfl 2023",
+                    "nfl draft",
+                    "nfl highlights",
+                    "full send podcast",
+                    "shots podcast network",
+                    "espn",
+                    "football highlights"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Cam Newton fight, bad for culture? Ryan Clark, Channing Crowder & Fred Taylor discuss | The Pivot",
+                    "description": "SUBSCRIBE HERE: https://www.youtube.com/channel/UCN5bmo9sLlUJVGJe5egRI0A?sub_confirmation=1\n\nWATCH THE PIVOT PODCAST: https://youtube.com/@thepivotpodcast/videos\n\nCam Newton fight, bad for youth and culture? Coaches and young people react. Game Changer or Game Manager\n\nRyan Clark, Channing Crowder & Fred Taylor weigh in on the fight at Cam Newton’s 7on7 football camp and how it’s a tough thing to have happen when people are trying to do good things for young people and it’s our own people getting in the way. \n\nFOLLOW THE PIVOT PODCAST:\nINSTAGRAM | https://instagram.com/thepivot\nTWITTER | https://twitter.com/thepivot\nTIKTOK | https://tiktok.com/@thepivot\nFACEBOOK | https://facebook.com/thepivotpodcast\nSPOTIFY | https://open.spotify.com/show/5KtXTWiC3J5WW1CVTpYG5V\nAPPLE PODCASTS | https://podcasts.apple.com/us/podcast/the-pivot-podcast/id1603292451\n\n#thepivot \n#pivotpodcast"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "jvE--AzPh6ZiJKqg3YquGpZNHv8",
+            "id": "tq26OS29TEM",
+            "snippet": {
+                "publishedAt": "2024-02-27T18:00:35Z",
+                "channelId": "UCy06jHRS_82N2i5v1YL7glQ",
+                "title": "Jubilee's Tinder in Real Life is Truly INSANE",
+                "description": "get notified when the hoodie drops: https://codysrunclub.com\n\n\n\nedited by zade: \ntwitter http://twitter.com/realzade \ninsta https://www.instagram.com/reallyzade\n\n\n\nORIGINAL VIDEO: https://www.youtube.com/watch?v=LA6XoiVN1tk\nSUBSCRIBE TO NECTAR: https://www.youtube.com/@lovecommanectar\n\n\n\nJobs: https://www.notion.so/Jobs-at-Cody-Ko-Productions-2aca79aad5e245339be9b5715cec811c\nVideo Idea / Collaboration Form: https://forms.gle/2HncRsdKhvaXVEa47",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tq26OS29TEM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tq26OS29TEM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tq26OS29TEM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tq26OS29TEM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tq26OS29TEM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cody & Ko",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Jubilee's Tinder in Real Life is Truly INSANE",
+                    "description": "get notified when the hoodie drops: https://codysrunclub.com\n\n\n\nedited by zade: \ntwitter http://twitter.com/realzade \ninsta https://www.instagram.com/reallyzade\n\n\n\nORIGINAL VIDEO: https://www.youtube.com/watch?v=LA6XoiVN1tk\nSUBSCRIBE TO NECTAR: https://www.youtube.com/@lovecommanectar\n\n\n\nJobs: https://www.notion.so/Jobs-at-Cody-Ko-Productions-2aca79aad5e245339be9b5715cec811c\nVideo Idea / Collaboration Form: https://forms.gle/2HncRsdKhvaXVEa47"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "9f5vmMOaO4XUaayaBHazTKVUXfE",
+            "id": "CrhrNS0JFyg",
+            "snippet": {
+                "publishedAt": "2024-02-27T17:00:08Z",
+                "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+                "title": "The Watchers | Official Teaser Trailer",
+                "description": "Welcome to the show. #TheWatchers only in theaters June 7.\n\nhttps://www.areyouwatching.com/ #AreYouWatching\n\nFrom producer M. Night Shyamalan comes “The Watchers,” written and directed by Ishana Night Shyamalan and based on the novel by A.M. Shine. The film follows Mina, a 28-year-old artist, who gets stranded in an expansive, untouched forest in western Ireland. When Mina finds shelter, she unknowingly becomes trapped alongside three strangers who are watched and stalked by mysterious creatures each night.\n\nYou can’t see them, but they see everything.\n\n“The Watchers” stars Dakota Fanning (“Once Upon a Time in Hollywood,” “Ocean’s Eight”), Georgina Campbell (“Barbarian,” “Suspicion”), Oliver Finnegan (“Creeped Out,” “Outlander”) and Olwen Fouere (“The Northman,” “The Tourist”). The film is produced by M. Night Shyamalan, Ashwin Rajan and Nimitt Mankad. The executive producers are Jo Homewood and Stephen Dembitzer. \n\nJoining writer/director Shyamalan behind-the-camera are director of photography Eli Arenson (“Lamb,” “Hospitality”), production designer Ferdia Murphy (“Lola,” “Finding You”), editor Job ter Burg (“Benedetta,” “Elle”) and costume design by Frank Gallacher (“Sebastian,” “Aftersun”). The music is by Abel Korzeniowski (“Till,” “The Nun”). \n\nNew Line Cinema presents “The Watchers,” set to open in theaters internationally beginning 5 June 2024 and in North America on June 7, 2024; it will be distributed worldwide by Warner Bros. Pictures.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CrhrNS0JFyg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CrhrNS0JFyg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CrhrNS0JFyg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CrhrNS0JFyg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CrhrNS0JFyg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Warner Bros. Pictures",
+                "tags": [
+                    "2024",
+                    "Coming Soon",
+                    "Dakota Fanning",
+                    "Georgina Campbell",
+                    "Horror",
+                    "Ishana Shyamalan",
+                    "M. Night Shyamalan",
+                    "Movie",
+                    "Mystery",
+                    "New Line Cinema",
+                    "Nimitt Mankad",
+                    "Oliver Finnegan",
+                    "Olwen Fouere",
+                    "Thriller",
+                    "Trailer",
+                    "WB",
+                    "Warner Bros",
+                    "Warner Bros. Pictures",
+                    "Warner Brothers"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "The Watchers | Official Teaser Trailer",
+                    "description": "Welcome to the show. #TheWatchers only in theaters June 7.\n\nhttps://www.areyouwatching.com/ #AreYouWatching\n\nFrom producer M. Night Shyamalan comes “The Watchers,” written and directed by Ishana Night Shyamalan and based on the novel by A.M. Shine. The film follows Mina, a 28-year-old artist, who gets stranded in an expansive, untouched forest in western Ireland. When Mina finds shelter, she unknowingly becomes trapped alongside three strangers who are watched and stalked by mysterious creatures each night.\n\nYou can’t see them, but they see everything.\n\n“The Watchers” stars Dakota Fanning (“Once Upon a Time in Hollywood,” “Ocean’s Eight”), Georgina Campbell (“Barbarian,” “Suspicion”), Oliver Finnegan (“Creeped Out,” “Outlander”) and Olwen Fouere (“The Northman,” “The Tourist”). The film is produced by M. Night Shyamalan, Ashwin Rajan and Nimitt Mankad. The executive producers are Jo Homewood and Stephen Dembitzer. \n\nJoining writer/director Shyamalan behind-the-camera are director of photography Eli Arenson (“Lamb,” “Hospitality”), production designer Ferdia Murphy (“Lola,” “Finding You”), editor Job ter Burg (“Benedetta,” “Elle”) and costume design by Frank Gallacher (“Sebastian,” “Aftersun”). The music is by Abel Korzeniowski (“Till,” “The Nun”). \n\nNew Line Cinema presents “The Watchers,” set to open in theaters internationally beginning 5 June 2024 and in North America on June 7, 2024; it will be distributed worldwide by Warner Bros. Pictures."
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "NDaJMgEcRZnowWfmB8rQhCIosmI",
+            "id": "Q-ucP6W1K4Y",
+            "snippet": {
+                "publishedAt": "2024-02-27T18:32:07Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "This Upgrade Took TWO YEARS – AMD $5000 Ultimate Tech Upgrade",
+                "description": "AMD's new Ryzen™ 7 8700G is built ready for high-end graphics upgrade. With the power of personal AI processing, HYPR-RX & AFMF, and AMD Software: Adrenalin Edition providing unprecedented command over Radeon graphics cards and Ryzen processors, It is the ultimate gaming processor for your setup. Buy it at https://lmg.gg/amd8700g or check out the link below for more info:\n\nhttps://lmg.gg/AMD-AUTU-8700G\n\nEnter the giveaway on our Twitter!\n\nhttps://x.com/LinusTech/status/1762546316004192388?s=20\n\nNot surprised it took Kyle, our Engineering Manager, 2 years to build this table considering it took him 3 years to finish our LTT Screwdriver….But what you do get is an insanely chaotic time and Linus and Kyle trying not to hurt each other for 30 minutes! Thank again AMD!\n\nDiscuss on the forum: https://linustechtips.com/topic/1560193-this-upgrade-took-two-years-%E2%80%93-amd-5000-ultimate-tech-upgrade\n\nCheck Out the Tech from Kyle's Ultimate Upgrade! Thanks AMD!\n\nhttps://lmg.gg/amdkylet\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n► SPONSORS, AFFILIATES, AND PARTNERS: https://lmg.gg/partners\n► EQUIPMENT WE USE TO FILM LTT: https://lmg.gg/LTTEquipment\n► OUR WAN PODCAST GEAR: https://lmg.gg/wanset\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech\n\nMUSIC CREDIT\n---------------------------------------------------\nIntro: Laszlo - Supernova\nVideo Link: https://www.youtube.com/watch?v=PKfxmFU3lWY\niTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712\nArtist Link: https://soundcloud.com/laszlomusic\n\nOutro: Approaching Nirvana - Sugar High\nVideo Link: https://www.youtube.com/watch?v=ngsGBSCDwcI\nListen on Spotify: http://spoti.fi/UxWkUw\nArtist Link: http://www.youtube.com/approachingnirvana\n\nIntro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/\nMonitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp\nMechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4\nMouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE\n\nCHAPTERS\n---------------------------------------------------\n0:00 Intro\n1:12  Snooping around\n3:35 Why did Linus shave lol\n3:51 More snoopin\n5:25 The 2 year table\n12:42 Table liner trouble\n14:17 Here is the TECH upgrade\n18:46 Please let this table be done already\n19:13 Back to PCs\n23:08 But do they post?\n23:36 The table is FINALLY done\n26:22 New peripherals!\n28:36 Cable wiggling\n29:06 Uncle Linus Time\n29:40 It's ALIVE\n30:13 Final Results/Outro",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q-ucP6W1K4Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q-ucP6W1K4Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q-ucP6W1K4Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Q-ucP6W1K4Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Q-ucP6W1K4Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "tags": [
+                    "LTT",
+                    "AMD",
+                    "Ultimate",
+                    "Tech Upgrade",
+                    "Ryzen",
+                    "Gamer",
+                    "Gaming",
+                    "PC",
+                    "Setup",
+                    "Linus",
+                    "Adam",
+                    "CPU",
+                    "GPU",
+                    "Home Sound",
+                    "Hardware",
+                    "Computer",
+                    "Soundbar",
+                    "intel extreme tech upgrade",
+                    "intel upgrade adam",
+                    "intel tech upgrade",
+                    "$5000 upgrade",
+                    "uprade",
+                    "$5000",
+                    "intel",
+                    "linus intel upgrade",
+                    "linus upgrad"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "This Upgrade Took TWO YEARS – AMD $5000 Ultimate Tech Upgrade",
+                    "description": "AMD's new Ryzen™ 7 8700G is built ready for high-end graphics upgrade. With the power of personal AI processing, HYPR-RX & AFMF, and AMD Software: Adrenalin Edition providing unprecedented command over Radeon graphics cards and Ryzen processors, It is the ultimate gaming processor for your setup. Buy it at https://lmg.gg/amd8700g or check out the link below for more info:\n\nhttps://lmg.gg/AMD-AUTU-8700G\n\nEnter the giveaway on our Twitter!\n\nhttps://x.com/LinusTech/status/1762546316004192388?s=20\n\nNot surprised it took Kyle, our Engineering Manager, 2 years to build this table considering it took him 3 years to finish our LTT Screwdriver….But what you do get is an insanely chaotic time and Linus and Kyle trying not to hurt each other for 30 minutes! Thank again AMD!\n\nDiscuss on the forum: https://linustechtips.com/topic/1560193-this-upgrade-took-two-years-%E2%80%93-amd-5000-ultimate-tech-upgrade\n\nCheck Out the Tech from Kyle's Ultimate Upgrade! Thanks AMD!\n\nhttps://lmg.gg/amdkylet\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n► SPONSORS, AFFILIATES, AND PARTNERS: https://lmg.gg/partners\n► EQUIPMENT WE USE TO FILM LTT: https://lmg.gg/LTTEquipment\n► OUR WAN PODCAST GEAR: https://lmg.gg/wanset\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech\n\nMUSIC CREDIT\n---------------------------------------------------\nIntro: Laszlo - Supernova\nVideo Link: https://www.youtube.com/watch?v=PKfxmFU3lWY\niTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712\nArtist Link: https://soundcloud.com/laszlomusic\n\nOutro: Approaching Nirvana - Sugar High\nVideo Link: https://www.youtube.com/watch?v=ngsGBSCDwcI\nListen on Spotify: http://spoti.fi/UxWkUw\nArtist Link: http://www.youtube.com/approachingnirvana\n\nIntro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/\nMonitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp\nMechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4\nMouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE\n\nCHAPTERS\n---------------------------------------------------\n0:00 Intro\n1:12  Snooping around\n3:35 Why did Linus shave lol\n3:51 More snoopin\n5:25 The 2 year table\n12:42 Table liner trouble\n14:17 Here is the TECH upgrade\n18:46 Please let this table be done already\n19:13 Back to PCs\n23:08 But do they post?\n23:36 The table is FINALLY done\n26:22 New peripherals!\n28:36 Cable wiggling\n29:06 Uncle Linus Time\n29:40 It's ALIVE\n30:13 Final Results/Outro"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        }
+    ],
+    "nextPageToken": "CBkQAA",
+    "pageInfo": {
+        "totalResults": 200,
+        "resultsPerPage": 25
+    }
+}

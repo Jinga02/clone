@@ -1,14 +1,23 @@
+/** @format */
+
 import React from "react";
 import { FaYoutube } from "react-icons/fa";
 import { FaSearch } from "react-icons/fa";
+import { useNavigate } from "react-router-dom";
 
 export default function SearchBar() {
+  const navigate = useNavigate();
   return (
     <header className="w-full flex p-4 text-2xl border-b boder-zinc-600 mb-4">
-      <div className="flex">
+      <button
+        className="flex"
+        onClick={() => {
+          navigate("/");
+        }}
+      >
         <FaYoutube />
         <h1>youtube</h1>
-      </div>
+      </button>
       <form className="">
         <input type="text" placeholder="search..." />
         <button>
