@@ -29,7 +29,7 @@ export default function SearchBar() {
   }, [keyword]);
 
   return (
-    <header className="w-full flex p-4 text-2xl border-b boder-zinc-600 mb-4">
+    <header className=" bg-bgLight dark:bg-bgDark w-full top-0 h-20 ml-12 flex p-4 text-2xl border-b boder-zinc-600 fixed z-10 ">
       <Link to={"/"} className="flex items-center">
         <FaYoutube className="text-4xl text-red-500" />
         <h1 className="font-bold ml-3 text-3xl">youtube</h1>
@@ -48,7 +48,7 @@ export default function SearchBar() {
           <FaSearch />
         </button>
       </form>
-      <button className="mr-3" onClick={handleTheme}>
+      <button className="absolute top-8 right-20" onClick={handleTheme}>
         {localStorage.getItem("theme") === "dark" ? (
           <FaRegSun />
         ) : (

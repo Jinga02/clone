@@ -23,10 +23,10 @@ export default function Videos() {
   if (isLoading) return "Loading...";
   if (error) return "An error has occurred: " + error.message;
   return (
-    <div>
+    <div className="h-full w-full p-2 ">
       <ul
         className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:gris-cols-4
-         2xl:grid-cols-5 gap-3 gap-y-2 mx-3"
+         2xl:grid-cols-5 gap-3 gap-y-2"
       >
         {" "}
         {videos.map((video) => (
