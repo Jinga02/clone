@@ -7,10 +7,13 @@ import { useNavigate, useParams } from "react-router-dom";
 import { Link } from "react-router-dom";
 import { FaRegSun } from "react-icons/fa";
 import { FaRegMoon } from "react-icons/fa";
+import { useYoutubeApi } from "../context/YoutubeContextApi";
 
 export default function SearchBar() {
   const navigate = useNavigate();
   const { keyword } = useParams();
+  const { handleTheme } = useYoutubeApi();
+
   const [text, setText] = useState("");
 
   const handleSubmit = (e) => {
@@ -45,8 +48,12 @@ export default function SearchBar() {
           <FaSearch />
         </button>
       </form>
-      <button className="mr-3">
-        <FaRegSun />
+      <button className="mr-3" onClick={handleTheme}>
+        {localStorage.getItem("theme") === "dark" ? (
+          <FaRegSun />
+        ) : (
+          <FaRegMoon />
+        )}
       </button>
     </header>
   );

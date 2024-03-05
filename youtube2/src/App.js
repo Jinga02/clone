@@ -11,8 +11,8 @@ const queryClient = new QueryClient();
 function App() {
   return (
     <>
-      <SearchBar />
       <YoutubeApiProvider>
+        <SearchBar />
         <QueryClientProvider client={queryClient}>
           <Outlet />
           <ReactQueryDevtools initialIsOpen={false} />
