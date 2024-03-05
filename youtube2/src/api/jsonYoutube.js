@@ -13,6 +13,12 @@ export default class jsonYoutube {
     });
   }
 
+  async channel(id) {
+    return axios.get("/videos/channel.json").then((res) => {
+      return res.data.items[0];
+    });
+  }
+
   async _searchVideos() {
     return axios.get("/videos/search.json").then((res) => {
       return res.data.items;

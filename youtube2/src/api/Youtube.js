@@ -12,6 +12,11 @@ export default class Youtube {
   async search(keyword) {
     return keyword ? this._searchVideos(keyword) : this._popularVideos();
   }
+  async channel(id) {
+    return this.apiClient
+      .get("channels", { params: { part: "snippet", id } })
+      .then((res) => res.data.items[0].snippet.thumbnails.default.url);
+  }
 
   async related(id) {
     return this.apiClient

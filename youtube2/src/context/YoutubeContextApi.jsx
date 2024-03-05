@@ -7,8 +7,8 @@ import jsonYoutube from "../api/jsonYoutube";
 
 const YoutubeApiContext = createContext();
 
-// const youtube = new Youtube();
-const youtube = new jsonYoutube();
+const youtube = new Youtube();
+// const youtube = new jsonYoutube();
 
 export default function YoutubeApiProvider({ children }) {
   // 다크모드

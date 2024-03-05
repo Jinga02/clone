@@ -23,7 +23,7 @@ export default function VideoCard({ prop, type }) {
     >
       <img
         className="w-full mx-auto"
-        src={video.thumbnails.default.url}
+        src={video.thumbnails.high.url}
         alt="영상 썸네일"
       />
       <div>
