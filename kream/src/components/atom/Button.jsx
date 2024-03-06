@@ -1,6 +1,6 @@
 /** @format */
 import React from "react";
 
-export default function Button() {
-  return <div>Button</div>;
+export default function Button({ name }) {
+  return <button className=" bg-none">{name}</button>;
 }
