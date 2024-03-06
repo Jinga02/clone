@@ -1,3 +1,5 @@
+/** @format */
+
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },
@@ -6,17 +8,21 @@ module.exports = {
     "plugin:react/recommended",
     "plugin:react/jsx-runtime",
     "plugin:react-hooks/recommended",
-    "plugin:storybook/recommended"
+    "plugin:storybook/recommended",
   ],
-  ignorePatterns: ['dist', '.eslintrc.cjs'],
-  parserOptions: { ecmaVersion: 'latest', sourceType: 'module' },
-  settings: { react: { version: '18.2' } },
-  plugins: ['react-refresh'],
+  ignorePatterns: ["dist", ".eslintrc.cjs"],
+  parserOptions: { ecmaVersion: "latest", sourceType: "module" },
+  settings: { react: { version: "18.2" } },
+  plugins: ["react", "react-refresh"],
   rules: {
-    'react/jsx-no-target-blank': 'off',
-    'react-refresh/only-export-components': [
-      'warn',
+    "react/jsx-uses-react": "error",
+    "react/react-in-jsx-scope": "error",
+    "react/prop-types": "off",
+    // "react/jsx-uses-react": "error",
+    // "react/jsx-uses-vars": "error",
+    "react-refresh/only-export-components": [
+      "warn",
       { allowConstantExport: true },
     ],
   },
-}
+};
