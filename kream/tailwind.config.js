@@ -5,16 +5,15 @@
 
 module.exports = {
   content: ["./src/**/*.{js,jsx}"],
+  darkMode: "class",
   theme: {
     extend: {
-      colors: {
-        brand: "#FF0000",
-      },
+      colors: {},
       fontSize: {
         "2xs": " 0.5rem",
         "3xs": " 0.25rem",
       },
     },
   },
-  plugins: [require("@tailwindcss/line-clamp")],
+  plugins: [],
 };

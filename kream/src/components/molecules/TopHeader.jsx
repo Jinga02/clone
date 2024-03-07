@@ -6,13 +6,18 @@ import Link from "components/atom/Link";
 import Button from "components/atom/Button";
 
 export default function TopHeader() {
+  const checkLogin = localStorage.getItem("id");
   return (
-    <div>
-      <Link url="" name="고객센터" />
-      <Link url="" name="마이페이지" />
+    <div className="flex justify-end mr-9 text-2xs">
+      <Link url="/style" name="고객센터" />
+      <Link url={`profile/${12}`} name="마이페이지" />
       <Link url="" name="관심" />
       <Button name="알림" />
-      <Button name="로그인" />
+      {checkLogin ? (
+        <Button name="로그아웃" />
+      ) : (
+        <Link url="/login" name="로그인" />
+      )}
     </div>
   );
 }
