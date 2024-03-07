@@ -1,7 +1,6 @@
 /** @format */
 
-import LoginForm from "components/molecules/LoginForm";
-import LoginContent from "components/organisms/LoginContent";
+import LoginContent from "components/organisms/content/LoginContent";
 import React from "react";
 
 export default function LoginPage() {
