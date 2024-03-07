@@ -6,7 +6,7 @@ import MainHeader from "components/molecules/MainHeader";
 
 export default function Header() {
   return (
-    <div>
+    <div className=" h-10%">
       <TopHeader />
       <MainHeader />
     </div>
