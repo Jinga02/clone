@@ -8,7 +8,7 @@ import Button from "components/atom/Button";
 export default function TopHeader() {
   const checkLogin = localStorage.getItem("id");
   return (
-    <div className="flex justify-end mr-9 text-2xs">
+    <div className="flex justify-end mr-11 text-xs">
       <Link url="/style" name="고객센터" />
       <Link url={`profile/${12}`} name="마이페이지" />
       <Link url="" name="관심" />
