@@ -5,7 +5,7 @@ import Button from "components/atom/Button";
 import Input from "components/atom/Input";
 
 export default function LoginForm() {
-  const inputStyle = "w-full border-b-2 border-gray";
+  const inputStyle = "w-full border-b-2 border-gray py-3";
   return (
     <form className="flex flex-col w-30% ">
       <Input
