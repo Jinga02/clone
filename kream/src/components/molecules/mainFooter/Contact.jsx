@@ -12,8 +12,10 @@ export default function Contact() {
       <Title name="고객센터 1588-7813" styleName="font-bold text-base" />
       <p className={pStyle}>운영시간 평일 10:00 - 18:00 (토∙일, 공휴일 휴무)</p>
       <p className={pStyle}>점심시간 평일 13:00 - 14:00</p>
-      <p className={pStyle}>1:1 문의하기는 앱에서만 가능합니다.</p>
-      <Button />
+      <p className={pStyle}>
+        <b>1:1 문의하기는 앱에서만 가능합니다.</b>
+      </p>
+      <Button name="자주 묻는 질문" styleName="" />
     </div>
   );
 }

@@ -3,9 +3,12 @@
 import React from "react";
 import Button from "components/atom/Button";
 import Input from "components/atom/Input";
+import { useNavigate } from "react-router-dom";
 
 export default function LoginForm() {
   const inputStyle = "w-full border-b-2 border-gray py-3";
+  const navigate = useNavigate();
+
   return (
     <form className="flex flex-col w-30% ">
       <Input
@@ -17,6 +20,7 @@ export default function LoginForm() {
       <Button
         styleName="bg-gray my-2 p-4 text-white rounded-xl "
         name="로그인"
+        click={() => navigate("/style")}
       />
     </form>
   );

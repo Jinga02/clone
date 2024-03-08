@@ -9,10 +9,10 @@ export default function MainHeader() {
   return (
     <div className="flex justify-between my-4">
       <div className="ml-14">
-        <Link url="/style" name="KREAM" styleName="text-3xl font-bold" />
+        <Link url="/" name="KREAM" styleName="text-3xl font-bold" />
       </div>
       <div className="mr-12 text-xl">
-        <Link url="/style" name="home" />
+        <Link url="/" name="home" />
         <Link url="/style" name="stlye" />
         <Link url="/style" name="shop" />
         <Button Icon={IoSearch} />

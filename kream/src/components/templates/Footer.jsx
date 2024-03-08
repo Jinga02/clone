@@ -6,7 +6,7 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <div className="h-20% mt-10 px-20">
+    <div className="w-full h-20% px-20">
       <MainFooter />
       <BottomFooter />
     </div>

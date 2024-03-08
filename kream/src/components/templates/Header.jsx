@@ -6,7 +6,7 @@ import MainHeader from "components/organisms/header/MainHeader";
 
 export default function Header() {
   return (
-    <div className="w-full h-10% pt-2 fixed z-50 bg-white">
+    <div className="fixed w-full pt-2  z-50 bg-white">
       <TopHeader />
       <MainHeader />
     </div>

@@ -6,20 +6,10 @@ import Header from "components/templates/Header";
 import Footer from "components/templates/Footer";
 import "./App.css";
 function App() {
-  // const [headerHeight, setHeaderHeight] = useState(0);
-
-  // useEffect(() => {
-  //   const header = document.querySelector("header");
-  //   if (header) {
-  //     setHeaderHeight(header.offsetHeight);
-  //   }
-  // }, []);
-
   return (
     <>
       <Header />
-      {/* <div className="section" style={{ marginTop: `${headerHeight}px` }}> */}
-      <div className="section">
+      <div className="h-full pt-11% ">
         <Outlet />
       </div>
       <Footer />
