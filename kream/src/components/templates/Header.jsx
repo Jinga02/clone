@@ -11,7 +11,7 @@ export default function Header({ setHeaderHeight }) {
   }, []);
 
   return (
-    <div ref={headerRef} className="fixed w-full pt-2 z-50 bg-white">
+    <div ref={headerRef} className="fixed w-full px-5% pt-2 z-50 bg-white">
       <TopHeader />
       <MainHeader />
     </div>

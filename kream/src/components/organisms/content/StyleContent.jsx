@@ -7,7 +7,7 @@ import StyleNav from "components/molecules/StlyeContent/StyleNav";
 
 export default function StyleContent() {
   return (
-    <div className="h-full flex flex-col items-center justify-center p-4 ">
+    <div className="w-full h-full flex flex-col items-center justify-center p-4 ">
       <StyleTitle />
       <StyleNav />
       <StyleCards />

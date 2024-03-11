@@ -13,7 +13,7 @@ export default function Footer({ setFooterHeight }) {
   });
 
   return (
-    <div className="w-full px-20 py-10 " ref={footerRef}>
+    <div className="w-full py-10 px-5%" ref={footerRef}>
       <MainFooter />
       <BottomFooter />
     </div>

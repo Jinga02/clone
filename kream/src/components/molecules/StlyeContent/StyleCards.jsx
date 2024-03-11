@@ -18,8 +18,8 @@ export default function StyleCards() {
   }, []);
 
   return (
-    <div className="w-full h-full">
-      <ul className="h-90% grid grid-cols-2 sm:grid-cols-4 gap-4 gap-y-2 overflow-y-scroll	">
+    <div>
+      <ul className="grid grid-cols-2 lg:grid-cols-4 gap-y-2 ">
         {styles.map((style) => (
           <StyleCard key={style.id} prop={style} />
         ))}

@@ -13,7 +13,14 @@ function App() {
   return (
     <>
       <Header setHeaderHeight={setHeaderHeight} />
-      <div style={{ paddingTop: headerHeight, paddingBottom: footerheight }}>
+      <div
+        style={{
+          paddingTop: headerHeight,
+          paddingBottom: footerheight,
+          paddingRight: "5%",
+          paddingLeft: "5%",
+        }}
+      >
         <Outlet />
       </div>
       <Footer setFooterHeight={setFooterHeight} />
