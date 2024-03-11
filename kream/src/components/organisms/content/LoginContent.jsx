@@ -1,10 +1,10 @@
 /** @format */
 
 import React from "react";
-import LoginForm from "components/molecules/LoginContent/LoginForm";
-import LoginMenu from "components/molecules/LoginContent/LoginMenu";
-import LoginSocial from "components/molecules/LoginContent/LoginSocial ";
-import LoginTitle from "components/molecules/LoginContent/LoginTitle";
+import LoginForm from "components/molecules/loginContent/LoginForm";
+import LoginMenu from "components/molecules/loginContent/LoginMenu";
+import LoginSocial from "components/molecules/loginContent/LoginSocial ";
+import LoginTitle from "components/molecules/loginContent/LoginTitle";
 
 export default function LoginContent() {
   return (

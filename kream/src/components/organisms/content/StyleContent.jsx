@@ -1,9 +1,9 @@
 /** @format */
 
 import React, { useEffect, useState } from "react";
-import StyleCards from "components/molecules/StlyeContent/StyleCards";
-import StyleTitle from "components/molecules/StlyeContent/StyleTitle";
-import StyleNav from "components/molecules/StlyeContent/StyleNav";
+import StyleCards from "components/molecules/stlyeContent/StyleCards";
+import StyleTitle from "components/molecules/stlyeContent/StyleTitle";
+import StyleNav from "components/molecules/stlyeContent/StyleNav";
 import axios from "axios";
 
 export default function StyleContent() {

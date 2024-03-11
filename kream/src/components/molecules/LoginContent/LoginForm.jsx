@@ -10,7 +10,7 @@ export default function LoginForm() {
   const navigate = useNavigate();
 
   return (
-    <form className="flex flex-col w-30% ">
+    <form className="flex flex-col w-40% ">
       <Input
         styleName={inputStyle}
         name="이메일 주소"
