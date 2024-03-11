@@ -8,7 +8,7 @@ import LoginTitle from "components/molecules/LoginContent/LoginTitle";
 
 export default function LoginContent() {
   return (
-    <div className="w-full h-full flex flex-col items-center justify-center border-b border-solid border-gray">
+    <div className="h-full flex flex-col items-center justify-center ">
       <LoginTitle />
       <LoginForm />
       <LoginMenu />

@@ -3,7 +3,7 @@
 import React from "react";
 
 export default function Link({ url, name, styleName }) {
-  const defaultStyle = "m-1 mx-3";
+  const defaultStyle = "p-1 px-3";
 
   return (
     <a className={styleName ? styleName : defaultStyle} href={url}>

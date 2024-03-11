@@ -7,7 +7,7 @@ import Manual from "components/molecules/mainFooter/Manual";
 
 export default function MainFooter() {
   return (
-    <div className="w-full flex justify-between ">
+    <div className="w-full py-10 flex justify-between border-t border-b border-solid border-gray">
       <div className="flex">
         <Manual />
         <CustomerSupport />

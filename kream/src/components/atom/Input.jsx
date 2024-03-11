@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Input({ name, placeholder, styleName }) {
   return (
-    <span className="flex flex-col my-3">
+    <span className="flex flex-col py-3">
       <label for="inputName" className="font-bold">
         {name}
       </label>

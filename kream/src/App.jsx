@@ -7,15 +7,16 @@ import Footer from "components/templates/Footer";
 import "./App.css";
 
 function App() {
-  const headerHeight = document.getElementById("header");
+  const [headerHeight, setHeaderHeight] = useState(0);
+  const [footerheight, setFooterHeight] = useState(0);
 
   return (
     <>
-      <Header />
-      <div className="">
+      <Header setHeaderHeight={setHeaderHeight} />
+      <div style={{ paddingTop: headerHeight, paddingBottom: footerheight }}>
         <Outlet />
       </div>
-      <Footer />
+      <Footer setFooterHeight={setFooterHeight} />
     </>
   );
 }
