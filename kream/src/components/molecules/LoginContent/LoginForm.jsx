@@ -6,11 +6,11 @@ import Input from "components/atom/Input";
 import { useNavigate } from "react-router-dom";
 
 export default function LoginForm() {
-  const inputStyle = "w-full border-b-2 border-gray py-3";
+  const inputStyle = "w-full border-b-2 border-gray ";
   const navigate = useNavigate();
 
   return (
-    <form className="flex flex-col w-40% ">
+    <form className="flex flex-col w-96 ">
       <Input
         styleName={inputStyle}
         name="이메일 주소"
@@ -18,7 +18,7 @@ export default function LoginForm() {
       />
       <Input styleName={inputStyle} name="비밀번호" />
       <Button
-        styleName="bg-gray my-2 p-4 text-white rounded-xl "
+        styleName="bg-gray text-white rounded-xl "
         name="로그인"
         click={() => navigate("/style")}
       />

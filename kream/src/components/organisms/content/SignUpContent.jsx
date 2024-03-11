@@ -6,7 +6,7 @@ import React from "react";
 
 export default function SignUpContent() {
   return (
-    <div className="flex flex-col justify-center items-center">
+    <div className=" flex flex-col justify-center items-center">
       <LoginTitle />
       <SignForm />
     </div>

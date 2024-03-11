@@ -2,9 +2,11 @@
 
 import Image from "components/atom/Image";
 import React, { useState, useEffect } from "react";
+import { useNavigate } from "react-router-dom";
 
 export default function StyleCard({ prop }) {
-  const { id, nickname, styleImageUrl, profileImageUrl } = prop;
+  const navigate = useNavigate();
+  const { userId, nickname, styleImageUrl, profileImageUrl } = prop;
   // const [imageHeight, setImageHeight] = useState("100%");
   // const styleImageStyle = `w-full rounded-lg h-${imageHeight}`;
   // useEffect(() => {
@@ -13,9 +15,11 @@ export default function StyleCard({ prop }) {
   //     heightOptions[Math.floor(Math.random() * heightOptions.length)];
   //   setImageHeight(randomHeight);
   // }, []);
-
+  const onClickStyleCard = () => {
+    navigate(`/${userId}`);
+  };
   return (
-    <li className="p-3 py-5 ">
+    <li className="p-3 py-5 cursor-pointer" onClick={() => onClickStyleCard()}>
       <Image
         // styleName={styleImageStyle}
         styleName="w-100% h-90% rounded-xl"

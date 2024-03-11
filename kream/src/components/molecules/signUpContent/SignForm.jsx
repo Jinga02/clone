@@ -10,7 +10,7 @@ export default function SignForm() {
   const navigate = useNavigate();
   const inputStyle = "w-full border-b-2 border-gray py-3";
   return (
-    <form className="w-40%">
+    <form className="w-96">
       <Input
         styleName={inputStyle}
         name="이메일 주소*"

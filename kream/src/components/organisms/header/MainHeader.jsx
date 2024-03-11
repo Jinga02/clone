@@ -7,7 +7,7 @@ import { IoSearch } from "react-icons/io5";
 
 export default function MainHeader() {
   return (
-    <div className="flex justify-between py-4">
+    <div className="p-pc_main_header h-pc_main_header_height flex justify-between py-4">
       <div className="pl-14">
         <Link url="/" name="KREAM" styleName="text-3xl font-bold" />
       </div>

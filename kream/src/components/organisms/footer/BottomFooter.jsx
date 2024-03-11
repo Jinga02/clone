@@ -6,7 +6,7 @@ import React from "react";
 
 export default function BottomFooter() {
   return (
-    <div className="w-full p-5 ">
+    <div className="w-full max-w-[1280px]">
       <FooterTop />
       <FooterBottom />
     </div>

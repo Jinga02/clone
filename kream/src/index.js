@@ -11,6 +11,7 @@ import LoginPage from "pages/LoginPage";
 import SignUpPage from "pages/SignUpPage";
 import StylePage from "pages/StylePage";
 import MyProfilePage from "pages/MyProfilePage";
+import DetailStylePage from "pages/DetailStylePage";
 
 const router = createBrowserRouter([
   {
@@ -22,6 +23,7 @@ const router = createBrowserRouter([
       { path: "login", element: <LoginPage /> },
       { path: "signUp", element: <SignUpPage /> },
       { path: "style", element: <StylePage /> },
+      { path: "style/:userId", element: <DetailStylePage /> },
       { path: "profile/:useId", element: <MyProfilePage /> },
     ],
   },

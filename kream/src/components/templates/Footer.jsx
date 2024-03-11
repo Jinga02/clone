@@ -13,7 +13,10 @@ export default function Footer({ setFooterHeight }) {
   });
 
   return (
-    <div className="w-full py-10 px-5%" ref={footerRef}>
+    <div
+      className="flex flex-col justify-center items-center w-full  p-pc_footer"
+      ref={footerRef}
+    >
       <MainFooter />
       <BottomFooter />
     </div>

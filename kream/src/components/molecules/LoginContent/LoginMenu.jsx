@@ -4,9 +4,9 @@ import Link from "components/atom/Link";
 import React from "react";
 
 export default function LoginMenu() {
-  const LinkStyle = "mx-1 text-sm opacity-50";
+  const LinkStyle = " text-sm opacity-50";
   return (
-    <div className="w-40% flex justify-around p-2 my-2">
+    <div className="w-96 flex justify-around ">
       <Link
         url="signUp"
         name="이메일 가입 |"
