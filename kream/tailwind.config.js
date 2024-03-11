@@ -8,6 +8,28 @@ module.exports = {
   darkMode: "class",
   theme: {
     extend: {
+      screens: {
+        sm: "440px",
+        // => @media (min-width: 640px) { ... }
+
+        md: "768px",
+        // => @media (min-width: 768px) { ... }
+        // StyleCard col-2
+        // Header 대신 검색 창
+
+        // LoginPage, SignUpPage 동일
+        // Footer사라짐
+        // 모든 input, button w-full
+
+        lg: "960px",
+        // => @media (min-width: 960px) { ... }
+        // StyleaAge
+        // StyleTopNav 사라짐 -> 근데 걍 냅두자
+        // Bottom에 메뉴 바 생김
+
+        // LoginPage
+        // Header 사라짐
+      },
       colors: { gray: "#EBEBEB" },
       fontSize: {
         "2xs": " 0.5rem",

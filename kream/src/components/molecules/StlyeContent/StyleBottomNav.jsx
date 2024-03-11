@@ -22,7 +22,7 @@ export default function StyleBottomNav({ styles }) {
           <li key={styles.id} className="flex flex-col items-center text-sm">
             <Image
               url="asset/icon/basic.png"
-              styleName="w-20 h-20 rounded-full"
+              styleName="w-24 h-24 rounded-full"
             />
             {nav}
           </li>

@@ -7,11 +7,11 @@ import MainHeader from "components/organisms/header/MainHeader";
 export default function Header({ setHeaderHeight }) {
   const headerRef = useRef(null);
   useEffect(() => {
-    setHeaderHeight(headerRef.current.offsetHeight + 30);
+    setHeaderHeight(headerRef.current.offsetHeight);
   }, []);
 
   return (
-    <div ref={headerRef} className="fixed w-full px-5% pt-2 z-50 bg-white">
+    <div ref={headerRef} className="fixed w-full px-5% pt-1 z-50 bg-white">
       <TopHeader />
       <MainHeader />
     </div>
