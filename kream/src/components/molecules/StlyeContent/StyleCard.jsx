@@ -15,7 +15,7 @@ export default function StyleCard({ prop }) {
   // }, []);
 
   return (
-    <li className="p-3 ">
+    <li className="p-3 py-5 ">
       <Image
         // styleName={styleImageStyle}
         styleName="w-100% h-90% rounded-xl"

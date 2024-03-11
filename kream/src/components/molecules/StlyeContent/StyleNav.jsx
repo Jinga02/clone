@@ -1,7 +1,14 @@
 /** @format */
 
 import React from "react";
+import StyleTopNav from "./StyleTopNav";
+import StyleBottomNav from "./StyleBottomNav";
 
-export default function StyleNav() {
-  return <div className="w-full h-5%">StyleNav</div>;
+export default function StyleNav({ styles }) {
+  return (
+    <div className="w-full">
+      <StyleTopNav />
+      <StyleBottomNav styles={styles} />
+    </div>
+  );
 }
