@@ -2,15 +2,21 @@
 
 import React from "react";
 
-export default function Input({ type, name, placeholder, styleName }) {
+export default function Input({
+  type,
+  name,
+  placeholder,
+  spanStyle,
+  inputStyle,
+}) {
   const inputId = `${name}Input`;
 
   return (
     <>
       {type ? (
-        <span className="flex justify-start items-center p-3">
+        <span className="flex justify-start items-center ">
           <input
-            className={styleName}
+            className={inputStyle}
             type={type}
             id={inputId}
             placeholder={placeholder}
@@ -20,12 +26,12 @@ export default function Input({ type, name, placeholder, styleName }) {
           </label>
         </span>
       ) : (
-        <span className="flex flex-col p-3">
+        <span className={spanStyle}>
           <label htmlFor={inputId} className="font-bold">
             {name}
           </label>
           <input
-            className={styleName}
+            className={inputStyle}
             type="text"
             id={inputId}
             placeholder={placeholder}

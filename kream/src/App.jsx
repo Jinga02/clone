@@ -14,7 +14,7 @@ function App() {
     <>
       <Header setHeaderHeight={setHeaderHeight} />
       <div
-        className={`w-full h-pc_content_height p-pc_header_hiehgt `}
+        className={`w-full p-pc_header_hiehgt `}
         // style={{
         //   paddingTop: headerHeight === 0 ? "60px" : headerHeight + 60,
         //   paddingBottom: footerheight === 0 ? "60px" : footerheight,

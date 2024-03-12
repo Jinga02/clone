@@ -6,7 +6,7 @@ import React from "react";
 export default function LoginMenu() {
   const LinkStyle = " text-sm opacity-50";
   return (
-    <div className="w-96 flex justify-around ">
+    <div className="w-full mt-5 flex justify-around ">
       <Link
         url="signUp"
         name="이메일 가입 |"
