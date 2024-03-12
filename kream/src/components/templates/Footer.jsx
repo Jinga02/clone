@@ -5,12 +5,13 @@ import MainFooter from "components/organisms/footer/MainFooter";
 import React, { useEffect } from "react";
 import { useRef } from "react";
 
-export default function Footer({ setFooterHeight }) {
+export default function Footer() {
+  // export default function Footer({ setFooterHeight }) {
   const footerRef = useRef(null);
 
-  useEffect(() => {
-    setFooterHeight(footerRef.current.offsetHeight / 2);
-  });
+  // useEffect(() => {
+  //   setFooterHeight(footerRef.current.offsetHeight / 2);
+  // });
 
   return (
     <div

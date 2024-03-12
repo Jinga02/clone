@@ -19,16 +19,16 @@ export default function StyleCard({ prop }) {
     navigate(`/${userId}`);
   };
   return (
-    <li className="p-3 py-5 cursor-pointer" onClick={() => onClickStyleCard()}>
+    <li className="h-444px cursor-pointer" onClick={() => onClickStyleCard()}>
       <Image
         // styleName={styleImageStyle}
-        styleName="w-100% h-90% rounded-xl"
+        styleName="h-80% rounded-xl"
         url={styleImageUrl}
         alt="스타일 이미지"
       />
-      <div className="flex items-center p-2">
+      <div className="h-20% flex items-center">
         <Image
-          styleName="w-6 h-6 rounded-xl mr-3"
+          styleName=" w-4 h-4 rounded-xl"
           url={profileImageUrl}
           alt="프로필 이미지"
         />

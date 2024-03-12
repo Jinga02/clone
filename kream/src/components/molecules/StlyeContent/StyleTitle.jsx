@@ -5,7 +5,7 @@ import React from "react";
 
 export default function StyleTitle() {
   return (
-    <div className="w-full h-5% flex justify-center text-3xl pb-5 font-bold">
+    <div className="w-full h-66px py-16px flex justify-center text-3xl font-bold">
       <Title name="style" styleName="" />
     </div>
   );

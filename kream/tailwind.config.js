@@ -52,7 +52,7 @@ module.exports = {
       },
       width: {
         pc_header_width: "1200px",
-        pc_main_width: "1200px",
+        pc_main_width: "1280px",
         pc_login_width: "400px",
         "5%": "5%",
         "10%": "10%",
