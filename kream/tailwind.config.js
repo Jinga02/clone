@@ -102,6 +102,9 @@ module.exports = {
       margin: {
         ...sizeList(640, 2),
       },
+      spacing: {
+        ...sizeList(640, 2),
+      },
     },
   },
   plugins: [],

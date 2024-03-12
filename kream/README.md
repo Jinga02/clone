@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+<!-- @format -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 반응형 웹 디자인 미디어 쿼리 분기점
 
-## Available Scripts
+- **PC:** `min-width: 960px`
+- **태블릿:** `min-width: 770px`
+- **모바일:** `max-width: 769px`
 
-In the project directory, you can run:
+### 페이지별 UI 요구사항
 
-### `npm start`
+#### 1. 로그인 / 회원가입 페이지 / 이메일 찾기 / 비밀번호 찾기 페이지
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- #### 공통 요소
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  - **PC:**
 
-### `npm test`
+    - Header: 있음
+    - Footer: 있음
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  - **태블릿:**
 
-### `npm run build`
+    - Header: 없음
+    - Footer: 페이지에 따라 다름
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  - **모바일:**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    - 각 요소의 너비가 화면 너비에 꽉 차게 설정
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- #### 페이지별 차이
 
-### `npm run eject`
+  - **로그인 / 회원가입:**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    - Footer: 없음
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  - **태블릿 / 모바일:**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+    - Footer: 있음
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+#### 2. 스타일 페이지
 
-## Learn More
+- **PC:**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  - Header: 있음
+  - Footer: 있음
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **태블릿:**
 
-### Code Splitting
+  - StyleNav, StyleTitle : 없음
+  - StyleShortCut : flex-start
+  - MenuBar : 생김
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- **모바일:**
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  - StyleSearchBar : 생김
+  - StyleNav : 있음
+  - StyleNav, StyleShorCut : 가운데 정렬
+  - StyleCards : grid-col-2
