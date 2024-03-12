@@ -14,7 +14,7 @@ export default function Footer({ setFooterHeight }) {
 
   return (
     <div
-      className="flex flex-col justify-center items-center w-full  p-pc_footer"
+      className="w-full h-542px p-pc_footer flex flex-col justify-center items-center  border-t border-b border-solid border-gray"
       ref={footerRef}
     >
       <MainFooter />

@@ -2,6 +2,20 @@
  * @format
  * @type {import('tailwindcss').Config}
  */
+const sizeList = (arrayLength, multiple, unit = "px") => {
+  let resultObject = {};
+
+  for (let i = 0; i < arrayLength; i++) {
+    const key = `${i * multiple}${unit}`;
+    resultObject[key] = key;
+  }
+
+  return resultObject;
+};
+
+// 이 코드는 arrayLength 매개변수로 전달받은 길이만큼의 배열을 생성하지 않고,
+// 직접 for 반복문을 사용하여 객체를 생성합니다. 각 반복에서 계산된 키와 값을 객체에 추가합니다.
+// 이 방식은 명시적이고, 'Array.from'과 'map' 함수를 사용한 이전 방식보다 이해하기 쉽고, 실행 속도도 더 빠를 수 있습니다.
 
 module.exports = {
   content: ["./src/**/*.{js,jsx}"],
@@ -50,6 +64,10 @@ module.exports = {
         "70%": "70%",
         "80%": "80%",
         "90%": "90%",
+        "100%": "100%",
+        "110%": "110%",
+        "120%": "120%",
+        ...sizeList(640, 2),
       },
       height: {
         pc_top_header_height: "22px",
@@ -70,6 +88,7 @@ module.exports = {
         "100%": "100%",
         "110%": "110%",
         "120%": "120%",
+        ...sizeList(640, 2),
       },
       padding: {
         pc_top_header: "8px 40px 0",
@@ -78,32 +97,10 @@ module.exports = {
         pc_login_main: "0 40px",
         pc_main_content: "60px 0 160px 0",
         pc_footer: "50px 40px",
+        ...sizeList(640, 2),
       },
-
-      inset: {
-        "5%": "5%",
-        "10%": "10%",
-        "20%": "20%",
-        "30%": "30%",
-        "40%": "40%",
-        "50%": "50%",
-        "60%": "60%",
-        "70%": "70%",
-        "80%": "80%",
-        "90%": "90%",
-      },
-      spacing: {
-        "5%": "5%",
-        "10%": "10%",
-        "11%": "11%",
-        "20%": "20%",
-        "30%": "30%",
-        "40%": "40%",
-        "50%": "50%",
-        "60%": "60%",
-        "70%": "70%",
-        "80%": "80%",
-        "90%": "90%",
+      margin: {
+        ...sizeList(640, 2),
       },
     },
   },

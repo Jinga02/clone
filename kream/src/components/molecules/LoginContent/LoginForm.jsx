@@ -8,7 +8,7 @@ import { useNavigate } from "react-router-dom";
 export default function LoginForm() {
   const SpanStyle =
     "w-full h-20 pt-3 pb-3 flex flex-col border-b-2 border-gray ";
-  const InputStyle = "py-2 pr-8";
+  const InputStyle = "py-2 pr-8 placeholder:text-sm";
   const navigate = useNavigate();
 
   return (
