@@ -15,7 +15,7 @@ export default function Footer() {
 
   return (
     <div
-      className="w-full h-542px p-pc_footer flex flex-col justify-center items-center  border-t border-b border-solid border-gray"
+      className="w-full  p-pc_footer flex flex-col justify-center items-center  border-t border-b border-solid border-gray"
       ref={footerRef}
     >
       <MainFooter />
