@@ -7,19 +7,10 @@ import StyleTitle from "components/molecules/stlyeContent/StyleTitle";
 import StyleNav from "components/molecules/stlyeContent/StyleNav";
 import StyleShortCut from "components/molecules/stlyeContent/StyleShortCut";
 import StyleSearchBar from "components/molecules/stlyeContent/StyleSearchBar";
+import { useSelector } from "react-redux";
 
 export default function StyleContent() {
-  const [styles, setStyles] = useState([]);
-
-  const getStyles = () => {
-    axios
-      .get("asset/style/styles.json")
-      .then((res) => setStyles(res.data.styles));
-  };
-
-  useEffect(() => {
-    getStyles();
-  }, []);
+  const styles = useSelector((state) => state.styleValue.styles);
   return (
     <div className="w-full max-w-[1280px]">
       <StyleSearchBar />

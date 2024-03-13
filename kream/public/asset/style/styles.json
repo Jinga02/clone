@@ -3,92 +3,362 @@
     {
       "userId": "1",
       "nickname": "ov._.ootd",
-      "styleImageUrl": "https://github.com/Jinga02/Review/assets/110621233/638c47b3-5bf1-4f5f-b886-83defc8112c3",
-      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/638c47b3-5bf1-4f5f-b886-83defc8112c3"
+      "thumbnail": "https://github.com/Jinga02/Review/assets/110621233/638c47b3-5bf1-4f5f-b886-83defc8112c3",
+      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/638c47b3-5bf1-4f5f-b886-83defc8112c3",
+      "styleImages": [
+        {
+          "id": 1,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/638c47b3-5bf1-4f5f-b886-83defc8112c3"
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/638c47b3-5bf1-4f5f-b886-83defc8112c3"
+        },
+        {
+          "id": 3,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/638c47b3-5bf1-4f5f-b886-83defc8112c3"
+        },
+        {
+          "id": 4,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/638c47b3-5bf1-4f5f-b886-83defc8112c3"
+        }
+      ]
     },
     {
       "userId": "2",
       "nickname": "hsd_09_",
-      "styleImageUrl": "https://github.com/Jinga02/Review/assets/110621233/a5dafe56-f6cb-4bc6-8ccd-d7c339f2b45d",
-      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/a5dafe56-f6cb-4bc6-8ccd-d7c339f2b45d"
+      "thumbnail": "https://github.com/Jinga02/Review/assets/110621233/a5dafe56-f6cb-4bc6-8ccd-d7c339f2b45d",
+      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/a5dafe56-f6cb-4bc6-8ccd-d7c339f2b45d",
+      "styleImages": [
+        {
+          "id": 5,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/a5dafe56-f6cb-4bc6-8ccd-d7c339f2b45d"
+        },
+        {
+          "id": 6,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/a5dafe56-f6cb-4bc6-8ccd-d7c339f2b45d"
+        },
+        {
+          "id": 7,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/a5dafe56-f6cb-4bc6-8ccd-d7c339f2b45d"
+        },
+        {
+          "id": 8,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/a5dafe56-f6cb-4bc6-8ccd-d7c339f2b45d"
+        }
+      ]
     },
     {
       "userId": "3",
       "nickname": "suserIdif_29",
-      "styleImageUrl": "https://github.com/Jinga02/Review/assets/110621233/c5fbf702-a814-448c-88ec-fb5d09911289",
-      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/c5fbf702-a814-448c-88ec-fb5d09911289"
+      "thumbnail": "https://github.com/Jinga02/Review/assets/110621233/c5fbf702-a814-448c-88ec-fb5d09911289",
+      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/c5fbf702-a814-448c-88ec-fb5d09911289",
+      "styleImages": [
+        {
+          "id": 9,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/c5fbf702-a814-448c-88ec-fb5d09911289"
+        },
+        {
+          "id": 10,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/c5fbf702-a814-448c-88ec-fb5d09911289"
+        },
+        {
+          "id": 11,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/c5fbf702-a814-448c-88ec-fb5d09911289"
+        },
+        {
+          "id": 12,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/c5fbf702-a814-448c-88ec-fb5d09911289"
+        }
+      ]
     },
     {
       "userId": "4",
       "nickname": "apple_psls",
-      "styleImageUrl": "https://github.com/Jinga02/Review/assets/110621233/07268e73-3bf2-4474-bf2e-3e47e453bbf2",
-      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/07268e73-3bf2-4474-bf2e-3e47e453bbf2"
+      "thumbnail": "https://github.com/Jinga02/Review/assets/110621233/07268e73-3bf2-4474-bf2e-3e47e453bbf2",
+      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/07268e73-3bf2-4474-bf2e-3e47e453bbf2",
+      "styleImages": [
+        {
+          "id": 13,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/07268e73-3bf2-4474-bf2e-3e47e453bbf2"
+        },
+        {
+          "id": 14,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/07268e73-3bf2-4474-bf2e-3e47e453bbf2"
+        },
+        {
+          "id": 15,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/07268e73-3bf2-4474-bf2e-3e47e453bbf2"
+        },
+        {
+          "id": 16,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/07268e73-3bf2-4474-bf2e-3e47e453bbf2"
+        }
+      ]
     },
     {
       "userId": "5",
       "nickname": "Money_money",
-      "styleImageUrl": "https://github.com/Jinga02/Review/assets/110621233/73893e25-a00e-4283-89e8-7b218feb8b14",
-      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/73893e25-a00e-4283-89e8-7b218feb8b14"
+      "thumbnail": "https://github.com/Jinga02/Review/assets/110621233/73893e25-a00e-4283-89e8-7b218feb8b14",
+      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/73893e25-a00e-4283-89e8-7b218feb8b14",
+      "styleImages": [
+        {
+          "id": 17,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/73893e25-a00e-4283-89e8-7b218feb8b14"
+        },
+        {
+          "id": 18,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/73893e25-a00e-4283-89e8-7b218feb8b14"
+        },
+        {
+          "id": 19,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/73893e25-a00e-4283-89e8-7b218feb8b14"
+        },
+        {
+          "id": 20,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/73893e25-a00e-4283-89e8-7b218feb8b14"
+        }
+      ]
     },
     {
       "userId": "6",
       "nickname": "djmmf-djf",
-      "styleImageUrl": "https://github.com/Jinga02/Review/assets/110621233/0960410a-0c1b-48be-a945-022ae5357939",
-      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/0960410a-0c1b-48be-a945-022ae5357939"
+      "thumbnail": "https://github.com/Jinga02/Review/assets/110621233/0960410a-0c1b-48be-a945-022ae5357939",
+      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/0960410a-0c1b-48be-a945-022ae5357939",
+      "styleImages": [
+        {
+          "id": 21,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/0960410a-0c1b-48be-a945-022ae5357939"
+        },
+        {
+          "id": 22,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/0960410a-0c1b-48be-a945-022ae5357939"
+        },
+        {
+          "id": 23,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/0960410a-0c1b-48be-a945-022ae5357939"
+        },
+        {
+          "id": 24,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/0960410a-0c1b-48be-a945-022ae5357939"
+        }
+      ]
     },
     {
       "userId": "7",
       "nickname": "____----____",
-      "styleImageUrl": "https://github.com/Jinga02/Review/assets/110621233/630a04d7-bbc1-48e4-b2eb-5f4cb947f0",
-      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/630a04d7-bbc1-48e4-b2eb-5f4cb947f0"
+      "thumbnail": "https://github.com/Jinga02/Review/assets/110621233/630a04d7-bbc1-48e4-b2eb-5f4cb947f0",
+      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/630a04d7-bbc1-48e4-b2eb-5f4cb947f0",
+      "styleImages": [
+        {
+          "id": 25,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/630a04d7-bbc1-48e4-b2eb-5f4cb947f0"
+        },
+        {
+          "id": 26,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/630a04d7-bbc1-48e4-b2eb-5f4cb947f0"
+        },
+        {
+          "id": 27,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/630a04d7-bbc1-48e4-b2eb-5f4cb947f0"
+        },
+        {
+          "id": 28,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/630a04d7-bbc1-48e4-b2eb-5f4cb947f0"
+        }
+      ]
     },
     {
       "userId": "8",
       "nickname": "dkfkqldkdirk-923",
-      "styleImageUrl": "https://github.com/Jinga02/Review/assets/110621233/33614b08-95cc-4421-8744-16eba41a2ee7",
-      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/33614b08-95cc-4421-8744-16eba41a2ee7"
+      "thumbnail": "https://github.com/Jinga02/Review/assets/110621233/33614b08-95cc-4421-8744-16eba41a2ee7",
+      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/33614b08-95cc-4421-8744-16eba41a2ee7",
+      "styleImages": [
+        {
+          "id": 29,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/33614b08-95cc-4421-8744-16eba41a2ee7"
+        },
+        {
+          "id": 30,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/33614b08-95cc-4421-8744-16eba41a2ee7"
+        },
+        {
+          "id": 31,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/33614b08-95cc-4421-8744-16eba41a2ee7"
+        },
+        {
+          "id": 32,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/33614b08-95cc-4421-8744-16eba41a2ee7"
+        }
+      ]
     },
     {
       "userId": "9",
       "nickname": "style-sld",
-      "styleImageUrl": "https://github.com/Jinga02/Review/assets/110621233/061a3f98-2b6c-426a-94b2-9eb66854bea5",
-      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/061a3f98-2b6c-426a-94b2-9eb66854bea5"
+      "thumbnail": "https://github.com/Jinga02/Review/assets/110621233/061a3f98-2b6c-426a-94b2-9eb66854bea5",
+      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/061a3f98-2b6c-426a-94b2-9eb66854bea5",
+      "styleImages": [
+        {
+          "id": 33,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/061a3f98-2b6c-426a-94b2-9eb66854bea5"
+        },
+        {
+          "id": 34,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/061a3f98-2b6c-426a-94b2-9eb66854bea5"
+        },
+        {
+          "id": 35,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/061a3f98-2b6c-426a-94b2-9eb66854bea5"
+        },
+        {
+          "id": 36,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/061a3f98-2b6c-426a-94b2-9eb66854bea5"
+        }
+      ]
     },
     {
       "userId": "10",
       "nickname": "cream-rmc",
-      "styleImageUrl": "https://github.com/Jinga02/Review/assets/110621233/80350e11-d741-4469-b306-87f56eba13a6",
-      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/80350e11-d741-4469-b306-87f56eba13a6"
+      "thumbnail": "https://github.com/Jinga02/Review/assets/110621233/80350e11-d741-4469-b306-87f56eba13a6",
+      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/80350e11-d741-4469-b306-87f56eba13a6",
+      "styleImages": [
+        {
+          "id": 37,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/80350e11-d741-4469-b306-87f56eba13a6"
+        },
+        {
+          "id": 38,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/80350e11-d741-4469-b306-87f56eba13a6"
+        },
+        {
+          "id": 39,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/80350e11-d741-4469-b306-87f56eba13a6"
+        },
+        {
+          "id": 40,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/80350e11-d741-4469-b306-87f56eba13a6"
+        }
+      ]
     },
     {
       "userId": "11",
-      "nickname": "CREAms-d",
-      "styleImageUrl": "https://github.com/Jinga02/Review/assets/110621233/31cbecbc-2e3e-459b-b410-43f050cf7e14",
-      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/31cbecbc-2e3e-459b-b410-43f050cf7e14"
+      "nickname": "styooole.lim",
+      "thumbnail": "https://github.com/Jinga02/Review/assets/110621233/2e25b4c3-8c48-46b2-85fd-90c7f2ee0847",
+      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/2e25b4c3-8c48-46b2-85fd-90c7f2ee0847",
+      "styleImages": [
+        {
+          "id": 41,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/2e25b4c3-8c48-46b2-85fd-90c7f2ee0847"
+        },
+        {
+          "id": 42,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/2e25b4c3-8c48-46b2-85fd-90c7f2ee0847"
+        },
+        {
+          "id": 43,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/2e25b4c3-8c48-46b2-85fd-90c7f2ee0847"
+        },
+        {
+          "id": 44,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/2e25b4c3-8c48-46b2-85fd-90c7f2ee0847"
+        }
+      ]
     },
     {
       "userId": "12",
-      "nickname": "what-tahw",
-      "styleImageUrl": "https://github.com/Jinga02/Review/assets/110621233/4d9d4dd9-0e4c-4fe2-a5f1-6c1aecc8a4b4",
-      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/4d9d4dd9-0e4c-4fe2-a5f1-6c1aecc8a4b4"
+      "nickname": "suni.su.n",
+      "thumbnail": "https://github.com/Jinga02/Review/assets/110621233/4b3ef12b-9b95-4316-b82c-d80d42dbdbb7",
+      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/4b3ef12b-9b95-4316-b82c-d80d42dbdbb7",
+      "styleImages": [
+        {
+          "id": 45,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/4b3ef12b-9b95-4316-b82c-d80d42dbdbb7"
+        },
+        {
+          "id": 46,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/4b3ef12b-9b95-4316-b82c-d80d42dbdbb7"
+        },
+        {
+          "id": 47,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/4b3ef12b-9b95-4316-b82c-d80d42dbdbb7"
+        },
+        {
+          "id": 48,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/4b3ef12b-9b95-4316-b82c-d80d42dbdbb7"
+        }
+      ]
     },
     {
       "userId": "13",
-      "nickname": "easy-EASD",
-      "styleImageUrl": "https://github.com/Jinga02/Review/assets/110621233/e413ab73-5c7f-4df6-b8a9-296db7eadddb",
-      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/e413ab73-5c7f-4df6-b8a9-296db7eadddb"
+      "nickname": "aistyle01",
+      "thumbnail": "https://github.com/Jinga02/Review/assets/110621233/b3dd5cb7-5a28-4a1f-a87f-5b596d42bfbc",
+      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/b3dd5cb7-5a28-4a1f-a87f-5b596d42bfbc",
+      "styleImages": [
+        {
+          "id": 49,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/b3dd5cb7-5a28-4a1f-a87f-5b596d42bfbc"
+        },
+        {
+          "id": 50,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/b3dd5cb7-5a28-4a1f-a87f-5b596d42bfbc"
+        },
+        {
+          "id": 51,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/b3dd5cb7-5a28-4a1f-a87f-5b596d42bfbc"
+        },
+        {
+          "id": 52,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/b3dd5cb7-5a28-4a1f-a87f-5b596d42bfbc"
+        }
+      ]
     },
     {
       "userId": "14",
-      "nickname": "STD-dkf",
-      "styleImageUrl": "https://github.com/Jinga02/Review/assets/110621233/f7f6c1b6-6100-4a0a-b0ce-027eb59cd26d",
-      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/f7f6c1b6-6100-4a0a-b0ce-027eb59cd26d"
+      "nickname": "muyaho",
+      "thumbnail": "https://github.com/Jinga02/Review/assets/110621233/00edfd18-7b20-41b4-bad8-c9f24f893bc4",
+      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/00edfd18-7b20-41b4-bad8-c9f24f893bc4",
+      "styleImages": [
+        {
+          "id": 53,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/00edfd18-7b20-41b4-bad8-c9f24f893bc4"
+        },
+        {
+          "id": 54,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/00edfd18-7b20-41b4-bad8-c9f24f893bc4"
+        },
+        {
+          "id": 55,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/00edfd18-7b20-41b4-bad8-c9f24f893bc4"
+        },
+        {
+          "id": 56,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/00edfd18-7b20-41b4-bad8-c9f24f893bc4"
+        }
+      ]
     },
     {
       "userId": "15",
-      "nickname": "smailE",
-      "styleImageUrl": "https://github.com/Jinga02/Review/assets/110621233/5aa8af8d-6c48-4290-a0fc-54733e0981ce",
-      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/5aa8af8d-6c48-4290-a0fc-54733e0981ce"
+      "nickname": "stly1",
+      "thumbnail": "https://github.com/Jinga02/Review/assets/110621233/b722ba4b-541e-4054-9a5a-fc470501c9e1",
+      "profileImageUrl": "https://github.com/Jinga02/Review/assets/110621233/b722ba4b-541e-4054-9a5a-fc470501c9e1",
+      "styleImages": [
+        {
+          "id": 57,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/b722ba4b-541e-4054-9a5a-fc470501c9e1"
+        },
+        {
+          "id": 58,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/b722ba4b-541e-4054-9a5a-fc470501c9e1"
+        },
+        {
+          "id": 59,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/b722ba4b-541e-4054-9a5a-fc470501c9e1"
+        },
+        {
+          "id": 60,
+          "url": "https://github.com/Jinga02/Review/assets/110621233/b722ba4b-541e-4054-9a5a-fc470501c9e1"
+        }
+      ]
     }
   ]
 }

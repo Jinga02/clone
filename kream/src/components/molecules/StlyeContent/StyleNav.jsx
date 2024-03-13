@@ -23,12 +23,12 @@ export default function StyleNav({ styles }) {
   return (
     // <div className="w-full h-44px px-40px sticky top-86px flex justify-start items-center bg-white overflow-x-auto whitespace-nowrap hide-scrollbar">
     <>
-      <div className="hidden md:flex w-full h-44px px-40px sticky top-0px flex justify-start items-center bg-white overflow-x-auto whitespace-nowrap hide-scrollbar">
+      <div className="hidden md:flex w-full h-44px px-40px sticky top-0px flex justify-start items-center bg-white overflow-x-auto whitespace-nowrap hide-scrollbar border-b border-gray ">
         {navList.map((nav) => (
           <Link key={nav} name={nav} styleName="px-3 cursor-pointer text-sm" />
         ))}
       </div>
-      <div className="lg:hidden w-full h-44px px-40px sticky top-86px flex justify-start items-center bg-white overflow-x-auto whitespace-nowrap hide-scrollbar">
+      <div className="lg:hidden w-full h-44px px-40px sticky top-84px flex justify-start items-center bg-white overflow-x-auto whitespace-nowrap hide-scrollbar border-b border-gray ">
         {navList.map((nav) => (
           <Link key={nav} name={nav} styleName="px-3 cursor-pointer text-sm" />
         ))}

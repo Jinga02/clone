@@ -12,6 +12,8 @@ import SignUpPage from "pages/SignUpPage";
 import StylePage from "pages/StylePage";
 import MyProfilePage from "pages/MyProfilePage";
 import DetailStylePage from "pages/DetailStylePage";
+import store from "./redux/store/store";
+import { Provider } from "react-redux";
 
 const router = createBrowserRouter([
   {
@@ -23,7 +25,7 @@ const router = createBrowserRouter([
       { path: "login", element: <LoginPage /> },
       { path: "signUp", element: <SignUpPage /> },
       { path: "style", element: <StylePage /> },
-      { path: "style/:userId", element: <DetailStylePage /> },
+      { path: ":userId", element: <DetailStylePage /> },
       { path: "profile/:useId", element: <MyProfilePage /> },
     ],
   },
@@ -32,7 +34,9 @@ const router = createBrowserRouter([
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <RouterProvider router={router} />
+    <Provider store={store}>
+      <RouterProvider router={router} />
+    </Provider>
   </React.StrictMode>
 );
 

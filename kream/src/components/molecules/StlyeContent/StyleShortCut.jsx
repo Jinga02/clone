@@ -17,11 +17,11 @@ export default function StyleShortCut({ styles }) {
     "니트코디",
   ];
   return (
-    <div className="w-full h-144px py-16px border-t border-b border-gray lg:border-0">
+    <div className="w-full h-144px py-16px t border-b border-gray lg:border-0">
       <ul className="flex justify-around lg:justify-start">
         {navList.map((nav) => (
           <li
-            key={styles.id}
+            key={nav}
             className="flex flex-col items-center text-xs text-opacity-40 "
           >
             <Image

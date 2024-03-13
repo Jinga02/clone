@@ -1,13 +1,11 @@
 /** @format */
 
 import { configureStore } from "@reduxjs/toolkit";
-import TodoSlice from "../slice/";
-import DarkModeSlice from "../slice/DarkModeSlice";
+import StyleSlice from "../slice/StyleSlice";
 
 const store = configureStore({
   reducer: {
-    todo: TodoSlice.reducer,
-    theme: DarkModeSlice.reducer,
+    styleValue: StyleSlice.reducer,
   },
 });
 

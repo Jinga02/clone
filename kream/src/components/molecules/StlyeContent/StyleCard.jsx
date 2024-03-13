@@ -6,7 +6,7 @@ import { useNavigate } from "react-router-dom";
 
 export default function StyleCard({ prop }) {
   const navigate = useNavigate();
-  const { userId, nickname, styleImageUrl, profileImageUrl } = prop;
+  const { userId, nickname, thumbnail, profileImageUrl } = prop;
   // const [imageHeight, setImageHeight] = useState("100%");
   // const styleImageStyle = `w-full rounded-lg h-${imageHeight}`;
   // useEffect(() => {
@@ -23,7 +23,7 @@ export default function StyleCard({ prop }) {
       <Image
         // styleName={styleImageStyle}
         styleName="h-80% rounded-xl"
-        url={styleImageUrl}
+        url={thumbnail}
         alt="스타일 이미지"
       />
       <div className="h-20% flex items-center">
