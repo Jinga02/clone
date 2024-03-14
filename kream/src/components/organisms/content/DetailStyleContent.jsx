@@ -10,13 +10,14 @@ export default function DetailStyleContent() {
   const location = useLocation();
   const {
     // userId,
+    text,
     createTime,
     nickname,
     likeCount,
     profileImageUrl,
     styleImages,
   } = location.state;
-
+  console.log(text);
   return (
     <div className="w-720px px-40px">
       <DetailTitle
@@ -25,7 +26,12 @@ export default function DetailStyleContent() {
         profileImageUrl={profileImageUrl}
       />
       <DetailImages styleImages={styleImages} />
-      <DetailSocialContent likeCount={likeCount} />
+      <DetailSocialContent
+        nickname={nickname}
+        profileImageUrl={profileImageUrl}
+        likeCount={likeCount}
+        text={text}
+      />
     </div>
   );
 }

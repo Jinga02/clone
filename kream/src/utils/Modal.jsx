@@ -1,12 +1,32 @@
 /** @format */
-import React from "react";
 
-export default function Modal({ isOpen, children, backDropStyle, modalStyle }) {
-  if (!isOpen) return null;
+import React, { useEffect } from "react";
+
+export default function Modal({ isOpen, closeModal, children, modalStyle }) {
+  useEffect(() => {
+    if (isOpen) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "";
+    }
+
+    return () => {
+      document.body.style.overflow = "";
+    };
+  }, [isOpen]);
 
   return (
-    <div className={`${backDropStyle} z-10`}>
-      <div className={modalStyle}>{children}</div>
-    </div>
+    <>
+      {isOpen && (
+        <div
+          className={
+            "fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-10"
+          }
+          onClick={closeModal}
+        >
+          <div className={modalStyle}>{children}</div>
+        </div>
+      )}
+    </>
   );
 }

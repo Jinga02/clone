@@ -20,7 +20,6 @@ export default function DetailImages({ styleImages }) {
   const handleMouseLeave = () => {
     setShowNavigation(false);
   };
-  console.log(styleImages);
   return (
     <div
       className="pb-22px"

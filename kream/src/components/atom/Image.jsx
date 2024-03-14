@@ -4,7 +4,6 @@ import React from "react";
 
 export default function Image({ url, styleName }) {
   const defaultImage = "asset/icon/basic.png";
-  console.log(url);
   const handleError = (e) => {
     e.target.onerror = null;
     e.target.src = "asset/icon/basic.png";

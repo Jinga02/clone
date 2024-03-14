@@ -5,7 +5,7 @@ import React from "react";
 
 export default function DetailButtons() {
   return (
-    <div className="w-full h-36px bg-red-100 flex justify-between">
+    <div className="w-full h-36px flex justify-between">
       <div>
         <Button imageUrl="asset/icon/heart.svg" styleName={buttonStlye} />
         <Button imageUrl="asset/icon/chat.svg" styleName={buttonStlye} />

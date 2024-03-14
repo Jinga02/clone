@@ -39,8 +39,8 @@ export default function DetailTitle({ createTime, nickname, profileImageUrl }) {
       </div>
       {isModalOpen && (
         <Modal
+          closeModal={closeModal}
           isOpen={isModalOpen}
-          backDropStyle="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center"
           modalStyle="w-360px h-184px flex flex-col justify-center items-center bg-white rounded-xl"
         >
           <ul className="w-full h-2/3 ">
