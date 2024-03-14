@@ -1,0 +1,32 @@
+/** @format */
+
+.swiper-button-next {
+  background: url(../../public/asset/icon/right-arrow.png) no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+}
+
+.swiper-button-prev {
+  background: url(../../public/asset/icon/left-arrow.png) no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  display: none;
+}
+
+.swiper-pagination {
+  position: relative;
+
+  margin-top: 10px;
+}
+.swiper-scrollbar {
+  display: none;
+}
+.swiper-pagination-bullet {
+  background: black;
+  width: 6px;
+  height: 6px;
+}

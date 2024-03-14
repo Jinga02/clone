@@ -21,7 +21,7 @@ export default function DetailTitle({ createTime, nickname, profileImageUrl }) {
   };
 
   return (
-    <div className="w-full h-44px flex items-center justify-between bg-red-100">
+    <div className="w-full h-68px py-12px flex items-center justify-between ">
       <div className="flex items-center">
         <Link
           styleName="w-44px h-44px rounded-full"
