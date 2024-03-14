@@ -2,12 +2,14 @@
 
 import React from "react";
 
-export default function Link({ url, name, styleName }) {
-  const defaultStyle = "p-1 px-3";
-
+export default function Link({ url, name, styleName, imageUrl }) {
   return (
-    <a className={styleName ? styleName : defaultStyle} href={url}>
-      {name}
+    <a className={imageUrl ? "" : styleName} href={url}>
+      {imageUrl ? (
+        <img className={styleName} src={imageUrl} alt={name} />
+      ) : (
+        name
+      )}
     </a>
   );
 }

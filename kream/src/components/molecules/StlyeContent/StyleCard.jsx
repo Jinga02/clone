@@ -1,7 +1,7 @@
 /** @format */
 
 import Image from "components/atom/Image";
-import React, { useState, useEffect } from "react";
+import React from "react";
 import { useNavigate } from "react-router-dom";
 
 export default function StyleCard({ prop }) {
@@ -16,7 +16,7 @@ export default function StyleCard({ prop }) {
   //   setImageHeight(randomHeight);
   // }, []);
   const onClickStyleCard = () => {
-    navigate(`/${userId}`);
+    navigate(`/${userId}`, { state: prop });
   };
   return (
     <li className="h-444px cursor-pointer" onClick={() => onClickStyleCard()}>
@@ -28,7 +28,7 @@ export default function StyleCard({ prop }) {
       />
       <div className="h-20% flex items-center">
         <Image
-          styleName=" w-4 h-4 rounded-xl"
+          styleName=" w-6 h-6 mr-2 rounded-full"
           url={profileImageUrl}
           alt="프로필 이미지"
         />
