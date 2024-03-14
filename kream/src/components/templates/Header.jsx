@@ -36,7 +36,7 @@ export default function Header({ setHeaderHeight }) {
   return (
     <div
       ref={headerRef}
-      className={`fixed w-full max-w-[1280px] h-pc_header_height z-3 bg-white ${
+      className={`fixed w-full max-w-[1280px] h-pc_header_height z-10  bg-white ${
         checkPathIncludes() ? "md:hidden" : "lg:hidden"
       } left-1/2 transform -translate-x-1/2`}
     >

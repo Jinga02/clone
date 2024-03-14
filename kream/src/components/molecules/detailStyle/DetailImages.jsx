@@ -20,10 +20,10 @@ export default function DetailImages({ styleImages }) {
   const handleMouseLeave = () => {
     setShowNavigation(false);
   };
-
+  console.log(styleImages);
   return (
     <div
-      className="pb-22px"
+      className="pb-22px "
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
     >
@@ -37,7 +37,7 @@ export default function DetailImages({ styleImages }) {
       >
         {styleImages.map((image, index) => (
           <SwiperSlide key={index}>
-            <Image url={image} styleName="w-640px h-852px" />
+            <Image url={image.url} styleName="w-640px h-852px z-0" />
           </SwiperSlide>
         ))}
       </Swiper>

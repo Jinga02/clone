@@ -1,7 +1,18 @@
 /** @format */
 
 import React from "react";
+import DetailButtons from "./DetailButtons";
+import DetailText from "./DetailText";
+import DetailComment from "./DetailComment";
+import DetailLikeCount from "./DetailLikeCount";
 
 export default function DetailSocialContent() {
-  return <div>DetailSocialContent</div>;
+  return (
+    <div className="w-full h-343px pt-12px bg-red-50">
+      <DetailButtons />
+      <DetailLikeCount />
+      <DetailText />
+      <DetailComment />
+    </div>
+  );
 }
