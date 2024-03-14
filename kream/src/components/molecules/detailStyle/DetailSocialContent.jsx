@@ -11,6 +11,7 @@ export default function DetailSocialContent({
   nickname,
   likeCount,
   text,
+  comments,
 }) {
   return (
     <div className="w-full h-343px pt-12px">
@@ -21,7 +22,7 @@ export default function DetailSocialContent({
         likeCount={likeCount}
       />
       <DetailText text={text} />
-      <DetailComment />
+      <DetailComment comments={comments} />
     </div>
   );
 }

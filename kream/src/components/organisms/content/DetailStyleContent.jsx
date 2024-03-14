@@ -16,8 +16,8 @@ export default function DetailStyleContent() {
     likeCount,
     profileImageUrl,
     styleImages,
+    comments,
   } = location.state;
-  console.log(text);
   return (
     <div className="w-720px px-40px">
       <DetailTitle
@@ -31,6 +31,7 @@ export default function DetailStyleContent() {
         profileImageUrl={profileImageUrl}
         likeCount={likeCount}
         text={text}
+        comments={comments}
       />
     </div>
   );

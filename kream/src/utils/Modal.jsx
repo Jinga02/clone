@@ -20,7 +20,7 @@ export default function Modal({ isOpen, closeModal, children, modalStyle }) {
       {isOpen && (
         <div
           className={
-            "fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-10"
+            "fixed inset-0 bg-black bg-opacity-40 flex justify-center items-center z-10"
           }
           onClick={closeModal}
         >
