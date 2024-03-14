@@ -23,7 +23,7 @@ export default function DetailImages({ styleImages }) {
   console.log(styleImages);
   return (
     <div
-      className="pb-22px "
+      className="pb-22px"
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
     >

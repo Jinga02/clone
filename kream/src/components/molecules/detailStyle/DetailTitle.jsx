@@ -6,6 +6,7 @@ import { format, register } from "timeago.js";
 import koLocale from "timeago.js/lib/lang/ko";
 import { PiDotsThreeOutlineFill } from "react-icons/pi";
 import Button from "components/atom/Button";
+import Modal from "utils/Modal";
 
 register("ko", koLocale);
 
@@ -37,20 +38,21 @@ export default function DetailTitle({ createTime, nickname, profileImageUrl }) {
         <Button Icon={PiDotsThreeOutlineFill} click={handleMenu} />
       </div>
       {isModalOpen && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center">
-          <div className="w-360px h-184px flex flex-col justify-center items-center bg-white rounded-xl">
-            <ul className="w-full h-2/3 ">
-              {" "}
-              <li className={liStyle}> 게시글 수정</li>
-              <li className={liStyle}> 게시글 삭제</li>
-            </ul>
-            <Button
-              styleName="w-full h-1/3 font-bold"
-              name="취소"
-              click={closeModal}
-            />
-          </div>
-        </div>
+        <Modal
+          isOpen={isModalOpen}
+          backDropStyle="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center"
+          modalStyle="w-360px h-184px flex flex-col justify-center items-center bg-white rounded-xl"
+        >
+          <ul className="w-full h-2/3 ">
+            <li className={liStyle}> 게시글 수정</li>
+            <li className={liStyle}> 게시글 삭제</li>
+          </ul>
+          <Button
+            styleName="w-full h-1/3 font-bold"
+            name="취소"
+            click={closeModal}
+          />
+        </Modal>
       )}
     </div>
   );

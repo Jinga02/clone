@@ -8,8 +8,14 @@ import React from "react";
 
 export default function DetailStyleContent() {
   const location = useLocation();
-  const { userId, createTime, nickname, profileImageUrl, styleImages } =
-    location.state;
+  const {
+    // userId,
+    createTime,
+    nickname,
+    likeCount,
+    profileImageUrl,
+    styleImages,
+  } = location.state;
 
   return (
     <div className="w-720px px-40px">
@@ -19,7 +25,7 @@ export default function DetailStyleContent() {
         profileImageUrl={profileImageUrl}
       />
       <DetailImages styleImages={styleImages} />
-      <DetailSocialContent userId={userId} />
+      <DetailSocialContent likeCount={likeCount} />
     </div>
   );
 }
