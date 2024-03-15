@@ -2,8 +2,8 @@
 
 import React, { useEffect, useState } from "react";
 import { Outlet } from "react-router-dom";
-import Header from "components/templates/Header";
-import Footer from "components/templates/Footer";
+import HeaderTemplates from "components/templates/HeaderTemplates";
+import FooterTempaltes from "components/templates/FooterTempaltes";
 import "./App.css";
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
   // }, [headerHeight]);
   return (
     <>
-      <Header setHeaderHeight={setHeaderHeight} />
+      <HeaderTemplates setHeaderHeight={setHeaderHeight} />
       <div
         className="1w-full"
         style={{
@@ -24,7 +24,7 @@ function App() {
       >
         <Outlet />
       </div>
-      <Footer />
+      <FooterTempaltes />
       {/* <Footer setFooterHeight={setFooterHeight} /> */}
     </>
   );

@@ -1,9 +1,9 @@
 /** @format */
 
 import React from "react";
-import Contact from "components/molecules/main/Contact";
-import CustomerSupport from "components/molecules/main/CustomerSupport";
-import Manual from "components/molecules/main/Manual";
+import Contact from "components/molecules/footer/Contact";
+import CustomerSupport from "components/molecules/footer/CustomerSupport";
+import Manual from "components/molecules/footer/Manual";
 
 export default function MainFooter() {
   return (
@@ -13,9 +13,7 @@ export default function MainFooter() {
           <Manual />
           <CustomerSupport />
         </div>
-        <div className="">
-          <Contact />
-        </div>
+        <Contact />
       </div>
     </div>
   );
