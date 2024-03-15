@@ -3,7 +3,7 @@
 import React from "react";
 import Link from "components/atom/Link";
 
-export default function StyleNav({ styles }) {
+export default function StyleCategory({ styles }) {
   const navList = [
     "KICKS",
     "팔로잉",
@@ -21,7 +21,6 @@ export default function StyleNav({ styles }) {
   ];
 
   return (
-    // <div className="w-full h-44px px-40px sticky top-86px flex justify-start items-center bg-white overflow-x-auto whitespace-nowrap hide-scrollbar">
     <>
       <div className="hidden md:flex w-full h-44px px-40px sticky top-0px flex justify-start items-center bg-white overflow-x-auto whitespace-nowrap hide-scrollbar border-b border-gray ">
         {navList.map((nav) => (
@@ -33,7 +32,6 @@ export default function StyleNav({ styles }) {
           <Link key={nav} name={nav} styleName="px-3 cursor-pointer text-sm" />
         ))}
       </div>
-      {/* // </div> */}
     </>
   );
 }
