@@ -1,20 +1,47 @@
 /** @format */
 
 import LoginInput from "components/atom/LoginInput";
-import React from "react";
+import React, { useState } from "react";
 import { IoIosArrowForward } from "react-icons/io";
+import Modal from "utils/Modal";
 
 export default function ShoesArea() {
+  const [isOpen, setIsOpen] = useState(false);
+  const openModal = () => {
+    setIsOpen(true);
+  };
+  const closeModal = () => {
+    setIsOpen(false);
+  };
+  const shoesSize = [];
+  for (let i = 200; i < 305; i += 5) {
+    shoesSize.push(i);
+  }
+  console.log(shoesSize);
   return (
-    <div className="pt-18px flex items-center">
-      <LoginInput
-        name="신발 사이즈"
-        placeholder="선택하세요"
-        readOnly="readonly"
-      />
-      <span className="">
-        <IoIosArrowForward />
-      </span>
-    </div>
+    <>
+      <div className="pt-18px flex items-center" onClick={() => openModal()}>
+        <LoginInput
+          name="신발 사이즈"
+          placeholder="선택하세요"
+          readOnly="readonly"
+        />
+        <span className="">
+          <IoIosArrowForward />
+        </span>
+      </div>
+      {isOpen && (
+        <Modal
+          isOpen={isOpen}
+          modalStyle="w-448px h-426px bg-white rounded-2xl "
+        >
+          <ul className="grid grid-cols-3">
+            {shoesSize.map((size) => (
+              <li>{size}</li>
+            ))}
+          </ul>
+        </Modal>
+      )}
+    </>
   );
 }

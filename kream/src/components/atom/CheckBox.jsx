@@ -2,7 +2,7 @@
 
 import React from "react";
 
-export default function CheckBox({ styleName, name, placeholder }) {
+export default function CheckBox({ styleName, name, placeholder, labelStyle }) {
   return (
     <span className="flex justify-start items-center ">
       <input
@@ -11,7 +11,7 @@ export default function CheckBox({ styleName, name, placeholder }) {
         id="checkbox"
         placeholder={placeholder}
       ></input>
-      <label htmlFor="checkbox" className="font-bold">
+      <label className={labelStyle} htmlFor="checkbox">
         {name}
       </label>
     </span>
