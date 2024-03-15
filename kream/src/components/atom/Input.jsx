@@ -2,13 +2,19 @@
 
 import React from "react";
 
-export default function Input({ name, placeholder, spanStyle, inputStyle }) {
+export default function Input({
+  name,
+  placeholder,
+  spanStyle,
+  inputStyle,
+  readonly,
+}) {
   const inputId = `${name}Input`;
 
   return (
     <span className={spanStyle}>
       {name && (
-        <label htmlFor={inputId} className="font-bold ">
+        <label htmlFor={inputId} className="text-sm font-bold ">
           {name}
         </label>
       )}
@@ -17,6 +23,7 @@ export default function Input({ name, placeholder, spanStyle, inputStyle }) {
         type="text"
         id={inputId}
         placeholder={placeholder}
+        readonly
       ></input>
     </span>
   );

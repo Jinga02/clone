@@ -16,7 +16,6 @@ function App() {
     <>
       <HeaderTemplates setHeaderHeight={setHeaderHeight} />
       <div
-        className="1w-full"
         style={{
           paddingTop: headerHeight === 0 ? "0px" : headerHeight,
           // paddingBottom: footerheight === 0 ? "0px" : footerheight,

@@ -8,12 +8,12 @@ export default function CheckBox({ styleName, name, placeholder }) {
       <input
         className={styleName}
         type="checkbox"
-        // id={inputId}
+        id="checkbox"
         placeholder={placeholder}
       ></input>
-      {/* <label htmlFor={inputId} className="font-bold">
+      <label htmlFor="checkbox" className="font-bold">
         {name}
-      </label> */}
+      </label>
     </span>
   );
 }

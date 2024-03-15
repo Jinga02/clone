@@ -3,7 +3,7 @@
 import CheckBox from "components/atom/CheckBox";
 import React from "react";
 
-export default function AgreeForm() {
+export default function AgreeArea() {
   return (
     <div>
       <CheckBox
