@@ -8,7 +8,6 @@ import koLocale from "timeago.js/lib/lang/ko";
 register("ko", koLocale);
 
 export default function DetailTitle({ createTime, nickname, profileImageUrl }) {
-  console.log(createTime);
   return (
     <div className="flex items-center">
       <Link

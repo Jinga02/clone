@@ -9,6 +9,7 @@ import DetailLikeCount from "../../molecules/detailStyle/DetailLikeCount";
 export default function DetailSocialContent({
   profileImageUrl,
   nickname,
+  createTime,
   likeCount,
   text,
   comments,
@@ -22,7 +23,12 @@ export default function DetailSocialContent({
         likeCount={likeCount}
       />
       <DetailText text={text} />
-      <DetailComment comments={comments} />
+      <DetailComment
+        profileImageUrl={profileImageUrl}
+        nickname={nickname}
+        createTime={createTime}
+        comments={comments}
+      />
     </div>
   );
 }

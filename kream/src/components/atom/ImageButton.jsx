@@ -2,13 +2,22 @@
 
 import React from "react";
 
-export default function ImageButton({ name, styleName, imageStyle, imgUrl }) {
-  const defaultStyle = "bg-transparent border-none p-1 px-2 flex items-center";
-
+export default function ImageButton({ name, styleName, imgStyle, imgUrl }) {
+  const defaultStyle = "bg-transparent border-none flex items-center";
+  const defaultImage = "asset/icon/basic.png";
+  const handleError = (e) => {
+    e.target.onerror = null;
+    e.target.src = "asset/icon/basic.png";
+  };
   return (
     <button className={styleName ? styleName : defaultStyle}>
-      <img className={imageStyle} src={imgUrl} alt="icon" />
-      <span className="flex-grow">{name}</span>
+      <img
+        className={imgStyle}
+        src={imgUrl ? imgUrl : defaultImage}
+        onError={handleError}
+        alt="icon"
+      />
+      {name && <span className="flex-grow">{name}</span>}
     </button>
   );
 }
