@@ -1,8 +1,8 @@
 /** @format */
 
-import StyleCategory from "components/molecules/stlyeContent/StyleCategory";
-import StyleSearchBar from "components/molecules/stlyeContent/StyleSearchBar";
-import StyleTitle from "components/molecules/stlyeContent/StyleTitle";
+import StyleCategory from "components/molecules/stlye/StyleCategory";
+import StyleSearchBar from "components/molecules/stlye/StyleSearchBar";
+import StyleTitle from "components/molecules/stlye/StyleTitle";
 import React from "react";
 
 export default function StyleHeader({ styles }) {

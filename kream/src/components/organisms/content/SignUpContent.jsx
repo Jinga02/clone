@@ -1,7 +1,7 @@
 /** @format */
 
-import LoginTitle from "components/molecules/loginContent/LoginTitle";
-import SignForm from "components/molecules/signUpContent/SignForm";
+import LoginTitle from "components/molecules/login/LoginTitle";
+import SignForm from "components/molecules/signUp/SignForm";
 import React from "react";
 
 export default function SignUpContent() {

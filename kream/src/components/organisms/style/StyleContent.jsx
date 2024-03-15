@@ -2,11 +2,11 @@
 
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import StyleCards from "components/molecules/stlyeContent/StyleCards";
-import StyleTitle from "components/molecules/stlyeContent/StyleTitle";
-import StyleNav from "components/molecules/stlyeContent/StyleCategory";
-import StyleShortCut from "components/molecules/stlyeContent/StyleShortCut";
-import StyleSearchBar from "components/molecules/stlyeContent/StyleSearchBar";
+import StyleCards from "components/molecules/stlye/StyleCards";
+import StyleTitle from "components/molecules/stlye/StyleTitle";
+import StyleNav from "components/molecules/stlye/StyleCategory";
+import StyleShortCut from "components/molecules/stlye/StyleShortCut";
+import StyleSearchBar from "components/molecules/stlye/StyleSearchBar";
 import { useSelector } from "react-redux";
 
 export default function StyleContent() {

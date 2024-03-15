@@ -1,9 +1,9 @@
 /** @format */
 
 import React from "react";
-import Contact from "components/molecules/mainFooter/Contact";
-import CustomerSupport from "components/molecules/mainFooter/CustomerSupport";
-import Manual from "components/molecules/mainFooter/Manual";
+import Contact from "components/molecules/main/Contact";
+import CustomerSupport from "components/molecules/main/CustomerSupport";
+import Manual from "components/molecules/main/Manual";
 
 export default function MainFooter() {
   return (
