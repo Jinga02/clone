@@ -3,21 +3,15 @@
 import LoginInput from "components/atom/LoginInput";
 import React, { useState } from "react";
 import { IoIosArrowForward } from "react-icons/io";
-import Modal from "utils/Modal";
+import Modal from "components/molecules/common/Modal";
+import useModal from "hook/useModal";
 
 export default function ShoesArea() {
-  const [isOpen, setIsOpen] = useState(false);
-  const openModal = () => {
-    setIsOpen(true);
-  };
-  const closeModal = () => {
-    setIsOpen(false);
-  };
+  const { isOpen, openModal, closeModal } = useModal;
   const shoesSize = [];
   for (let i = 200; i < 305; i += 5) {
     shoesSize.push(i);
   }
-  console.log(shoesSize);
   return (
     <>
       <div className="pt-18px flex items-center" onClick={() => openModal()}>

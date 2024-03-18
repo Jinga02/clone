@@ -1,10 +1,11 @@
 /** @format */
 
-import React, { useState } from "react";
+import React from "react";
 import Span from "components/atom/Span";
 import Title from "components/atom/Title";
 import DetailCommentModal from "./DetailCommentModal";
 import CommentBox from "../common/CommentBox";
+import useModal from "./../../../hook/useModal";
 
 export default function DetailComment({
   comments,
@@ -12,15 +13,9 @@ export default function DetailComment({
   nickname,
   createTime,
 }) {
-  const [isOpen, setIsOpen] = useState(false);
-
-  const openModal = () => {
-    setIsOpen(true);
-  };
-  const closeModal = () => {
-    setIsOpen(false);
-  };
+  const { isOpen, openModal, closeModal } = useModal();
   const noComments = comments.length === 0;
+
   return (
     <div className="w-full min-h-[188px] py-30px">
       <Title name={`댓글 ${comments.length}개`} styleName="font-bold text-lg" />

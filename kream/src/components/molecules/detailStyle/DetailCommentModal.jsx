@@ -1,7 +1,7 @@
 /** @format */
 
 import React from "react";
-import Modal from "utils/Modal";
+import Modal from "components/molecules/common/Modal";
 import CommentTitle from "./comment/CommentTitle";
 import CommentHost from "./comment/CommentHost";
 import CommentInput from "./comment/CommentInput";
@@ -21,7 +21,7 @@ export default function DetailCommentModal({
       closeModal={closeModal}
       modalStyle="w-420px h-full bg-white absolute right-0"
     >
-      <CommentTitle />
+      <CommentTitle closeModal={closeModal} />
       <CommentHost
         profileImageUrl={profileImageUrl}
         nickname={nickname}
