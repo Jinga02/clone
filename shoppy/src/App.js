@@ -6,9 +6,11 @@ import { Outlet } from "react-router-dom";
 
 function App() {
   return (
-    <div>
+    <div className="w-full h-full ">
       <Header />
-      <Outlet />
+      <div className="w-full h-80%">
+        <Outlet />
+      </div>
       <Footer />
     </div>
   );

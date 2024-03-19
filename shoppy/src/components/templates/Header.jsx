@@ -1,15 +1,14 @@
 /** @format */
 
-import Image from "components/atom/Image";
-import Link from "components/atom/Link";
+import Category from "components/molecules/header/Category";
+import Logo from "components/molecules/header/Logo";
 import React from "react";
 
 export default function Header() {
   return (
-    <header>
-      <Link styleName="">
-        <Image imgUrl="asset/logo.png" />
-      </Link>
-    </header>
+    <div className="w-full h-6% px-4%  flex justify-between items-center">
+      <Logo />
+      <Category />
+    </div>
   );
 }
