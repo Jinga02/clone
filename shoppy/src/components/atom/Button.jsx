@@ -3,5 +3,10 @@
 import React from "react";
 
 export default function Button({ onClick, children, styleName }) {
-  return <button onClick={onClick}>{children}</button>;
+  const defaultStyle = "mx-2";
+  return (
+    <button onClick={onClick} className={`${styleName} ${defaultStyle}`}>
+      {children}
+    </button>
+  );
 }
