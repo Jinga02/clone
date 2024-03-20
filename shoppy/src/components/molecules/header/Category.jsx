@@ -10,7 +10,7 @@ import { useAuthContext } from "context/Authcontext";
 export default function Category() {
   const buttonStyle = "px-5 py-2 bg-red-400 text-white hover:brightness-110";
   const { user, login, logout } = useAuthContext();
-
+  console.log(user);
   return (
     <div className="h-full flex items-center capitalize font-semibold shrink-0">
       <Link linkUrl="/product" name="products" styleName="" />

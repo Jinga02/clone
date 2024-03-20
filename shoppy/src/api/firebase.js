@@ -22,6 +22,7 @@ const app = initializeApp(firebaseConfig);
 const auth = getAuth();
 const provider = new GoogleAuthProvider();
 const database = getDatabase(app);
+
 export function login() {
   signInWithPopup(auth, provider).catch(console.error);
 }
@@ -61,5 +62,14 @@ export async function addNewProduct(product, imageUrl) {
     price: parseInt(product.price),
     imageUrl,
     options: product.options.split(","),
+  });
+}
+
+export async function getProducts() {
+  return get(ref(database, "products")).then((snapshot) => {
+    if (snapshot.exists()) {
+      return Object.values(snapshot.val());
+    }
+    return [];
   });
 }

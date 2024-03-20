@@ -31,8 +31,8 @@ export default function FormArea() {
     e.preventDefault();
     setIsUploading(true);
     uploadImage(file)
-      .then((res) => {
-        addNewProduct(product, res).then(() => {
+      .then((url) => {
+        addNewProduct(product, url).then(() => {
           setSucess("성공적으로 제품이 추가되었습니다.");
           setTimeout(() => {
             setSucess(null);
