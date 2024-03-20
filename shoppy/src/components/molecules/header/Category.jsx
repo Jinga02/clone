@@ -1,10 +1,9 @@
 /** @format */
 
-import React, { useEffect, useState } from "react";
+import React from "react";
 import Link from "components/atom/Link";
 import { BsPencilFill } from "react-icons/bs";
 import Button from "components/atom/Button";
-import { login, logout } from "api/firebase";
 import User from "./User";
 import { useAuthContext } from "context/Authcontext";
 
