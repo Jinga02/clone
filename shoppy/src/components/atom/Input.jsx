@@ -2,12 +2,36 @@
 
 import React from "react";
 
-export default function Input({ setText, value, placeholder }) {
+export default function Input({
+  type,
+  onChange,
+  styleName,
+  name,
+  value,
+  placeholder,
+}) {
   return (
-    <input
-      onChange={(e) => setText(e.target.value)}
-      value={value}
-      placeholder={placeholder}
-    />
+    <>
+      {type === "file" ? (
+        <input
+          type={type}
+          accept="image/*"
+          name={name}
+          className={styleName}
+          required
+          onChange={onChange}
+        />
+      ) : (
+        <input
+          type={type}
+          required
+          onChange={onChange}
+          name={name}
+          className={styleName}
+          value={value}
+          placeholder={placeholder}
+        />
+      )}
+    </>
   );
 }

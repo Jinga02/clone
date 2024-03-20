@@ -4,7 +4,7 @@ import React from "react";
 import { useAuthContext } from "context/Authcontext";
 import { Navigate } from "react-router-dom";
 
-export default function ProtectedRoute({ children, requireAmin }) {
+export default function ProtectedRoute({ children, requireAdmin }) {
   /*
     로그인한 사용자가 있는지 확인
     그 사용자가 admin 권한이 있는지 확인
@@ -13,9 +13,19 @@ export default function ProtectedRoute({ children, requireAmin }) {
     조건에 맞는 경우에만 전달되 children을 보여줌
      
      */
-  const { user } = useAuthContext();
-  if (!user || (requireAmin && !user.isAdmin)) {
+  const { user, isLoading } = useAuthContext();
+
+  if (isLoading) {
+    return (
+      <div className="w-full h-full flex justify-center items-center text-3xl font-bold">
+        Loading....
+      </div>
+    );
+  }
+
+  if (!user || (requireAdmin && !user.isAdmin)) {
     return <Navigate to="/" replace />;
   }
+
   return children;
 }

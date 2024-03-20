@@ -7,16 +7,18 @@ const AuthContext = createContext();
 
 export function AuthContextProvider({ children }) {
   const [user, setUser] = useState();
+  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     // firebase에서 사용자 인증상태 추적...
     onUserStateChange((user) => {
+      setIsLoading(false);
       setUser(user);
     });
   }, []);
 
   return (
-    <AuthContext.Provider value={{ user, login, logout }}>
+    <AuthContext.Provider value={{ user, isLoading, login, logout }}>
       {children}
     </AuthContext.Provider>
   );
