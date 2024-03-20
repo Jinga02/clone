@@ -13,6 +13,7 @@ import NewProductPage from "pages/NewProductPage";
 import ProductDetailPage from "pages/ProductDetailPage";
 import MyCartPage from "pages/MyCartPage";
 import LoginPage from "pages/LoginPage";
+import ProtectedRoute from "pages/ProtectedRoute";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 const router = createBrowserRouter([
@@ -28,7 +29,11 @@ const router = createBrowserRouter([
       },
       {
         path: "/product/new",
-        element: <NewProductPage />,
+        element: (
+          <ProtectedRoute requireAdmin>
+            <NewProductPage />
+          </ProtectedRoute>
+        ),
       },
       {
         path: "/product/:id",
@@ -36,7 +41,11 @@ const router = createBrowserRouter([
       },
       {
         path: "/carts",
-        element: <MyCartPage />,
+        element: (
+          <ProtectedRoute>
+            <MyCartPage />
+          </ProtectedRoute>
+        ),
       },
       {
         path: "/login",

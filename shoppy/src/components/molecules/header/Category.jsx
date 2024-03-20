@@ -4,19 +4,13 @@ import React, { useEffect, useState } from "react";
 import Link from "components/atom/Link";
 import { BsPencilFill } from "react-icons/bs";
 import Button from "components/atom/Button";
-import { login, logout, onUserStateChange } from "api/firebase";
+import { login, logout } from "api/firebase";
 import User from "./User";
+import { useAuthContext } from "context/Authcontext";
 
 export default function Category() {
   const buttonStyle = "px-5 py-2 bg-red-400 text-white hover:brightness-110";
-  const [user, setUser] = useState();
-
-  useEffect(() => {
-    // firebase에서 사용자 인증상태 추적...
-    onUserStateChange((user) => {
-      setUser(user);
-    });
-  }, []);
+  const { user, login, logout } = useAuthContext();
   return (
     <div className="h-full flex items-center capitalize font-semibold shrink-0">
       <Link linkUrl="/product" name="products" styleName="" />
