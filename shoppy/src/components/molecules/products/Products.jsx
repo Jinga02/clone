@@ -16,11 +16,13 @@ export default function Products() {
     <div className="">
       {isLoading && <h1>Loading...</h1>}
       {error && <h1>{error}</h1>}{" "}
-      <ul className="w-800px mx-auto grid grid-cols-3">
-        {products.map((product) => (
-          <ProductItem product={product} key={product.id} />
-        ))}
-      </ul>
+      {products && (
+        <ul className="w-800px mx-auto grid grid-cols-3">
+          {products.map((product) => (
+            <ProductItem product={product} key={product.id} />
+          ))}
+        </ul>
+      )}
     </div>
   );
 }

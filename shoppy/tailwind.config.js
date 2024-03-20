@@ -21,6 +21,9 @@ module.exports = {
   content: ["./src/**/*.{js,jsx}"],
   theme: {
     extend: {
+      backgroundImage: {
+        banner: `url('../public/asset/banner.jpg')`,
+      },
       screens: {
         sm: { min: "440px" },
         md: { min: "768px" },
