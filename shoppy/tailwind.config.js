@@ -21,6 +21,11 @@ module.exports = {
   content: ["./src/**/*.{js,jsx}"],
   theme: {
     extend: {
+      screens: {
+        sm: { min: "440px" },
+        md: { min: "768px" },
+        lg: { min: "960px" },
+      },
       width: {
         ...createPx(2000, 2),
         ...createPercent(100, 2),

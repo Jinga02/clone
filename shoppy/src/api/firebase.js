@@ -1,7 +1,14 @@
 /** @format */
 
 import { initializeApp } from "firebase/app";
-import { getAuth, signInWithPopup, GoogleAuthProvider } from "firebase/auth";
+import {
+  getAuth,
+  signInWithPopup,
+  signOut,
+  GoogleAuthProvider,
+  onAuthStateChanged,
+} from "firebase/auth";
+import { getDatabase, ref, child, get } from "firebase/database";
 
 const firebaseConfig = {
   apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
@@ -10,18 +17,37 @@ const firebaseConfig = {
   projectId: process.env.REACT_APP_FIREBASE_PROJECT_ID,
 };
 
-initializeApp(firebaseConfig);
+const app = initializeApp(firebaseConfig);
 const auth = getAuth();
 const provider = new GoogleAuthProvider();
-provider.setCustomParameters({ prompt: "select_account" });
-
+const database = getDatabase(app);
 export function login() {
-  signInWithPopup(auth, provider)
-    .then((result) => {
-      const user = result.user;
-      console.log(user);
-    })
-    .catch((error) => {
-      console.log(error);
+  signInWithPopup(auth, provider).catch(console.error);
+}
+
+export function logout() {
+  signOut(auth).catch(console.error);
+}
+
+// 동작원리 이해가 안감
+export async function onUserStateChange(callback) {
+  onAuthStateChanged(auth, async (user) => {
+    // 1. 사용자가 있는 경우에(로그인한경우)
+    const updateUser = user ? await adminUser(user) : null;
+
+    callback(updateUser);
+  });
+}
+async function adminUser(user) {
+  // 2. 사용자가 어드민 권한을 가지고 있는지 확인
+  // 3. {...user, isAdmin:true/false}
+  return get(ref(database, "admins")) //
+    .then((snapshot) => {
+      if (snapshot.exists()) {
+        const admins = snapshot.val();
+        const isAdmin = admins.includes(user.uid);
+        return { ...user, isAdmin };
+      }
+      return user;
     });
 }
