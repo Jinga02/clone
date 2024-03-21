@@ -1,7 +1,8 @@
 /** @format */
 
+import Detail from "components/templates/Detail";
 import React from "react";
 
 export default function ProductDetailPage() {
-  return <div>ProductDetailPage</div>;
+  return <Detail />;
 }

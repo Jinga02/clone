@@ -11,7 +11,7 @@ function App() {
     <QueryClientProvider client={queryClient}>
       <AuthContextProvider>
         <Header />
-        <div className="w-full h-80%">
+        <div className="w-full h-80% px-50px">
           <Outlet />
         </div>
       </AuthContextProvider>

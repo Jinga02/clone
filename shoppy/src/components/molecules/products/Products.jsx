@@ -13,11 +13,11 @@ export default function Products() {
   } = useQuery({ queryKey: ["products"], queryFn: getProducts });
 
   return (
-    <div className="">
+    <div className="w-full">
       {isLoading && <h1>Loading...</h1>}
       {error && <h1>{error}</h1>}{" "}
       {products && (
-        <ul className="w-800px mx-auto grid grid-cols-3">
+        <ul className=" grid grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-4 py-4 ">
           {products.map((product) => (
             <ProductItem product={product} key={product.id} />
           ))}

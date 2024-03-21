@@ -25,8 +25,8 @@ module.exports = {
         banner: `url('../public/asset/banner.jpg')`,
       },
       screens: {
-        sm: { min: "440px" },
-        md: { min: "768px" },
+        sm: { max: "440px" },
+        md: { min: "441px", max: "959px" },
         lg: { min: "960px" },
       },
       width: {

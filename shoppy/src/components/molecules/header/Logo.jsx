@@ -8,7 +8,7 @@ import React from "react";
 export default function Logo() {
   return (
     <Link linkUrl="/" styleName="h-full flex justify-center items-center">
-      <Image imgUrl="asset/logo.png" styleName="h-full" />
+      <Image imgUrl="/asset/logo.png" styleName="h-full" />
       <P styleName="text-red-500 text-xl font-semibold">Shoppy</P>
     </Link>
   );
