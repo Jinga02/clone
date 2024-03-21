@@ -4,8 +4,9 @@ import Image from "components/atom/Image";
 import React from "react";
 import { useLocation } from "react-router-dom";
 export default function DetailImage() {
-  const { category, image } = useLocation().state.product;
-
+  const location = useLocation();
+  const { category, image } =
+    location.state && location.state.product ? location.state.product : {};
   return (
     <div className="w-50%">
       <h1 className="mx-4 text-gray-700">{category}</h1>

@@ -6,7 +6,7 @@ import React from "react";
 
 export default function Detail() {
   return (
-    <div className="py-6 flex flex-col lg:flex-row justify-between items-center ">
+    <div className="py-6 flex flex-col lg:flex-row ">
       <DetailImage />
       <DetailDescription />
     </div>

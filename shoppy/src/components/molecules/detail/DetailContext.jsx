@@ -5,7 +5,9 @@ import React from "react";
 import { useLocation } from "react-router-dom";
 
 export default function DetailContext() {
-  const { title, price, description } = useLocation().state.product;
+  const location = useLocation();
+  const { title, price, description } =
+    location.state && location.state.product ? location.state.product : {};
   return (
     <div className="">
       <P styleName="font-bold text-3xl ">{title}</P>
