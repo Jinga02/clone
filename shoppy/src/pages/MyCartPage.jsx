@@ -1,7 +1,12 @@
 /** @format */
 
+import Cart from "components/templates/Cart";
 import React from "react";
 
 export default function MyCartPage() {
-  return <div>MyCartPage</div>;
+  return (
+    <div>
+      <Cart />
+    </div>
+  );
 }
