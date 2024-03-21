@@ -1,5 +1,6 @@
 /** @format */
 
+import { useMutation, useQueryClient } from "@tanstack/react-query";
 import { addNewProduct } from "api/firebase";
 import { uploadImage } from "api/uploader";
 import Button from "components/atom/Button";
@@ -15,7 +16,13 @@ export default function FormArea() {
   const [product, setProduct] = useState();
   const [file, setFile] = useState();
   const [isUploading, setIsUploading] = useState(false);
-  const [sucess, setSucess] = useState();
+  const [success, setSuccess] = useState();
+
+  const queryClient = useQueryClient();
+  const addProduct = useMutation({
+    mutationFn: ({ product, url }) => addNewProduct(product, url),
+    onSuccess: () => queryClient.invalidateQueries(["products"]),
+  });
 
   const handleChange = (e) => {
     const { name, value, files } = e.target;
@@ -32,19 +39,30 @@ export default function FormArea() {
     setIsUploading(true);
     uploadImage(file)
       .then((url) => {
-        addNewProduct(product, url).then(() => {
-          setSucess("성공적으로 제품이 추가되었습니다.");
-          setTimeout(() => {
-            setSucess(null);
-          }, 4000);
-        });
+        addProduct.mutate(
+          { product, url },
+          {
+            onSuccess: () => {
+              setSuccess("성공적으로 제품이 추가되었습니다.");
+              setTimeout(() => {
+                setSuccess(null);
+              }, 4000);
+            },
+          }
+        );
+        // addNewProduct(product, url).then(() => {
+        // setSuccess("성공적으로 제품이 추가되었습니다.");
+        // setTimeout(() => {
+        //   setSuccess(null);
+        // }, 4000);
+        // });
       })
       .finally(() => setIsUploading(false));
   };
   return (
     <div className=" flex flex-col justify-center items-center">
       <h1 className="text-3xl font-semibold my-5">새로운 제품 등록</h1>
-      {sucess && <h1 className="text-3xl font-semibold my-5">✅{sucess}</h1>}
+      {success && <h1 className="text-3xl font-semibold my-5">✅{success}</h1>}
       {file ? (
         <img
           className="w-400px h-400px mb-10 "
@@ -62,12 +80,7 @@ export default function FormArea() {
         className="flex flex-col justify-center items-center"
         onSubmit={handleSubmit}
       >
-        <Input
-          type="file"
-          // styleName={inputStyle}
-          name="file"
-          onChange={handleChange}
-        />
+        <Input type="file" name="file" onChange={handleChange} />
         <Input
           styleName={inputStyle}
           type="text"

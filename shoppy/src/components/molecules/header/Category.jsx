@@ -24,7 +24,6 @@ export default function Category() {
               <BsPencilFill />
             </Link>
           )}
-
           <User user={user} />
         </>
       )}

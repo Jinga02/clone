@@ -14,7 +14,7 @@ export default function ProductItem({ product }) {
         navigate(`/product/${product.id}`, { state: { product } });
       }}
     >
-      <Image styleName="w-full" imgUrl={product.image} />
+      <Image styleName="w-full" imgUrl={product.image || product.imageUrl} />
       <div className="mx-2 p-2 text-md flex justify-between ">
         <P styleName="truncate">{product.title}</P>
         <P>{product.price}원</P>
