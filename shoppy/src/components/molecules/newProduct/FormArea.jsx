@@ -1,11 +1,10 @@
 /** @format */
 
-import { useMutation, useQueryClient } from "@tanstack/react-query";
-import { addNewProduct } from "api/firebase";
 import { uploadImage } from "api/uploader";
 import Button from "components/atom/Button";
 import Input from "components/atom/Input";
 import React, { useState } from "react";
+import useProducts from "hooks/useProducts";
 
 export default function FormArea() {
   const inputStyle =
@@ -17,12 +16,7 @@ export default function FormArea() {
   const [file, setFile] = useState();
   const [isUploading, setIsUploading] = useState(false);
   const [success, setSuccess] = useState();
-
-  const queryClient = useQueryClient();
-  const addProduct = useMutation({
-    mutationFn: ({ product, url }) => addNewProduct(product, url),
-    onSuccess: () => queryClient.invalidateQueries(["products"]),
-  });
+  const { addProduct } = useProducts();
 
   const handleChange = (e) => {
     const { name, value, files } = e.target;
@@ -50,13 +44,8 @@ export default function FormArea() {
             },
           }
         );
-        // addNewProduct(product, url).then(() => {
-        // setSuccess("성공적으로 제품이 추가되었습니다.");
-        // setTimeout(() => {
-        //   setSuccess(null);
-        // }, 4000);
-        // });
       })
+      .catch((err) => console.log(err))
       .finally(() => setIsUploading(false));
   };
   return (

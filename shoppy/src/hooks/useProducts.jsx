@@ -7,28 +7,21 @@ import { addNewProduct, getProducts as fetchProducts } from "api/firebase";
 export default function useProducts() {
   const queryClient = useQueryClient();
 
-  const getProducts = useQuery(
-    { queryKey: ["products"], queryFn: fetchProducts },
-    {
-      staleTime: 1000 * 60,
-    }
-  );
+  const {
+    isLoading,
+    error,
+    data: products,
+  } = useQuery({
+    queryKey: ["products"],
+    queryFn: fetchProducts,
+  });
 
-  const { mutate: addProduct } = useMutation({
-    mutationFn: addNewProduct,
+  const addProduct = useMutation({
+    mutationFn: ({ product, url }) => addNewProduct(product, url),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: "products" });
     },
   });
-  // const addProductMutation = useMutation(addNewProduct, {
-  //   onSuccess: () => {
-  //     queryClient.invalidateQueries("products");
-  //   },
-  // });
 
-  // const addProduct = async (newProductData) => {
-  //   await addProductMutation.mutateAsync(newProductData);
-  // };
-
-  return { getProducts, addProduct };
+  return { isLoading, error, products, addProduct };
 }
