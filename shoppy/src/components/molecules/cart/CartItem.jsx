@@ -3,8 +3,7 @@
 import React from "react";
 import { RiDeleteBin5Fill } from "react-icons/ri";
 import { AiOutlinePlusSquare, AiOutlineMinusSquare } from "react-icons/ai";
-import { addOrUpdateToCart, removeFromCart } from "api/firebase";
-import { useMutation, useQueryClient } from "@tanstack/react-query";
+import useCarts from "hooks/useCarts";
 
 const ICON_CLASS =
   "transition-all cursor-pointer hover:text-red-400 hover:scale-105 mx-1";
@@ -14,31 +13,7 @@ export default function CartItem({
   product: { id, image, title, option, quantity, price },
   uid,
 }) {
-  // addOrUpdateToCart(uid, { ...product, quantity: quantity - 1 }),
-
-  const queryClient = useQueryClient();
-
-  const handleMinus = useMutation({
-    mutationFn: ({ uid, product }) => addOrUpdateToCart(uid, product),
-    onSuccess: () => queryClient.invalidateQueries([`carts/${uid}/${id}`]),
-  });
-  const handlePlus = useMutation({
-    mutationFn: ({ uid, product }) => addOrUpdateToCart(uid, product),
-    onSuccess: () => queryClient.invalidateQueries([`carts/${uid}/${id}`]),
-  });
-
-  const handleDelete = useMutation({
-    mutationFn: ({ uid, id }) => removeFromCart(uid, id),
-    onSuccess: () => queryClient.invalidateQueries([`carts/${uid}/${id}`]),
-  });
-  // const handleMinus = () => {
-  //   if (quantity < 2) return;
-  //   addOrUpdateToCart(uid, { ...product, quantity: quantity - 1 });
-  // };
-  // const handlePlus = () =>
-  //   addOrUpdateToCart(uid, { ...product, quantity: quantity + 1 });
-
-  // const handleDelete = () => removeFromCart(uid, id);
+  const { handleStatus, removeCart } = useCarts({ uid, id });
 
   return (
     <li className="flex justify-between my-2 items-center">
@@ -47,14 +22,14 @@ export default function CartItem({
         <div className="basis-3/5">
           <p className="text-lg">{title}</p>
           <p className="text-xl font-bold text-brand">{option}</p>
-          <p>₩{price}</p>
+          <p>{price}</p>
         </div>
         <div className="text-2xl flex items-center">
           <AiOutlineMinusSquare
             className={ICON_CLASS}
             onClick={() => {
               const updatedProduct = { ...product, quantity: quantity - 1 };
-              handleMinus.mutate({ uid, product: updatedProduct });
+              handleStatus.mutate({ uid, product: updatedProduct });
             }}
           />
           <span>{quantity}</span>
@@ -62,12 +37,12 @@ export default function CartItem({
             className={ICON_CLASS}
             onClick={() => {
               const updateProduct = { ...product, quantity: quantity + 1 };
-              handlePlus.mutate({ uid, product: updateProduct });
+              handleStatus.mutate({ uid, product: updateProduct });
             }}
           />
           <RiDeleteBin5Fill
             className={ICON_CLASS}
-            onClick={() => handleDelete.mutate({ uid, id })}
+            onClick={() => removeCart.mutate({ uid, id })}
           />
         </div>
       </div>
