@@ -47,7 +47,6 @@ async function adminUser(user) {
     .then((snapshot) => {
       if (snapshot.exists()) {
         const admins = snapshot.val();
-        console.log(admins);
         const isAdmin = admins.includes(user.uid);
         return { ...user, isAdmin };
       }
