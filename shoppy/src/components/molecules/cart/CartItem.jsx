@@ -4,6 +4,7 @@ import React from "react";
 import { RiDeleteBin5Fill } from "react-icons/ri";
 import { AiOutlinePlusSquare, AiOutlineMinusSquare } from "react-icons/ai";
 import { addOrUpdateToCart, removeFromCart } from "api/firebase";
+import { useMutation, useQueryClient } from "@tanstack/react-query";
 
 const ICON_CLASS =
   "transition-all cursor-pointer hover:text-red-400 hover:scale-105 mx-1";
@@ -13,14 +14,31 @@ export default function CartItem({
   product: { id, image, title, option, quantity, price },
   uid,
 }) {
-  const handleMinus = () => {
-    if (quantity < 2) return;
-    addOrUpdateToCart(uid, { ...product, quantity: quantity - 1 });
-  };
-  const handlePlus = () =>
-    addOrUpdateToCart(uid, { ...product, quantity: quantity + 1 });
+  // addOrUpdateToCart(uid, { ...product, quantity: quantity - 1 }),
 
-  const handleDelete = () => removeFromCart(uid, id);
+  const queryClient = useQueryClient();
+
+  const handleMinus = useMutation({
+    mutationFn: ({ uid, product }) => addOrUpdateToCart(uid, product),
+    onSuccess: () => queryClient.invalidateQueries([`carts/${uid}/${id}`]),
+  });
+  const handlePlus = useMutation({
+    mutationFn: ({ uid, product }) => addOrUpdateToCart(uid, product),
+    onSuccess: () => queryClient.invalidateQueries([`carts/${uid}/${id}`]),
+  });
+
+  const handleDelete = useMutation({
+    mutationFn: ({ uid, id }) => removeFromCart(uid, id),
+    onSuccess: () => queryClient.invalidateQueries([`carts/${uid}/${id}`]),
+  });
+  // const handleMinus = () => {
+  //   if (quantity < 2) return;
+  //   addOrUpdateToCart(uid, { ...product, quantity: quantity - 1 });
+  // };
+  // const handlePlus = () =>
+  //   addOrUpdateToCart(uid, { ...product, quantity: quantity + 1 });
+
+  // const handleDelete = () => removeFromCart(uid, id);
 
   return (
     <li className="flex justify-between my-2 items-center">
@@ -34,11 +52,23 @@ export default function CartItem({
         <div className="text-2xl flex items-center">
           <AiOutlineMinusSquare
             className={ICON_CLASS}
-            onClick={() => handleMinus()}
+            onClick={() => {
+              const updatedProduct = { ...product, quantity: quantity - 1 };
+              handleMinus.mutate({ uid, product: updatedProduct });
+            }}
           />
           <span>{quantity}</span>
-          <AiOutlinePlusSquare className={ICON_CLASS} onClick={handlePlus} />
-          <RiDeleteBin5Fill className={ICON_CLASS} onClick={handleDelete} />
+          <AiOutlinePlusSquare
+            className={ICON_CLASS}
+            onClick={() => {
+              const updateProduct = { ...product, quantity: quantity + 1 };
+              handlePlus.mutate({ uid, product: updateProduct });
+            }}
+          />
+          <RiDeleteBin5Fill
+            className={ICON_CLASS}
+            onClick={() => handleDelete.mutate({ uid, id })}
+          />
         </div>
       </div>
     </li>
